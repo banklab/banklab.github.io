@@ -3,10 +3,10 @@ layout: default
 title: About us | Theoretical Ecology and Evolution
 permalink: /about/
 ---
+
+A list of people working in the Bank lab and/or associated with it. See also our Uni Bern [contact page](http://www.thee.iee.unibe.ch/about_us/team/) 
+
 # Team
-
-List of people working in the Bank lab and/or associated with it. See also our Uni Bern [contact page](http://www.thee.iee.unibe.ch/about_us/team/) 
-
 <div class="l-team" markdown="1">
 
 ## Claudia Bank
@@ -36,7 +36,7 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 * Contact: lijuan2010big [at] gmail.com
 
 ![](/assets/img/li_juan_320x320.jpg)
-<i>I am interested in speciation and polygenic traits evolution in general. During my PhD, I studied on the genetic basis of mating behavior isolation and how the regulatory duplications evolved in Drosophila melanogaster. Currently, I am working on detecting hybrid incompatibilities in population genomes, and also on the question how standing variation contribute the population adaptation under a sudden selection.</i>
+<i>I am interested in speciation and polygenic traits evolution in general. Currently, I am working on detecting hybrid incompatibilities in population genomes, and also on the question how standing variation contribute the population adaptation under a sudden selection.</i>
 
 ---
 
@@ -56,7 +56,7 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 * Contact: aymorales [at] igc.gulbenkian.pt, [web-site](http://aymorales-arce.com)
 
 ![](/assets/img/ana_morales_320x320.jpg)
-<i>I am use experimental evolution in combination with simulations to understand the adaptation of Influenza A virus  to mutagenic drugs. My research explores the relative roles of different evolutionary processes in shaping pathogen variation and evolution, including progeny skew, infection dynamics, as well as direct and linked selection effects.</i>
+<i>I use experimental evolution in combination with simulations to understand the adaptation of the Influenza A virus to mutagenic drugs. My research explores the relative roles of different evolutionary processes in shaping pathogen variation and evolution, including progeny skew, infection dynamics, as well as direct and linked selection effects.</i>
 
 ---
 
@@ -68,4 +68,88 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 ![](/assets/img/hermina_ghenu_320x320.jpg)
 <i>My general interest is in understanding how evolutionary processes shape genomes. I am particularly fascinated by the selective forces that different environments exert on a given genome. My Ph.D. research integrates fitness landscapes theory with bacterial experimental evolution in order to understand antibiotic resistance across environments.</i>
 
+---
+
+## Marco Louro
+ 
+* PhD student (co-supervised by Mónica Bettencourt Dias)
+* Contact: mlouro [at] igc.gulbenkian.pt
+
+![](/assets/img/marco_louro_320x320.jpg)
+<i>I am studying  the evolution of centrosome numbers in cancer progression and their exact contribution to chromosome missegregation and genomic instability. The centrosome is a central player in cell division, promoting proper chromosome segregation through organization of the mitotic spindle. In cancer, centrosomes are often found in abnormally high numbers.</i>
+
+---
+
+# Associated members
+
+## Massimo Amicone
+ 
+* Associated PhD student ([Gordo lab](http://eao.igc.gulbenkian.pt/EVB/index.html))
+* Contact: mamicone [at] igc.gulbenkian.pt
+
+![](/assets/img/massimo_amicone_320x320.jpg)
+<i>I build gene-based mathematical models that allow us to investigate and quantify the effects of evolutionary changes on microbial community dynamics. The mammalian microbiota represents a complex systems with hundreds of bacterial species that potentially interact with each other and with the host. Its stability and diversity is considered crucial for the host’s health but yet poorly understood.
+</i>
+
 </div>
+
+---
+
+# Lab Alumni
+
+## Lila Fishman 
+
+* Sabbatical Visitor
+* Contact: lila.fishman [@] mso.umt.edu; [web-site](https://www.fishmanlab.org/)
+
+## Alex Wong
+
+* Sabbatical Visitor (2019)
+* Contact: [web-site](https://carleton.ca/eme)
+
+## Dragan Stajic
+
+* Associated postdoctoral fellow (2019)
+
+## Christian Diwo
+
+* Trainee (2019)
+
+## Alexandre Blanckaert
+
+* Postdoc (2016-2019)
+
+## Inês Fragata
+* Postdoc (2016-2019)
+
+## Dinis Seward
+
+* Summer project student (2019)
+
+## Vedanth Sriram
+
+* Summer project student (2019)
+
+## Manuel Fortunato
+
+* Modeling project student (2018)
+
+## Sofia Torres
+
+* Summer project student (2018)
+
+## Emma Berdan
+
+* Visiting postdoc (February/March 2018)
+
+## Andreia Teixeira
+
+* Trainee (2016)
+
+## Mariana Vidal Pinheiro
+
+* Summer project student (2016)
+
+## Telmo Cunha
+
+* Summer project student (2016)

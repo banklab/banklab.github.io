@@ -3,7 +3,7 @@
   padding-left: 0.3em;
   border-bottom: 1px solid $color-gray-67;
 
-  @media screen and (max-width: 40rem) {
+  @media screen and (max-width: 640px) {
     padding-left: 0.1em;
   }
 }
@@ -16,7 +16,7 @@
     padding-left: 0.3em;
     padding-right: 0.1em;
 
-    @media screen and (max-width: 40rem) {
+    @media screen and (max-width: 640px) {
       padding-left: 0.1em;
     }
   }
@@ -54,11 +54,14 @@ li {
   padding-top: 0.5em;
 }
 
+#team {
+  padding-top: 0.67em;
+}
+
 .l-team {
-  padding-top: 2em;
   p {
     display: flex;
-    @media screen and (max-width: 480px) {
+    @media screen and (max-width: 640px) {
       flex-direction: column;
     }
     i {
@@ -71,6 +74,16 @@ li {
       margin: 1em;
       border-radius: 3px;
       box-shadow: -3px 3px 3px rgba(200, 200, 200, 0.9);
+    }
+  }
+}
+
+.l-funding {
+  p {
+    padding-top: 1em;
+    text-align: center;
+    img {
+      width: 260px;
     }
   }
 }
