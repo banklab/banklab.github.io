@@ -34,4 +34,4 @@ J.M. Flynn, A. Rossouw, P.A. Cote-Hammarlof, <u>I. Fragata</u>, D. Mavor, C. Hol
 
 R.S. Ramiro<sup>#</sup>, P. Durão, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Low mutational load allows for high mutation rate variation in gut commensal bacteria.** Plos Biology, doi: 10.1371/journal.pbio.3000617. [link](https://doi.org/10.1371/journal.pbio.3000617) or [preprint](https://doi.org/10.1101/568709)
 
-</div markdown="1">
+</div>
