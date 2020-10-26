@@ -44,6 +44,8 @@ Or download and read the corresponding manuscript first: [A statistical guide to
 
 ## Teaching & Outreach
 
+![](/assets/img/teaching.jpg)
+
 ### Epistasis and fitness landscapes
 
 Fitness landscape simulation for the tutorial at the [ ICTS Workshop Living Matter](https://www.icts.res.in/program/LivingMatter2018). Download the Mathematica notebook here:
@@ -68,6 +70,8 @@ For more information and a pdf of the accompanying lecture see the [website of t
 
 
 ## Media
+
+![](/assets/img/media.jpg)
 
 ### Popular press/News releases
 

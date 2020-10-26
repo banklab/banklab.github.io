@@ -106,6 +106,10 @@
     flex-basis: 92rem;
     flex-direction: column;
 
+    img {
+      width: 100%;
+    }
+
     h1:not(:first-of-type) {
       padding-top: 3rem;
       line-height: 1.2;
