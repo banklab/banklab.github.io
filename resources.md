@@ -5,14 +5,14 @@ permalink: /resources/
 ---
 # Resources
 
-## Tools
-
-* [empiricIST GitHub repository](https://github.com/Matu2083/empiricIST)
-* [Interactive DMI web app](https://evoldynamics.gitlab.io/dmi-js/model.html)
-* [Optimize high-throughput bulk competitions](https://evoldynamics.gitlab.io/dmi-js/model.html)
-* [Website for our google docs bookmarklet](https://evoldynamics.gitlab.io/bookmarklets/)
+* [Tools](#tools)
+* [Teaching & Outreach](#teaching--outreach)
+* [Media](#media)
+* [Links](#links)
 
 ---
+
+## Tools
 
 ### empiricIST: a software that allows for accurate estimation of selection coefficients and credibility intervals from bulk competitions
 
