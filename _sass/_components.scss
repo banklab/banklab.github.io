@@ -1,0 +1,155 @@
+.c-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 99vh;
+  background-color: $color-almost-white;
+  font-size: 1.6rem;
+}
+
+.c-header {
+  width: 100%;
+  align-self: center;
+  background-image: url("/assets/img/home-bg@2x.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 0 1 42rem;
+  color: $color-almost-white;
+
+  @media screen and (max-width: 80rem) {
+    background-image: url("/assets/img/home-bg@1x.jpg");
+    flex: 0 1 32rem;
+  }
+
+  &__textbox {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    text-align: center;
+    text-shadow: 0.2rem 0.2rem 1rem $color-primary-dark;
+    color: $color-almost-white;
+    padding: 1em;
+    background: $color-primary-dark;
+    opacity: .75;
+
+    @media screen and (max-width: 50rem) {
+      text-shadow: 0.2rem 0.2rem 0.5rem hsl(0, 50%, 15%);
+      padding: 0 1rem;
+    }
+  }
+}
+
+.c-nav {
+  font-family: $font-sans;
+  width: 100%;
+  // min-height: 4.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: $color-primary;
+
+  &__container {
+    width: 98rem;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0.8rem 3rem;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    @media screen and (max-width: 30rem) {
+      padding: 0.8rem 1.5rem;
+    }
+  }
+
+  &__items {
+    display: flex;
+    flex-direction: row;
+    flex-basis: 100%;
+    justify-content: space-evenly;
+    & > a {
+      padding-right: 2rem;
+    }
+    @media screen and (max-width: 30rem) {
+      padding-left: 2px;
+    }
+  }
+
+  &__link {
+    transition: all 0.2s;
+
+    &:hover {
+      color: $color-complement-lightest;
+    }
+  }
+}
+
+.c-card {
+  padding: 3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 1.75rem;
+
+  @media screen and (max-width: 40rem) {
+    padding: 1.5rem;
+  }
+
+  &__items {
+    display: flex;
+    flex-basis: 92rem;
+    flex-direction: column;
+
+    h1:not(:first-of-type) {
+      padding-top: 3rem;
+      line-height: 1.2;
+    }
+
+    h2 {
+      padding-top: 2rem;
+      line-height: 1.2;
+    }
+
+    h3 {
+      padding-top: 1.5rem;
+    }
+
+    p {
+      margin-top: 1.5rem;
+    }
+
+    a:link,
+    a:visited {
+      color: $color-primary-dark;
+      font-weight: 600;
+      padding: 0 0.2rem;
+      border-bottom: 1px dotted $color-gray-67;
+      transition: all 0.2s ease-out;
+
+      &.l-big-button {
+        display: inline-block;
+        background: $color-primary-dark;
+        color: $color-almost-white;
+        padding: 1em;
+        box-shadow: 2px 2px $color-gray-50;
+      }
+    }
+
+    a[href^="http"] {
+      font-weight: 300;
+    }
+
+    a:hover,
+    a:focus {
+      background-color: $color-primary-dark;
+      color: $color-almost-white;
+      &.l-big-button {
+        background: $color-primary;
+      }
+    }
+
+  }
+}

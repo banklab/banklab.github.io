@@ -1,0 +1,58 @@
+// COLOR VARIABLES
+$color-primary-darkest: hsl(184, 78%, 10%);
+$color-primary-dark: hsl(184, 57%, 19%);
+$color-primary: hsl(184, 43%, 28%);
+$color-primary-light: hsl(184, 32%, 37%);
+$color-primary-lightest: hsl(184, 20%, 50%);
+
+$color-secondary-darkest: hsl(34, 97%, 14%);
+$color-secondary-dark: hsl(34, 69%, 26%);
+$color-secondary: hsl(34, 50%, 40%);
+$color-secondary-light: hsl(34, 42%, 53%);
+$color-secondary-lightest: hsl(34, 63%, 73%);
+
+$color-tertiary-darkest: hsl(334, 97%, 14%);
+$color-tertiary-dark: hsl(334, 69%, 26%);
+$color-tertiary: hsl(334, 50%, 40%);
+$color-tertiary-light: hsl(334, 42%, 53%);
+$color-tertiary-lightest: hsl(334, 63%, 73%);
+
+$color-complement-darkest: hsl(4, 97%, 14%);
+$color-complement-dark: hsl(4, 69%, 26%);
+$color-complement: hsl(4, 50%, 40%);
+$color-complement-light: hsl(4, 42%, 53%);
+$color-complement-lightest: hsl(4, 63%, 73%);
+
+$color-almost-white: hsl(0, 0%, 99%);
+$color-gray-95: hsl(0, 0%, 90%);
+$color-gray-90: hsl(0, 0%, 90%);
+$color-gray-67: hsl(0, 0%, 67%);
+$color-gray-50: hsl(0, 0%, 50%);
+$color-gray-33: hsl(0, 0%, 33%);
+$color-almost-black: hsl(0, 0%, 15%);
+
+$color-code-bg: hsl(47, 15%, 96%);
+$color-code-inline: hsl(327, 80%, 33%);
+
+// FONT VARIABLES
+$font-sans: Muli, sans-serif;
+$font-serif: Georgia, serif;
+$font-mono: Consolas, Monaco, monospace;
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; // 10px/16px = 62.5% -> 1rem = 10px
+  color: $color-almost-black;
+
+  @media screen and (max-height: 42rem), screen and (max-width: 30rem) {
+    font-size: 50%;
+  }
+}

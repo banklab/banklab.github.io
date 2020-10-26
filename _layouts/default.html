@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+
+<body>
+  <div class="c-page">
+    <header class="c-header">
+      {% include navigation.html %}
+      <div class="c-header__textbox">
+        <h1 class="c-header__heading">Theoretical Ecology and Evolution</h1>
+        <h2 class="c-header__subheading">The Bank lab @ Universität Bern & the Gulbenkian Institute</h2>
+      </div>
+    </header>
+    <main class="c-card">
+      <div class="c-card__items">
+        {{ content }}
+      </div>
+    </main>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+- name: News
+  link: /
+- name: Research
+  link: /research/
+- name: Publications
+  link: /publications/
+- name: Resources
+  link: /resources/
+- name: About
+  link: /about/

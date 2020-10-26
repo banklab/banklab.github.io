@@ -1,0 +1,55 @@
+.table__news > thead th {
+  text-align: left;
+  padding-left: 0.3em;
+  border-bottom: 1px solid $color-gray-67;
+
+  @media screen and (max-width: 40rem) {
+    padding-left: 0.1em;
+  }
+}
+
+.table__news > tbody {
+  tr:nth-of-type(even) {
+    background: $color-gray-95;
+  }
+  td {
+    padding-left: 0.3em;
+    padding-right: 0.1em;
+
+    @media screen and (max-width: 40rem) {
+      padding-left: 0.1em;
+    }
+  }
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 1em;
+  margin-top: 0.33em;
+
+  // @media screen and (max-height: 42rem), screen and (max-width: 26rem) {
+  ul {
+    margin-left: 0.5em;
+  }
+  // }
+}
+
+li {
+  padding-left: 0.25rem;
+  margin-left: 1rem;
+  position: relative;
+
+  @media screen and (max-height: 42rem), screen and (max-width: 30rem) {
+    margin-left: 0;
+  }
+}
+
+.p__notes {
+  font-size: .9em;
+  color: $color-gray-50;;
+}
+
+.l-publications > p {
+  border-top: 1px dotted $color-gray-50;
+  padding-top: .5em;
+}
