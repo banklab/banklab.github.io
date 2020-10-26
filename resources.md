@@ -24,7 +24,7 @@ Also check out our manuscript on [The fitness landscape of the codon space acros
 
 ## Teaching & Outreach
 
-* [fintess-landscape-simulation](/assets/download/fintess-landscape-simulation.nb)
+* [fintess-landscape-simulation](/assets/download/fintess-landscape-simulation.nb) (37 KB [Mathematica](https://www.wolfram.com/mathematica/) notebook - text format)
 
 ## Media
 

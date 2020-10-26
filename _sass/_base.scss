@@ -35,7 +35,7 @@ $color-code-bg: hsl(47, 15%, 96%);
 $color-code-inline: hsl(327, 80%, 33%);
 
 // FONT VARIABLES
-$font-sans: Muli, sans-serif;
+$font-sans: Mulish, Muli, sans-serif;
 $font-serif: Georgia, serif;
 $font-mono: Consolas, Monaco, monospace;
 
@@ -52,7 +52,7 @@ html {
   font-size: 62.5%; // 10px/16px = 62.5% -> 1rem = 10px
   color: $color-almost-black;
 
-  @media screen and (max-height: 42rem), screen and (max-width: 30rem) {
+  @media screen and (max-width: 375px) {
     font-size: 50%;
   }
 }
