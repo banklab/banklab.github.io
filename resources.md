@@ -14,7 +14,7 @@ permalink: /resources/
 
 ## Teaching
 
-![](/assets/img/teaching.jpg)
+![Grayscale photo of a curved hallway in a library](/assets/img/teaching.jpg)
 
 ### Studies
 
@@ -32,7 +32,7 @@ A recording of the two accompanying lectures is available on the [website of the
 
 ## Tools
 
-![](/assets/img/tools.jpg)
+![Cropped grayscale image of an abacus](/assets/img/tools.jpg)
 
 ### empiricIST: a software that allows for accurate estimation of selection coefficients and credibility intervals from bulk competitions
 
@@ -77,7 +77,7 @@ For more information and a pdf of the accompanying lecture see the [website of t
 
 ## Media
 
-![](/assets/img/media.jpg)
+![Grayscale photo showing a 35 mm film roll for analog cameras](/assets/img/media.jpg)
 
 ### Popular press/News releases
 
@@ -101,16 +101,16 @@ For more information and a pdf of the accompanying lecture see the [website of t
 
 <div class="layout-funding" markdown="1">
 
-![](/assets/img/logos/erc-logo-0.png)<br>
+![ERC logo](/assets/img/logos/erc-logo-0.png)<br>
 [European Research Council](https://erc.europa.eu/)
 
-![](/assets/img/logos/embo-logo.jpg)<br>
+![EMBO logo](/assets/img/logos/embo-logo.jpg)<br>
 [European Molecular Biology Organization](https://www.embo.org/)
 
-![](/assets/img/logos/fct-logo.jpg)<br>
+![FCT logo](/assets/img/logos/fct-logo.jpg)<br>
 [Portuguese Science Foundation](http://www.fct.pt/)
 
-![](/assets/img/logos/fcg-logo.jpg)<br>
+![FCG logo](/assets/img/logos/fcg-logo.jpg)<br>
 [Gulbenkian Foundation](https://gulbenkian.pt/)
 
 </div>
@@ -136,3 +136,12 @@ For more information and a pdf of the accompanying lecture see the [website of t
 * [Kavli Institute for Theoretical Physics](https://www.kitp.ucsb.edu/)
 * [Simons Institute for the Theory of Computing](http://simons.berkeley.edu/)
 * [Vienna Graduate School of Population Genetics](http://www.popgen-vienna.at/)
+
+### Attributions for images used
+
+* Teaching
+  * [https://unsplash.com/photos/V75YEqJp4pE](https://unsplash.com/photos/V75YEqJp4pE) from [@martinadams](https://unsplash.com/@martinadams)
+* Tools
+  * [https://unsplash.com/photos/gdL-UZfnD3I](https://unsplash.com/photos/gdL-UZfnD3I) from [@crissyjarvis](https://unsplash.com/@crissyjarvis)
+* Media
+  * [https://unsplash.com/photos/hRFg71vYTVk](https://unsplash.com/photos/hRFg71vYTVk) from [@markusspiske](https://unsplash.com/@markusspiske)
