@@ -3,7 +3,7 @@ layout: default
 title: Readme of the git repository for the web-site of Theoretical Ecology and Evolution
 ---
 
-# Sources for the lab [web-site of Claudia Bank's lab](https://banklab.github.io)
+# [Sources](https://github.com/banklab/banklab.github.io) for the lab [web-site of Claudia Bank's lab](https://banklab.github.io)
 
 Most content is in the form of [kramdown](https://kramdown.gettalong.org/syntax.html), an extended markdown dialect. These markdown documents are converted to [HTML](https://eloquentjavascript.net/13_browser.html#h_n3OM6EV/KR) by [Jekyll](https://jekyllrb.com/).
 
