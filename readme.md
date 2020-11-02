@@ -26,6 +26,19 @@ Used in `resources.md` → [/resources](/resources) for
 
 # To-do
 
+## Import into the final repo `github.com/banklab/banklab.github.io`
+
+As user `banklab`, login to github.com and then use this link [import project](https://github.com/new/import) and the following settings:
+
+> Your old repository’s clone URL:  
+`https://github.com/evoldyn/evoldyn.github.io.git`
+
+> Your new repository details:
+Owner/__Repository Name__  
+banklab/`banklab.github.io`
+
+![screen shot showing the import settings](/assets/img/misc/banklab.github.io_import.png)
+
 Migrate domain from Wordpress (to Another Registrar) or have it point at new homepage
 
 * [https://wordpress.com/support/move-domain/transfer-domain-registration/](https://wordpress.com/support/move-domain/transfer-domain-registration/)

@@ -149,7 +149,7 @@ code {
   font-weight: 400;
   color: $color-code-inline;
   background: $color-code-bg;
-  padding: .2em .25em;
+  padding: 0.2em 0.25em;
 }
 
 ul {
@@ -171,5 +171,15 @@ li {
 
   @media screen and (max-height: 672px), screen and (max-width: 480px) {
     margin-left: 0;
+  }
+}
+
+blockquote {
+  background: $color-gray-95;
+  border-left: 4px solid $color-gray-67;
+  padding-left: 2em;
+  p {
+    font-style: italic;
+    margin: 1em auto;
   }
 }
