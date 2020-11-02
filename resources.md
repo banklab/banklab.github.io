@@ -5,14 +5,34 @@ permalink: /resources/
 ---
 # Resources
 
+* [Teaching](#teaching)
 * [Tools](#tools)
-* [Teaching & Outreach](#teaching--outreach)
 * [Media](#media)
 * [Links](#links)
 
 ---
 
+## Teaching
+
+![](/assets/img/teaching.jpg)
+
+### Studies
+
+For the Study programs of the Uni Bern see the [Studies section](http://www.thee.iee.unibe.ch/studies/index_eng.html) on [our Uni Bern web-site](http://www.thee.iee.unibe.ch/).
+
+### Epistasis and fitness landscapes
+
+Fitness landscape simulation for the tutorial at the [ ICTS Workshop Living Matter](https://www.icts.res.in/program/LivingMatter2018). Download the Mathematica notebook here:
+
+* [adaptation on a fitness landscape](/assets/download/fintess-landscape-simulation.nb) [37 KB [Mathematica](https://www.wolfram.com/mathematica/) notebook - text format]
+
+A recording of the two accompanying lectures is available on the [website of the workshop](https://www.icts.res.in/program/LivingMatter2018).
+
+---
+
 ## Tools
+
+![](/assets/img/tools.jpg)
 
 ### empiricIST: a software that allows for accurate estimation of selection coefficients and credibility intervals from bulk competitions
 
@@ -39,20 +59,6 @@ Go directly to the tool by clicking below:
 [Optimize high-throughput bulk competitions](http://evd.igc.gulbenkian.pt/companion/visualize_page.html){:.l-big-button}
 
 Or download and read the corresponding manuscript first: [A statistical guide to the design of deep mutational scanning experiments](http://www.genetics.org/content/early/2016/07/11/genetics.116.190462) – also available as [free preprint](http://biorxiv.org/content/early/2016/06/29/048892).
-
----
-
-## Teaching & Outreach
-
-![](/assets/img/teaching.jpg)
-
-### Epistasis and fitness landscapes
-
-Fitness landscape simulation for the tutorial at the [ ICTS Workshop Living Matter](https://www.icts.res.in/program/LivingMatter2018). Download the Mathematica notebook here:
-
-* [adaptation on a fitness landscape](/assets/download/fintess-landscape-simulation.nb) [37 KB [Mathematica](https://www.wolfram.com/mathematica/) notebook - text format]
-
-A recording of the two accompanying lectures is available on the [website of the workshop](https://www.icts.res.in/program/LivingMatter2018).
 
 ---
 
@@ -93,7 +99,7 @@ For more information and a pdf of the accompanying lecture see the [website of t
 
 ### Funding
 
-<div class="l-funding" markdown="1">
+<div class="layout-funding" markdown="1">
 
 ![](/assets/img/logos/erc-logo-0.png)<br>
 [European Research Council](https://erc.europa.eu/)

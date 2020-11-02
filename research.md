@@ -23,7 +23,3 @@ Based on the theory of mutational meltdown, we model different mechanisms of ada
 ---
 
 See also: our [publications](/publications) and [resources](/resources)
-
-# Studies
-
-For the Study programs of the Uni Bern see the [Studies section](http://www.thee.iee.unibe.ch/studies/index_eng.html) on [our Uni Bern web-site](http://www.thee.iee.unibe.ch/).
