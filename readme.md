@@ -3,7 +3,7 @@ layout: default
 title: Readme of the git repository for the web-site of Theoretical Ecology and Evolution
 ---
 
-# Sources for the lab [web-site of Claudia Bank's lab](/)
+# Sources for the lab [web-site of Claudia Bank's lab](https://banklab.github.io)
 
 Most content is in the form of [kramdown](https://kramdown.gettalong.org/syntax.html), an extended markdown dialect. These markdown documents are converted to [HTML](https://eloquentjavascript.net/13_browser.html#h_n3OM6EV/KR) by [Jekyll](https://jekyllrb.com/).
 
@@ -39,7 +39,11 @@ banklab/`banklab.github.io`
 
 ![screen shot showing the import settings](/assets/img/misc/banklab.github.io_import.png)
 
-Migrate domain from Wordpress (to Another Registrar) or have it point at new homepage
+When the import is finished you should find the new repo at [https://github.com/banklab/banklab.github.io](https://github.com/banklab/banklab.github.io) and the web-site at [https://banklab.github.io](https://banklab.github.io)
+
+---
+
+## Migrate domain from Wordpress (to Another Registrar) or have it point at new homepage
 
 * [https://wordpress.com/support/move-domain/transfer-domain-registration/](https://wordpress.com/support/move-domain/transfer-domain-registration/)
 * [https://www.namecheap.com/domains/transfer/](https://www.namecheap.com/domains/transfer/) (.org $14.98 / year)
