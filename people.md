@@ -118,9 +118,17 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 
 # Lab Alumni
 
+## Mark Schmitz
+
+* Data/Lab-manager (2020)
+
+## Lucy Lansch-Justen
+
+* Summer project student (2020)
+
 ## Lila Fishman 
 
-* Sabbatical Visitor
+* Sabbatical Visitor (2020)
 * Contact: lila.fishman [@] mso.umt.edu; [web-site](https://www.fishmanlab.org/)
 
 ## Alex Wong
