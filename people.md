@@ -61,6 +61,16 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 
 ---
 
+## Loic Marrec
+ 
+* Postdoctoral fellow
+* Contact: loic.marrec [at] iee.unibe.ch
+
+![Photo of Ana Y. Loic Marrec](/assets/img/team/loic_marrec_320x320.jpg)
+<i>I'm excited to get started in the Division of Theoretical Ecology and Evolution where I will study various aspects of evolutionary processes. I will mainly focus on evolutionary rescue mechanisms using analytical methods and stochastic simulations.</i>
+
+---
+
 ## Ana-Hermina Ghenu
 
 * PhD student (co-supervised by Isabel Gordo)
@@ -78,6 +88,16 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 
 ![Photo of Marco Louro](/assets/img/team/marco_louro_320x320.jpg)
 <i>I am studying  the evolution of centrosome numbers in cancer progression and their exact contribution to chromosome missegregation and genomic instability. The centrosome is a central player in cell division, promoting proper chromosome segregation through organization of the mitotic spindle. In cancer, centrosomes are often found in abnormally high numbers.</i>
+
+---
+
+## Adamandia Kapopoulou
+
+* Bioinformatician
+* Contact: adamantia.kapopoulou [at] iee.unibe.ch
+
+![Photo of Adamandia Kapopoulou](/assets/img/team/adamandia_kapopoulou_320x320.jpg)
+<i>My background is both genetics and bioinformatics, and I am interested about genomics in general. In the past, I have been working mainly with NGS datasets focusing on cancer genomics, epigenetics, demography, and the evolution of transcription factors and endogenous retroviruses. I am currently working on human Ancient DNA and population genetics of bacterial communities.</i>
 
 ---
 
