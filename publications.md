@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 # Publications
 
-Please [email](https://evoldynamics.org/contact/) us for pdf copies of lab papers hidden behind a paywall.
+Please [email](/people/) us for pdf copies of lab papers hidden behind a paywall.
 
 This list shows publications of lab members during their time in the lab. For additional publications of individual lab members, see their personal pages.
 

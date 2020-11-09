@@ -26,11 +26,14 @@ Used in `resources.md` → [resources/](resources/) for
 
 # To-do
 
-## Migrate domain from Wordpress (to Another Registrar) or have Wordpress point at new homepage
+## Before taking https://evoldynamics.org off the web update links in publications
+
+The page `publications.md` [publications/](publications/) still uses links to e.g. article summaries hosted on [https://evoldynamics.org](https://evoldynamics.org) – either change the links to `https://web.archive.org/https://evoldynamics.org/` or migrate web-pages.
+
+## Migrate domain from Wordpress (to another registrar) or configure wordpress.com to point at new homepage
 
 * [https://wordpress.com/support/move-domain/transfer-domain-registration/](https://wordpress.com/support/move-domain/transfer-domain-registration/)
 * [https://www.namecheap.com/domains/transfer/](https://www.namecheap.com/domains/transfer/) (.org $14.98 / year)
 * [https://www.inwx.de/en/org-domain](https://www.inwx.de/en/org-domain) (.org 11.91 € / year)
 
 ---
-
