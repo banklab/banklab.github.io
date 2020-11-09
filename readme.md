@@ -15,7 +15,7 @@ Navigation is setup as a [basic list](https://jekyllrb.com/tutorials/navigation/
 
 ## Images
 
-Used in `resources.md` → [/resources](/resources) for
+Used in `resources.md` → [resources/](resources/) for
 
 * Teaching
   * [https://unsplash.com/photos/V75YEqJp4pE](https://unsplash.com/photos/V75YEqJp4pE) from [@martinadams](https://unsplash.com/@martinadams)
@@ -26,24 +26,7 @@ Used in `resources.md` → [/resources](/resources) for
 
 # To-do
 
-## Import into the final repo `github.com/banklab/banklab.github.io`
-
-As user `banklab`, login to github.com and then use this link [import project](https://github.com/new/import) and the following settings:
-
-> Your old repository’s clone URL:  
-`https://github.com/evoldyn/evoldyn.github.io.git`
-
-> Your new repository details:
-Owner/__Repository Name__  
-banklab/`banklab.github.io`
-
-![screen shot showing the import settings](/assets/img/misc/banklab.github.io_import.png)
-
-When the import is finished you should find the new repo at [https://github.com/banklab/banklab.github.io](https://github.com/banklab/banklab.github.io) and the web-site at [https://banklab.github.io](https://banklab.github.io)
-
----
-
-## Migrate domain from Wordpress (to Another Registrar) or have it point at new homepage
+## Migrate domain from Wordpress (to Another Registrar) or have Wordpress point at new homepage
 
 * [https://wordpress.com/support/move-domain/transfer-domain-registration/](https://wordpress.com/support/move-domain/transfer-domain-registration/)
 * [https://www.namecheap.com/domains/transfer/](https://www.namecheap.com/domains/transfer/) (.org $14.98 / year)
