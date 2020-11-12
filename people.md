@@ -109,8 +109,7 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 * Contact: mamicone [at] igc.gulbenkian.pt
 
 ![Photo of Massimo Amicone](/assets/img/team/massimo_amicone_320x320.jpg)
-<i>I build gene-based mathematical models that allow us to investigate and quantify the effects of evolutionary changes on microbial community dynamics. The mammalian microbiota represents a complex systems with hundreds of bacterial species that potentially interact with each other and with the host. Its stability and diversity is considered crucial for the host’s health but yet poorly understood.
-</i>
+<i>I’m generally interested in the interplay between ecological and evolutionary processes. My current goal is to understand how eco-evolutionary dynamics can shape the diversity of microbial communities. Inspired by empirical observations, I build ecology-driven models of adaptation to generate new hypotheses regarding the evolution of bacteria within the gut microbiota and to answer general questions about biodiversity.</i>
 
 </div>
 
