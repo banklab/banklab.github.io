@@ -67,7 +67,7 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 * Contact: loic.marrec [at] iee.unibe.ch
 
 ![Photo of Ana Y. Loïc Marrec](/assets/img/team/loic_marrec_320x320.jpg)
-<i>I'm excited to get started in the Division of Theoretical Ecology and Evolution where I will study various aspects of evolutionary processes. I will mainly focus on evolutionary rescue mechanisms using analytical methods and stochastic simulations.</i>
+<i>My general interest is in theoretical evolution and population genetics. My aim is to understand how evolutionary and ecological dynamics shape microbial communities. More specifically, I study the biodiversity and stability of these communities using analytical methods and stochastic simulations, as well as data.</i>
 
 ---
 
