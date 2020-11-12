@@ -61,12 +61,12 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 
 ---
 
-## Loic Marrec
+## Loïc Marrec
  
 * Postdoctoral fellow
 * Contact: loic.marrec [at] iee.unibe.ch
 
-![Photo of Ana Y. Loic Marrec](/assets/img/team/loic_marrec_320x320.jpg)
+![Photo of Ana Y. Loïc Marrec](/assets/img/team/loic_marrec_320x320.jpg)
 <i>I'm excited to get started in the Division of Theoretical Ecology and Evolution where I will study various aspects of evolutionary processes. I will mainly focus on evolutionary rescue mechanisms using analytical methods and stochastic simulations.</i>
 
 ---
@@ -74,7 +74,7 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 ## Ana-Hermina Ghenu
 
 * PhD student (co-supervised by Isabel Gordo)
-* Contact: hermina.ghenu [at] gmail.com
+* Contact: ahghenu [at] igc.gulbenkian.pt
 
 ![Photo of Ana-Hermina Ghenu](/assets/img/team/hermina_ghenu_320x320.jpg)
 <i>My general interest is in understanding how evolutionary processes shape genomes. I am particularly fascinated by the selective forces that different environments exert on a given genome. My Ph.D. research integrates fitness landscapes theory with bacterial experimental evolution in order to understand antibiotic resistance across environments.</i>
