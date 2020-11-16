@@ -87,7 +87,7 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 * Contact: mlouro [at] igc.gulbenkian.pt
 
 ![Photo of Marco Louro](/assets/img/team/marco_louro_320x320.jpg)
-<i>My main research interest in the understanding cell biology in light of evolutionary principles. For my PhD, I am studying how the number of tiny subcellular structures called centrioles evolves during cancer development. Surprisingly, cancer cells have unusually high but widely variable numbers of centrioles. In fact, the presence of extra centrioles may be sufficient to induce cancer development, despite being deleterious. Therefore, my goal is to quantify: (1) how the diversity centriole numbers in cancer cell populations is generated; (2) the effect of extra centrioles in somatic cell evolution during cancer development - specifically, to understand if there are conditions in which the presence of extra centrioles can be advantageous during tumourigenesis.</i>
+<i>My main research interests are evolution and cell biology. For my PhD, I am studying how the number of tiny subcellular structures called centrioles evolves during cancer development. Specifically, I want to understand how centriole number heterogeneity in cancer cells is generated, and what are its consequences for somatic cell evolution.</i>
 
 ---
 
