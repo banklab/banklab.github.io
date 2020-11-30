@@ -16,7 +16,11 @@ In the Division of Theoretical Ecology and Evolution, we use theoretical and sta
 Date | Event 
 ---  | ---
 24.11.2020 | Claudia supervises the research practical [Theoretical ecology and evolution](https://www.ksl.unibe.ch/KSL/kurzansicht?3&stammNr=465990&semester=HS2020&lfdNr=0)
+15.11.2020 | Farewell to Mark
+01.11.2020 | Welcome to Loïc ! Willkommen
 12.10.2020 | Claudia co-teaches [Scientific methods in ecology and evolution](https://www.ksl.unibe.ch/KSL/kurzansicht?&stammNr=402777&semester=HS2020&lfdNr=0)
+01.10.2020 | Welcome to Mado ! Willkommen
+01.10.2020 | Claudia moves to University of Bern, Switzerland
 {:.table__news}
 
 {::comment}
