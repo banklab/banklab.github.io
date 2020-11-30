@@ -24,13 +24,13 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>C. Bank</u>. **Defining Theories in Evolution.** Trends in Ecology & Evolution, doi: 10.1016/j.tree.2020.05.009 (A book review of [The Theory of Evolution: Principles, Concepts, and Assumptions.](https://press.uchicago.edu/ucp/books/book/chicago/T/bo45713136.html)) [link](https://doi.org/10.1016/j.tree.2020.05.009) or [pdf](/assets/download/Defining_theories_in_evolution.pdf)
 
-<u>C. Bank</u>. **Reconciling the upsides and downsides of migration for evolutionary rescue.** Peer Community in Evolutionary Biology, doi: 10.24072/pci.evolbiol.100098 (A preprint recommendation of [Tomasini et al., 2020, bioRxiv](https://doi.org/10.1101/622142).) [link](https://doi.org/10.24072/pci.evolbiol.100098)
+<u>C. Bank</u>. **Reconciling the upsides and downsides of migration for evolutionary rescue.** Peer Community in Evolutionary Biology, doi: 10.24072/pci.evolbiol.100098 (A preprint recommendation of [Tomasini et al., 2020, Evolution](https://doi.org/10.1111/evo.14038).) [link](https://doi.org/10.24072/pci.evolbiol.100098)
 
 <u>D. Stajic</u>, and <u>C. Bank</u>. **Evolutionary consequences of epigenetically induced phenotypic switching.** EcoEvoRxiv, doi: 10.32942/osf.io/6yf4u [preprint](https://ecoevorxiv.org/6yf4u/)
 
 <u>M.A.D. Louro</u>, Mónica Bettencourt-Dias, and <u>C. Bank</u>. **Patterns of selection against centrosome amplification in human cell lines.** bioRxiv, doi: 10.1101/2020.01.24.918615 [preprint](https://doi.org/10.1101/2020.01.24.918615)
 
-<u>A. Blanckaert</u>, <u>C. Bank</u>, and J. Hermisson. **The limits to parapatric speciation III: Fast reproductive isolation in the presence of gene flow despite limited ecological differentiation.** bioRxiv, doi: 10.1101/2020.02.19.956292. [preprint](https://doi.org/10.1101/2020.02.19.956292)
+<u>A. Blanckaert</u>, <u>C. Bank</u>, and J. Hermisson. **The limits to parapatric speciation III: Fast reproductive isolation in the presence of gene flow despite limited ecological differentiation.** Philosophical Transactions of The Royal Society B, doi: 10.1101/2020.02.19.956292. (https://doi.org/10.1098/rstb.2019.0532)
 
 J.M. Flynn, A. Rossouw, P.A. Cote-Hammarlof, <u>I. Fragata</u>, D. Mavor, C. Hollins III, <u>C. Bank</u>, and D.N.A. Bolon. **Comprehensive fitness maps of Hsp90 show widespread environmental dependence.** eLife, doi: 10.7554/eLife.53810 [link](https://doi.org/10.7554/eLife.53810) or [preprint](https://www.biorxiv.org/content/10.1101/823468v2)
 
