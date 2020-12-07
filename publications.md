@@ -30,16 +30,16 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>M.A.D. Louro</u>, Mónica Bettencourt-Dias, and <u>C. Bank</u>. **Patterns of selection against centrosome amplification in human cell lines.** bioRxiv, doi: 10.1101/2020.01.24.918615 [preprint](https://doi.org/10.1101/2020.01.24.918615)
 
-<u>A. Blanckaert</u>, <u>C. Bank</u>, and J. Hermisson. **The limits to parapatric speciation III: Fast reproductive isolation in the presence of gene flow despite limited ecological differentiation.** Philosophical Transactions of The Royal Society B, doi: 10.1101/2020.02.19.956292. (https://doi.org/10.1098/rstb.2019.0532)
+<u>A. Blanckaert</u>, <u>C. Bank</u>, and J. Hermisson. **The limits to parapatric speciation III: Fast reproductive isolation in the presence of gene flow despite limited ecological differentiation.** Philosophical Transactions of The Royal Society B, [link](https://doi.org/10.1098/rstb.2019.0532)
 
-J.M. Flynn, A. Rossouw, P.A. Cote-Hammarlof, <u>I. Fragata</u>, D. Mavor, C. Hollins III, <u>C. Bank</u>, and D.N.A. Bolon. **Comprehensive fitness maps of Hsp90 show widespread environmental dependence.** eLife, doi: 10.7554/eLife.53810 [link](https://doi.org/10.7554/eLife.53810) or [preprint](https://www.biorxiv.org/content/10.1101/823468v2)
+J.M. Flynn, A. Rossouw, P.A. Cote-Hammarlof, <u>I. Fragata</u>, D. Mavor, C. Hollins III, <u>C. Bank</u>, and D.N.A. Bolon. **Comprehensive fitness maps of Hsp90 show widespread environmental dependence.** eLife, [link](https://doi.org/10.7554/eLife.53810) or [preprint](https://www.biorxiv.org/content/10.1101/823468v2)
 
 R.S. Ramiro<sup>#</sup>, P. Durão, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Low mutational load allows for high mutation rate variation in gut commensal bacteria.** Plos Biology, doi: 10.1371/journal.pbio.3000617. [link](https://doi.org/10.1371/journal.pbio.3000617) or [preprint](https://doi.org/10.1101/568709)
 
+P.A. Cote-Hammarlof<sup>*</sup>, <u>I. Fragata</u><sup>*</sup>, J.M. Flynn, K.B. Zeldovich, <u>C. Bank</u><sup>#</sup>, and D.N.A. Bolon<sup>#</sup>. **The Adaptive Potential of the Middle Domain of Yeast Hsp90.** Molecular Biology and Evolution, [link](https://doi.org/10.1093/molbev/msaa211) or [preprint](https://www.biorxiv.org/content/10.1101/832022v1)
+
 
 ## 2019
-
-P.A. Cote-Hammarlof<sup>*</sup>, <u>I. Fragata</u><sup>*</sup>, J.M. Flynn, K.B. Zeldovich, <u>C. Bank</u><sup>#</sup>, and D.N.A. Bolon<sup>#</sup>. **The adaptive potential of the M-domain of yeast Hsp90.** bioRxiv, doi: 10.1101/832022 [preprint](https://www.biorxiv.org/content/10.1101/832022v1)
 
 E. Berdan<sup>*#</sup>, <u>A. Blanckaert</u><sup>*#</sup>, R.K. Butlin, and <u>C. Bank</u>. **Muller’s ratchet and the long-term fate of chromosomal inversions.** bioRxiv, doi: 10.1101/606012 [preprint](https://www.biorxiv.org/content/10.1101/606012v1)
 
