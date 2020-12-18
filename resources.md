@@ -48,7 +48,7 @@ Also check out our manuscript on [The fitness landscape of the codon space acros
 
 Go directly to the tool by clicking below:
 
-[empiricIST GitHub repository](https://github.com/Matu2083/empiricIST){:.l-big-button}
+[Interactive DMI web app](https://evoldynamics.gitlab.io/dmi-js/model.html){:.l-big-button}
 
 ---
 
