@@ -30,7 +30,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>M.A.D. Louro</u>, Mónica Bettencourt-Dias, and <u>C. Bank</u>. **Patterns of selection against centrosome amplification in human cell lines.** bioRxiv, doi: 10.1101/2020.01.24.918615 [preprint](https://doi.org/10.1101/2020.01.24.918615)
 
-<u>A. Blanckaert</u>, <u>C. Bank</u>, and J. Hermisson. **The limits to parapatric speciation III: Fast reproductive isolation in the presence of gene flow despite limited ecological differentiation.** Philosophical Transactions of The Royal Society B, [link](https://doi.org/10.1098/rstb.2019.0532)
+<u>A. Blanckaert</u>, <u>C. Bank</u>, and J. Hermisson. **The limits to parapatric speciation III: Fast reproductive isolation in the presence of gene flow despite limited ecological differentiation.** Philosophical Transactions of The Royal Society B, doi: 10.1098/rstb.2019.0532 [link](https://doi.org/10.1098/rstb.2019.0532)
 
 J.M. Flynn, A. Rossouw, P.A. Cote-Hammarlof, <u>I. Fragata</u>, D. Mavor, C. Hollins III, <u>C. Bank</u>, and D.N.A. Bolon. **Comprehensive fitness maps of Hsp90 show widespread environmental dependence.** eLife, [link](https://doi.org/10.7554/eLife.53810) or [preprint](https://www.biorxiv.org/content/10.1101/823468v2)
 
