@@ -16,6 +16,7 @@ In the Division of Theoretical Ecology and Evolution, we use theoretical and sta
 
 Date | Event 
 ---  | ---
+11.01.2021 | Claudia gives a virtual talk at the conference [Ecology and co-evolution: from models to data and back](https://indico.math.cnrs.fr/event/5760/) 
 15.11.2020 | Farewell to Mark
 01.11.2020 | Welcome to Loïc ! Willkommen
 01.10.2020 | Welcome to Mado ! Willkommen
