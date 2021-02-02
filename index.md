@@ -16,7 +16,6 @@ In the Division of Theoretical Ecology and Evolution, we use theoretical and sta
 
 Date | Event 
 ---  | ---
-14.12.2020 | We have an open post-doc [position](https://banklab.github.io/positions/)
 15.11.2020 | Farewell to Mark
 01.11.2020 | Welcome to Loïc ! Willkommen
 01.10.2020 | Welcome to Mado ! Willkommen
