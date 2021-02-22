@@ -20,6 +20,13 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 {:/comment}
 
 
+## 2021
+
+<u>E. Berdan</u><sup>*#</sup>, <u>A. Blanckaert</u><sup>*#</sup>, R.K. Butlin, and <u>C. Bank</u>. **Muller’s ratchet and the long-term fate of chromosomal inversions.** Plos Genetics, in press.bioRxiv, doi: 10.1101/606012 [preprint](https://www.biorxiv.org/content/10.1101/606012v1)
+
+<u>M.A.D. Louro</u>, Mónica Bettencourt-Dias, and <u>C. Bank</u>. **Patterns of selection against centrosome amplification in human cell lines.** Plos Computational Biology, in press. bioRxiv, doi: 10.1101/2020.01.24.918615 [preprint](https://doi.org/10.1101/2020.01.24.918615)
+
+
 ## 2020
 
 <u>C. Bank</u>. **Defining Theories in Evolution.** Trends in Ecology & Evolution, doi: 10.1016/j.tree.2020.05.009 (A book review of [The Theory of Evolution: Principles, Concepts, and Assumptions.](https://press.uchicago.edu/ucp/books/book/chicago/T/bo45713136.html)) [link](https://doi.org/10.1016/j.tree.2020.05.009) or [pdf](/assets/download/Defining_theories_in_evolution.pdf)
@@ -27,8 +34,6 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 <u>C. Bank</u>. **Reconciling the upsides and downsides of migration for evolutionary rescue.** Peer Community in Evolutionary Biology, doi: 10.24072/pci.evolbiol.100098 (A preprint recommendation of [Tomasini et al., 2020, Evolution](https://doi.org/10.1111/evo.14038).) [link](https://doi.org/10.24072/pci.evolbiol.100098)
 
 <u>D. Stajic</u>, and <u>C. Bank</u>. **Evolutionary consequences of epigenetically induced phenotypic switching.** EcoEvoRxiv, doi: 10.32942/osf.io/6yf4u [preprint](https://ecoevorxiv.org/6yf4u/)
-
-<u>M.A.D. Louro</u>, Mónica Bettencourt-Dias, and <u>C. Bank</u>. **Patterns of selection against centrosome amplification in human cell lines.** bioRxiv, doi: 10.1101/2020.01.24.918615 [preprint](https://doi.org/10.1101/2020.01.24.918615)
 
 <u>A. Blanckaert</u>, <u>C. Bank</u>, and J. Hermisson. **The limits to parapatric speciation III: Fast reproductive isolation in the presence of gene flow despite limited ecological differentiation.** Philosophical Transactions of The Royal Society B, doi: 10.1098/rstb.2019.0532 [link](https://doi.org/10.1098/rstb.2019.0532)
 
@@ -40,8 +45,6 @@ P.A. Cote-Hammarlof<sup>*</sup>, <u>I. Fragata</u><sup>*</sup>, J.M. Flynn, K.B.
 
 
 ## 2019
-
-E. Berdan<sup>*#</sup>, <u>A. Blanckaert</u><sup>*#</sup>, R.K. Butlin, and <u>C. Bank</u>. **Muller’s ratchet and the long-term fate of chromosomal inversions.** bioRxiv, doi: 10.1101/606012 [preprint](https://www.biorxiv.org/content/10.1101/606012v1)
 
 P. Nouhaud, <u>A. Blanckaert</u>, <u>C. Bank</u>, and J. Kulmuni. **Understanding admixture: haplodiploidy to the rescue.** Trends in Ecology and Evolution, doi: 10.1016/j.tree.2019.08.013 [link](https://doi.org/10.1016/j.tree.2019.08.013)
 
