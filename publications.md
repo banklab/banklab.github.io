@@ -22,7 +22,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2021
 
-<u>E. Berdan</u><sup>*#</sup>, <u>A. Blanckaert</u><sup>*#</sup>, R.K. Butlin, and <u>C. Bank</u>. **Muller’s ratchet and the long-term fate of chromosomal inversions.** Plos Genetics, in press.bioRxiv, doi: 10.1101/606012 [preprint](https://www.biorxiv.org/content/10.1101/606012v1)
+<u>E. Berdan</u><sup>*#</sup>, <u>A. Blanckaert</u><sup>*#</sup>, R.K. Butlin, and <u>C. Bank</u>. **Deleterious mutation accumulation and the long-term fate of chromosomal inversions.** Plos Genetics, in press. bioRxiv, doi: 10.1101/606012 [preprint](https://www.biorxiv.org/content/10.1101/606012v1)
 
 <u>M.A.D. Louro</u>, Mónica Bettencourt-Dias, and <u>C. Bank</u>. **Patterns of selection against centrosome amplification in human cell lines.** Plos Computational Biology, in press. bioRxiv, doi: 10.1101/2020.01.24.918615 [preprint](https://doi.org/10.1101/2020.01.24.918615)
 
