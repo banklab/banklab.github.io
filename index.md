@@ -16,6 +16,7 @@ In the Division of Theoretical Ecology and Evolution, we use theoretical and sta
 
 Date | Event 
 ---  | ---
+11.02.2021 | Loïc gives an online course on "How to read a scientific paper" at the Inserm for 2nd year medical students (Paris, France)
 11.01.2021 | Claudia gives a virtual talk at the conference [Ecology and co-evolution: from models to data and back](https://indico.math.cnrs.fr/event/5760/) 
 15.11.2020 | Farewell to Mark
 01.11.2020 | Welcome to Loïc ! Willkommen
