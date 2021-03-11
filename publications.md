@@ -33,7 +33,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>C. Bank</u>. **Reconciling the upsides and downsides of migration for evolutionary rescue.** Peer Community in Evolutionary Biology, doi: 10.24072/pci.evolbiol.100098 (A preprint recommendation of [Tomasini et al., 2020, Evolution](https://doi.org/10.1111/evo.14038).) [link](https://doi.org/10.24072/pci.evolbiol.100098)
 
-<u>D. Stajic</u>, and <u>C. Bank</u>. **Evolutionary consequences of epigenetically induced phenotypic switching.** EcoEvoRxiv, doi: 10.32942/osf.io/6yf4u [preprint](https://ecoevorxiv.org/6yf4u/)
+<u>D. Stajic</u>, and <u>C. Bank</u>. **Phenotypic switching and its evolutionary consequences**. Book Chapter in [Phenotypic Switching: Implications in Biology and Medicine](https://www.sciencedirect.com/book/9780128179963/phenotypic-switching). Preprint version: **Evolutionary consequences of epigenetically induced phenotypic switching**, EcoEvoRxiv, doi: 10.32942/osf.io/6yf4u [preprint](https://ecoevorxiv.org/6yf4u/)
 
 <u>A. Blanckaert</u>, <u>C. Bank</u>, and J. Hermisson. **The limits to parapatric speciation III: Fast reproductive isolation in the presence of gene flow despite limited ecological differentiation.** Philosophical Transactions of The Royal Society B, doi: 10.1098/rstb.2019.0532 [link](https://doi.org/10.1098/rstb.2019.0532)
 
