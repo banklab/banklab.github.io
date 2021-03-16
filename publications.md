@@ -22,6 +22,8 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2021
 
+<u>D. Stajic</u><sup>#</sup>, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Epigenetic switching outcompetes genetic mutations during adaptation to fluctuating environments.** Submitted. [preprint](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
+
 <u>E. Berdan</u><sup>*#</sup>, <u>A. Blanckaert</u><sup>*#</sup>, R.K. Butlin, and <u>C. Bank</u>. **Deleterious mutation accumulation and the long-term fate of chromosomal inversions.** Plos Genetics, doi: 10.1371/journal.pgen.1009411 [link](https://doi.org/10.1371/journal.pgen.1009411) or [preprint](https://www.biorxiv.org/content/10.1101/606012v1)
 
 <u>M.A.D. Louro</u>, M. Bettencourt-Dias, and <u>C. Bank</u>. **Patterns of selection against centrosome amplification in human cell lines.** Plos Computational Biology, in press. bioRxiv, doi: 10.1101/2020.01.24.918615 [preprint](https://doi.org/10.1101/2020.01.24.918615)
