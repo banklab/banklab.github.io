@@ -17,16 +17,17 @@ In the Division of Theoretical Ecology and Evolution, we use theoretical and sta
 Date | Event 
 ---  | ---
 18.03.2021 | Claudia attends the UniBe HR workshop “Grundlagen des Personalmanagements”
-17.03.2021 | Claudia hosts [Oana Carja](http://cbd.cmu.edu/people/carja.html) from Carnegie Mellon University for a seminar with title "A general theory of evolutionary dynamics on any complex spatial structure"
-12.03.2021 | From our collaboration with Isabel Gordo at the IGC and led by our former associated postdoc Dragan Stajic, we submitted a new paper on [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
+17.03.2021 | Claudia hosts [Oana Carja](http://cbd.cmu.edu/people/carja.html) from Carnegie Mellon University for a seminar with the title "A general theory of evolutionary dynamics on any complex spatial structure"
+12.03.2021 | From our collaboration with [Isabel Gordo at the IGC](https://gulbenkian.pt/ciencia/researcher/igordo/) and led by our former associated postdoc Dragan, we have a new paper on [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
 09.03.2021 | Jessica participates with a poster at the [1st DNAqua International Conference](https://symposium.inrae.fr/dnaqua-conference-evian2021)
-11.02.2021 | Loïc gives an online course on "How to read a scientific paper" at the Inserm for 2nd year medical students (Paris, France)
+11.02.2021 | Loïc gives an online course on "How to read a scientific paper" at the Inserm in Paris for 2nd year medical students 
 11.01.2021 | Claudia gives a virtual talk at the conference [Ecology and co-evolution: from models to data and back](https://indico.math.cnrs.fr/event/5760/) 
 15.11.2020 | Farewell to Mark
-01.11.2020 | Welcome to Loïc ! Willkommen
-01.10.2020 | Welcome to Mado ! Willkommen
-01.10.2020 | Li Juan moves to Switzerland
-01.10.2020 | Claudia moves to University of Bern, Switzerland
+01.11.2020 | Welcome to our new postdoc Loïc ! Willkommen
+01.10.2020 | Welcome to our new bioinformatician Mado ! Willkommen
+01.10.2020 | Welcome to our new associated PhD student Jessica ! Willkommen
+3.10.2020 | Li Juan moves to Switzerland
+4.10.2020 | Claudia moves to University of Bern, Switzerland
 {:.table__news}
 
 {::comment}
