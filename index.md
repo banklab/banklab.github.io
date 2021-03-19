@@ -28,8 +28,8 @@ Date | Event
 01.11.2020 | Welcome to our new postdoc Loïc ! Willkommen
 01.10.2020 | Welcome to our new bioinformatician Mado ! Willkommen
 01.10.2020 | Welcome to our new associated PhD student Jessica ! Willkommen
-3.10.2020 | Li Juan moves to Switzerland
-4.10.2020 | Claudia moves to University of Bern, Switzerland
+01.10.2020 | Juan Li moves to Switzerland
+01.10.2020 | Claudia moves to University of Bern, Switzerland
 {:.table__news}
 
 {::comment}
