@@ -16,11 +16,12 @@ In the Division of Theoretical Ecology and Evolution, we use theoretical and sta
 
 Date | Event 
 ---  | ---
-19.03.2021 | Claudia attends the UniBe teaching workshop “Tipps und Tools für gute Lehre”
-18.03.2021 | Claudia attends the UniBe HR workshop “Grundlagen des Personalmanagements”
+19.03.2021 | Claudia participates in the UniBe teaching workshop “Tipps und Tools für gute Lehre”
+18.03.2021 | Claudia participates in the UniBe HR workshop “Grundlagen des Personalmanagements”
 17.03.2021 | Claudia hosts [Oana Carja](http://cbd.cmu.edu/people/carja.html) from Carnegie Mellon University for a seminar with on "A general theory of evolutionary dynamics on any complex spatial structure"
-12.03.2021 | From our collaboration with [Isabel Gordo at the IGC](https://gulbenkian.pt/ciencia/researcher/igordo/) and led by our former associated postdoc Dragan, we have a new paper on [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract) with the title "Epigenetic switching outcompetes genetic mutations during adaptation to fluctuating environments"
+12.03.2021 | From our collaboration with [Isabel Gordo at the IGC](https://gulbenkian.pt/ciencia/researcher/igordo/) and led by Dragan, we have a new paper on [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract) with the title "Epigenetic switching outcompetes genetic mutations during adaptation to fluctuating environments"
 09.03.2021 | Jessica participates with a poster at the [1st DNAqua International Conference](https://symposium.inrae.fr/dnaqua-conference-evian2021)
+04.03.2021 | Our preprint on "Deleterious mutation accumulation and the long-term fate of chromosomal inversions", led by Emma and Alex, is now published in [Plos Genetics](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009411).
 11.02.2021 | Loïc gives an online course on "How to read a scientific paper" at the Inserm in Paris for 2nd year medical students 
 11.01.2021 | Claudia gives a virtual talk at the conference [Ecology and co-evolution: from models to data and back](https://indico.math.cnrs.fr/event/5760/) 
 15.11.2020 | Farewell to Mark
