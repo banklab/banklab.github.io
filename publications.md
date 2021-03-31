@@ -20,28 +20,31 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 {:/comment}
 
 
+## 2021
+
+<u>D. Stajic</u><sup>#</sup>, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Epigenetic switching outcompetes genetic mutations during adaptation to fluctuating environments.** Submitted. [preprint](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
+
+<u>M.A.D. Louro</u>, M. Bettencourt-Dias, and <u>C. Bank</u>. **Patterns of selection against centrosome amplification in human cell lines.** Plos Computational Biology, in press. bioRxiv, doi: 10.1101/2020.01.24.918615 [preprint](https://doi.org/10.1101/2020.01.24.918615)
+
+<u>E. Berdan</u><sup>*#</sup>, <u>A. Blanckaert</u><sup>*#</sup>, R.K. Butlin, and <u>C. Bank</u>. **Deleterious mutation accumulation and the long-term fate of chromosomal inversions.** Plos Genetics, doi: 10.1371/journal.pgen.1009411 [link](https://doi.org/10.1371/journal.pgen.1009411) or [preprint](https://www.biorxiv.org/content/10.1101/606012v1)
+
+P.A. Cote-Hammarlof<sup>*</sup>, <u>I. Fragata</u><sup>*</sup>, J.M. Flynn, K.B. Zeldovich, <u>C. Bank</u><sup>#</sup>, and D.N.A. Bolon<sup>#</sup>. **The Adaptive Potential of the Middle Domain of Yeast Hsp90.** Molecular Biology and Evolution, doi: 10.1093/molbev/msaa211 [link](https://doi.org/10.1093/molbev/msaa211) or [preprint](https://www.biorxiv.org/content/10.1101/832022v1)
+
 ## 2020
 
 <u>C. Bank</u>. **Defining Theories in Evolution.** Trends in Ecology & Evolution, doi: 10.1016/j.tree.2020.05.009 (A book review of [The Theory of Evolution: Principles, Concepts, and Assumptions.](https://press.uchicago.edu/ucp/books/book/chicago/T/bo45713136.html)) [link](https://doi.org/10.1016/j.tree.2020.05.009) or [pdf](/assets/download/Defining_theories_in_evolution.pdf)
 
 <u>C. Bank</u>. **Reconciling the upsides and downsides of migration for evolutionary rescue.** Peer Community in Evolutionary Biology, doi: 10.24072/pci.evolbiol.100098 (A preprint recommendation of [Tomasini et al., 2020, Evolution](https://doi.org/10.1111/evo.14038).) [link](https://doi.org/10.24072/pci.evolbiol.100098)
 
-<u>D. Stajic</u>, and <u>C. Bank</u>. **Evolutionary consequences of epigenetically induced phenotypic switching.** EcoEvoRxiv, doi: 10.32942/osf.io/6yf4u [preprint](https://ecoevorxiv.org/6yf4u/)
+<u>D. Stajic</u>, and <u>C. Bank</u>. **Phenotypic switching and its evolutionary consequences**. Book Chapter in [Phenotypic Switching: Implications in Biology and Medicine](https://www.sciencedirect.com/book/9780128179963/phenotypic-switching). Preprint version: **Evolutionary consequences of epigenetically induced phenotypic switching**, EcoEvoRxiv, doi: 10.32942/osf.io/6yf4u [preprint](https://ecoevorxiv.org/6yf4u/)
 
-<u>M.A.D. Louro</u>, Mónica Bettencourt-Dias, and <u>C. Bank</u>. **Patterns of selection against centrosome amplification in human cell lines.** bioRxiv, doi: 10.1101/2020.01.24.918615 [preprint](https://doi.org/10.1101/2020.01.24.918615)
+<u>A. Blanckaert</u>, <u>C. Bank</u>, and J. Hermisson. **The limits to parapatric speciation III: Fast reproductive isolation in the presence of gene flow despite limited ecological differentiation.** Philosophical Transactions of The Royal Society B, doi: 10.1098/rstb.2019.0532 [link](https://doi.org/10.1098/rstb.2019.0532)
 
-<u>A. Blanckaert</u>, <u>C. Bank</u>, and J. Hermisson. **The limits to parapatric speciation III: Fast reproductive isolation in the presence of gene flow despite limited ecological differentiation.** Philosophical Transactions of The Royal Society B, [link](https://doi.org/10.1098/rstb.2019.0532)
-
-J.M. Flynn, A. Rossouw, P.A. Cote-Hammarlof, <u>I. Fragata</u>, D. Mavor, C. Hollins III, <u>C. Bank</u>, and D.N.A. Bolon. **Comprehensive fitness maps of Hsp90 show widespread environmental dependence.** eLife, [link](https://doi.org/10.7554/eLife.53810) or [preprint](https://www.biorxiv.org/content/10.1101/823468v2)
+J.M. Flynn, A. Rossouw, P.A. Cote-Hammarlof, <u>I. Fragata</u>, D. Mavor, C. Hollins III, <u>C. Bank</u>, and D.N.A. Bolon. **Comprehensive fitness maps of Hsp90 show widespread environmental dependence.** eLife, doi: DOI: 10.7554/eLife.53810 [link](https://doi.org/10.7554/eLife.53810) or [preprint](https://www.biorxiv.org/content/10.1101/823468v2)
 
 R.S. Ramiro<sup>#</sup>, P. Durão, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Low mutational load allows for high mutation rate variation in gut commensal bacteria.** Plos Biology, doi: 10.1371/journal.pbio.3000617. [link](https://doi.org/10.1371/journal.pbio.3000617) or [preprint](https://doi.org/10.1101/568709)
 
-P.A. Cote-Hammarlof<sup>*</sup>, <u>I. Fragata</u><sup>*</sup>, J.M. Flynn, K.B. Zeldovich, <u>C. Bank</u><sup>#</sup>, and D.N.A. Bolon<sup>#</sup>. **The Adaptive Potential of the Middle Domain of Yeast Hsp90.** Molecular Biology and Evolution, [link](https://doi.org/10.1093/molbev/msaa211) or [preprint](https://www.biorxiv.org/content/10.1101/832022v1)
-
-
 ## 2019
-
-E. Berdan<sup>*#</sup>, <u>A. Blanckaert</u><sup>*#</sup>, R.K. Butlin, and <u>C. Bank</u>. **Muller’s ratchet and the long-term fate of chromosomal inversions.** bioRxiv, doi: 10.1101/606012 [preprint](https://www.biorxiv.org/content/10.1101/606012v1)
 
 P. Nouhaud, <u>A. Blanckaert</u>, <u>C. Bank</u>, and J. Kulmuni. **Understanding admixture: haplodiploidy to the rescue.** Trends in Ecology and Evolution, doi: 10.1016/j.tree.2019.08.013 [link](https://doi.org/10.1016/j.tree.2019.08.013)
 
