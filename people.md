@@ -23,7 +23,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 ## André Amado
 
 * Postdoctoral fellow
-* Contact: aamado [at] igc.gulbenkian.pt
+* Contact: andre.amado [at] iee.unibe.ch
 
 ![Photo of André Amado](/assets/img/team/andre_amado_320x320.jpg)
 <i>I am very interested in evolution in general.
@@ -34,7 +34,7 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 ## Juan Li
  
 * Postdoctoral fellow
-* Contact: lijuan2010big [at] gmail.com
+* Contact: juan.li [at] iee.unibe.ch
 
 ![Photo of Juan Li](/assets/img/team/li_juan_320x320.jpg)
 <i>I am interested in speciation and polygenic traits evolution in general. Currently, I am working on detecting hybrid incompatibilities in population genomes, and also on the question how standing variation contribute the population adaptation under a sudden selection.</i>
@@ -54,7 +54,7 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 ## Ana Y. Morales-Arce
  
 * Postdoctoral fellow
-* Contact: aymorales [at] igc.gulbenkian.pt, [web-site](http://aymorales-arce.com)
+* Contact: ana.moralesarce [at] iee.unibe.ch, [web-site](http://aymorales-arce.com)
 
 ![Photo of Ana Y. Morales-Arce](/assets/img/team/ana_morales_320x320.jpg)
 <i>I use experimental evolution in combination with simulations to understand the adaptation of the Influenza A virus to mutagenic drugs. My research explores the relative roles of different evolutionary processes in shaping pathogen variation and evolution, including progeny skew, infection dynamics, as well as direct and linked selection effects.</i>
@@ -66,8 +66,18 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 * Postdoctoral fellow
 * Contact: loic.marrec [at] iee.unibe.ch
 
-![Photo of Ana Y. Loïc Marrec](/assets/img/team/loic_marrec_320x320.jpg)
+![Photo of Loïc Marrec](/assets/img/team/loic_marrec_320x320.jpg)
 <i>My general interest is in theoretical evolution and population genetics. My aim is to understand how evolutionary and ecological dynamics shape microbial communities. More specifically, I study the biodiversity and stability of these communities using analytical methods and stochastic simulations, as well as data.</i>
+
+---
+
+## David McLeod
+ 
+* Postdoctoral fellow
+* Contact: david.mcleod [at] iee.unibe.ch
+
+![Photo of David McLeod](/assets/img/team/david_mcleod.jpg)
+<i>My research interests are in evolutionary theory and mathematical biology. I have previously worked on a variety of topics, including: social evolution, host-pathogen (co)-evolution, the resolution of evolutionary conflict, and the role of demographic stochasticity in evolutionary processes. More recently, I have been focused upon evolutionary epidemiology, with an emphasis upon the evolutionary consequences of public health interventions for pathogen dynamics. As a member of THEE, I will work on developing eco-evolutionary models of speciation and hybridization.</i>
 
 ---
 
