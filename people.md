@@ -14,10 +14,10 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 * Principal investigator, Head of Division
 * Contact: evoldynamics [at] gmail.com
+* [GoogleScholar](https://scholar.google.ch/citations?user=VBOPD0UAAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bank+Claudia%5BAuthor%5D&sort=date), [ORCID](https://orcid.org/0000-0003-4730-758X)
 
 ![Photo of Claudia Bank](/assets/img/team/claudia_bank_320x320.jpg)
 <i>I study evolution – and in particular, the population genetics of adaptation and speciation – at the interface of theoretical and empirical biology. The approaches I use involve theoretical modeling, computational methods, and statistical data analysis.</i> 
-[GoogleScholar](https://scholar.google.ch/citations?user=VBOPD0UAAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bank+Claudia%5BAuthor%5D&sort=date), [ORCID](https://orcid.org/0000-0003-4730-758X)
 
 ---
 
@@ -25,11 +25,11 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 * Postdoctoral fellow
 * Contact: andre.amado [at] iee.unibe.ch
+* [GoogleScholar](https://scholar.google.com/citations?user=jO8AA9gAAAAJ), [ORCID](https://orcid.org/0000-0002-9027-5037)
 
 ![Photo of André Amado](/assets/img/team/andre_amado_320x320.jpg)
 <i>I am very interested in evolution in general.
 Currently, I am developing models for the way fitness landscapes vary across different environments. Before joining the Evolutionary Dynamics group, I investigated the role tradeoffs play in evolution.</i> 
-[GoogleScholar](https://scholar.google.com/citations?user=jO8AA9gAAAAJ), [ORCID](https://orcid.org/0000-0002-9027-5037)
 
 ---
 
@@ -37,10 +37,10 @@ Currently, I am developing models for the way fitness landscapes vary across dif
  
 * Postdoctoral fellow
 * Contact: juan.li [at] iee.unibe.ch
+* [ORCID](https://orcid.org/0000-0003-2643-0802)
 
 ![Photo of Juan Li](/assets/img/team/li_juan_320x320.jpg)
 <i>I am interested in speciation and polygenic traits evolution in general. Currently, I am working on detecting hybrid incompatibilities in population genomes, and also on the question how standing variation contribute the population adaptation under a sudden selection.</i> 
-[ORCID](https://orcid.org/0000-0003-2643-0802)
 
 ---
 
@@ -58,10 +58,10 @@ Currently, I am developing models for the way fitness landscapes vary across dif
  
 * Postdoctoral fellow
 * Contact: ana.moralesarce [at] iee.unibe.ch
+* [web-site](http://aymorales-arce.com), [GoogleScholar](https://scholar.google.com/citations?user=LP9FUxEAAAAJ&hl=en&oi=ao)
 
 ![Photo of Ana Y. Morales-Arce](/assets/img/team/ana_morales_320x320.jpg)
 <i>I use experimental evolution in combination with simulations to understand the adaptation of the Influenza A virus to mutagenic drugs. My research explores the relative roles of different evolutionary processes in shaping pathogen variation and evolution, including progeny skew, infection dynamics, as well as direct and linked selection effects.</i> 
-[web-site](http://aymorales-arce.com), [GoogleScholar](https://scholar.google.com/citations?user=LP9FUxEAAAAJ&hl=en&oi=ao)
 
 ---
 
@@ -69,10 +69,10 @@ Currently, I am developing models for the way fitness landscapes vary across dif
  
 * Postdoctoral fellow
 * Contact: loic.marrec [at] iee.unibe.ch
+* [GoogleScholar](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en), [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/loic.marrec.1/bibliography/public/), [ORCID](https://orcid.org/0000-0003-0941-6603)
 
 ![Photo of Loïc Marrec](/assets/img/team/loic_marrec_320x320.jpg)
 <i>My general interest is in theoretical evolution and population genetics. My aim is to understand how evolutionary and ecological dynamics shape microbial communities. More specifically, I study the biodiversity and stability of these communities using analytical methods and stochastic simulations, as well as data.</i>
-[GoogleScholar](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en), [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/loic.marrec.1/bibliography/public/), [ORCID](https://orcid.org/0000-0003-0941-6603)
 
 ---
 
@@ -80,10 +80,10 @@ Currently, I am developing models for the way fitness landscapes vary across dif
  
 * Postdoctoral fellow
 * Contact: david.mcleod [at] iee.unibe.ch
+* [GoogleScholar](https://scholar.google.com/citations?hl=en&user=xVnf7XwAAAAJ&view_op=list_works&sortby=pubdate)
 
 ![Photo of David McLeod](/assets/img/team/rsz_david_mcleod_square.jpg)
 <i>My research interests are in evolutionary theory and mathematical biology. I have previously worked on a variety of topics, including: social evolution, host-pathogen (co)-evolution, the resolution of evolutionary conflict, and the role of demographic stochasticity in evolutionary processes. More recently, I have been focused upon evolutionary epidemiology, with an emphasis upon the evolutionary consequences of public health interventions for pathogen dynamics. As a member of THEE, I will work on developing eco-evolutionary models of speciation and hybridization.</i> 
-[GoogleScholar](https://scholar.google.com/citations?hl=en&user=xVnf7XwAAAAJ&view_op=list_works&sortby=pubdate)
 
 ---
 
@@ -111,10 +111,10 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 
 * Bioinformatician
 * Contact: adamantia.kapopoulou [at] iee.unibe.ch
+* [GoogleScholar](https://scholar.google.com/citations?hl=en&user=CMkgYYwAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=kapopoulou&sort=date)
 
 ![Photo of Adamandia Kapopoulou](/assets/img/team/adamandia_kapopoulou_320x320.jpg)
 <i>My background is both genetics and bioinformatics, and I am interested about genomics in general. In the past, I have been working mainly with NGS datasets focusing on cancer genomics, epigenetics, demography, and the evolution of transcription factors and endogenous retroviruses. I am currently working on human Ancient DNA and population genetics of bacterial communities.</i> 
-[GoogleScholar](https://scholar.google.com/citations?hl=en&user=CMkgYYwAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=kapopoulou&sort=date)
 
 ---
 
