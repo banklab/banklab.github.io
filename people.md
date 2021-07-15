@@ -82,7 +82,7 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 * Contact: david.mcleod [at] iee.unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?hl=en&user=xVnf7XwAAAAJ&view_op=list_works&sortby=pubdate)
 
-![Photo of David McLeod](/assets/img/team/rsz_david_mcleod_square.jpg)
+![Photo of David McLeod](/assets/img/team/david_mcleod_square.jpg)
 <i>My research interests are in evolutionary theory and mathematical biology. I have previously worked on a variety of topics, including: social evolution, host-pathogen (co)-evolution, the resolution of evolutionary conflict, and the role of demographic stochasticity in evolutionary processes. More recently, I have been focused upon evolutionary epidemiology, with an emphasis upon the evolutionary consequences of public health interventions for pathogen dynamics. As a member of THEE, I will work on developing eco-evolutionary models of speciation and hybridization.</i> 
 
 ---
