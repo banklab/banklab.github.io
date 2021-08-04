@@ -21,6 +21,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 
 ## 2021
+<u>J. Li</u><sup>#</sup>, M. Schumer, and <u>C. Bank</u><sup>#</sup>. **Inferring inter- and intrachromosomal Dobzhansky-Muller incompatibilities from imbalanced segregation of recombinant haplotypes in hybrid populations.** Submitted.
 
 <u>D. Stajic</u><sup>#</sup>, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Epigenetic switching outcompetes genetic mutations during adaptation to fluctuating environments.** Submitted. [preprint](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
 
