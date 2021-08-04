@@ -60,7 +60,7 @@ S. Ramos, A.R. Carlos, B. Sundaram, V. Jeney, A. Ribeiro, R. Gozzelino, <u>C. Ba
 
 ## 2018
 
-<u>A. Blanckaert</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation.** PLOS Genetics, doi: 10.1371/journal.pgen.1007613 [link](https://doi.org/10.1371/journal.pgen.1007613) or [preprint](https://doi.org/10.1101/266254)
+<u>A. Blanckaert</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation.** Plos Genetics, doi: 10.1371/journal.pgen.1007613 [link](https://doi.org/10.1371/journal.pgen.1007613) or [preprint](https://doi.org/10.1101/266254)
 
 J.A.G.M. de Visser<sup>#</sup>, S.F. Elena<sup>#</sup>, <u>I. Fragata</u><sup>#</sup> and S. Matuszewski<sup>#</sup>. **The utility of fitness landscapes and big data for predicting evolution.** Heredity, doi: 10.1038/s41437-018-0128-4 [link](https://doi.org/10.1038/s41437-018-0128-4)
 
