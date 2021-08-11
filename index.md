@@ -31,6 +31,10 @@ Date | Event
 01.10.2020 | Our first official day in Bern! Several group members are continuing their work in Portugal for the time being.
 {:.table__news}
 
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/THEELabTeam maxwidth=500 limit=5 %}
+</div>
+
 {::comment}
 This text is completely ignored by kramdown - a comment in the text.
 Please leave the {:.table__news} Block Inline Attribute List
