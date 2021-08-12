@@ -31,6 +31,7 @@ Date | Event
 01.10.2020 | Our first official day in Bern! Several group members are continuing their work in Portugal for the time being.
 {:.table__news}
 
+
 {::comment}
 This text is completely ignored by kramdown - a comment in the text.
 Please leave the {:.table__news} Block Inline Attribute List

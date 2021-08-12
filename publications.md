@@ -21,10 +21,13 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 
 ## 2021
+<u>J. Li</u><sup>#</sup>, M. Schumer, and <u>C. Bank</u><sup>#</sup>. **Inferring inter- and intrachromosomal Dobzhansky-Muller incompatibilities from imbalanced segregation of recombinant haplotypes in hybrid populations.** Submitted. [preprint](https://www.biorxiv.org/content/10.1101/2021.08.04.454891v1)
 
 <u>D. Stajic</u><sup>#</sup>, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Epigenetic switching outcompetes genetic mutations during adaptation to fluctuating environments.** Submitted. [preprint](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
 
-<u>M.A.D. Louro</u>, M. Bettencourt-Dias, and <u>C. Bank</u>. **Patterns of selection against centrosome amplification in human cell lines.** Plos Computational Biology, in press. bioRxiv, doi: 10.1101/2020.01.24.918615 [preprint](https://doi.org/10.1101/2020.01.24.918615)
+<u>M.A.D. Louro</u>, M. Bettencourt-Dias, and <u>C. Bank</u>. **Patterns of selection against centrosome amplification in human cell lines.** Plos Computational Biology, doi:10.1371/journal.pcbi.1008765. [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008765) or [preprint](https://doi.org/10.1101/2020.01.24.918615)
+
+R.K. Butlin, M.R. Servedio, C.M. Smadja, <u>C. Bank</u>,  N.H. Barton,  S.M. Flaxman, T. Giraud, R. Hopkins, E.L. Larson, M.E. Maan, J. Meier, R. Merrill, M.A.F. Noor, D. Ortiz‐Barrientos, A. Qvarnström. **Homage to Felsenstein 1981, or why are there so few/many species?** Evolution, doi:10.1111/evo.14235 [link](https://doi.org/10.1111/evo.14235)
 
 <u>E. Berdan</u><sup>*#</sup>, <u>A. Blanckaert</u><sup>*#</sup>, R.K. Butlin, and <u>C. Bank</u>. **Deleterious mutation accumulation and the long-term fate of chromosomal inversions.** Plos Genetics, doi: 10.1371/journal.pgen.1009411 [link](https://doi.org/10.1371/journal.pgen.1009411) or [preprint](https://www.biorxiv.org/content/10.1101/606012v1)
 
@@ -57,7 +60,7 @@ S. Ramos, A.R. Carlos, B. Sundaram, V. Jeney, A. Ribeiro, R. Gozzelino, <u>C. Ba
 
 ## 2018
 
-<u>A. Blanckaert</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation.** PLOS Genetics, doi: 10.1371/journal.pgen.1007613 [link](https://doi.org/10.1371/journal.pgen.1007613) or [preprint](https://doi.org/10.1101/266254)
+<u>A. Blanckaert</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation.** Plos Genetics, doi: 10.1371/journal.pgen.1007613 [link](https://doi.org/10.1371/journal.pgen.1007613) or [preprint](https://doi.org/10.1101/266254)
 
 J.A.G.M. de Visser<sup>#</sup>, S.F. Elena<sup>#</sup>, <u>I. Fragata</u><sup>#</sup> and S. Matuszewski<sup>#</sup>. **The utility of fitness landscapes and big data for predicting evolution.** Heredity, doi: 10.1038/s41437-018-0128-4 [link](https://doi.org/10.1038/s41437-018-0128-4)
 

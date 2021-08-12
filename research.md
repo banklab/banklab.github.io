@@ -6,7 +6,9 @@ permalink: /research/
 
 # Research
 
-In the Theoretical Ecology and Evolution lab, we use theoretical and statistical approaches to quantify evolutionary processes. With projects ranging across all levels of biological organisation, we address questions about adaptation and speciation.
+In the Theoretical Ecology and Evolution lab, we use theoretical and statistical approaches to quantify the relative roles of ecological and evolutionary forces for the buildup and maintenance of diversity. Specifically, we study the influence of fitness differences and fitness interactions (epistasis), mutation, and gene flow on adaptation, speciation, and the composition and stability of ecological communities.
+
+Here are some examples:
 
 ## What is the shape of the fitness landscape?
 
