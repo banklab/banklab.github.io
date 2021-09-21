@@ -128,6 +128,14 @@ Currently, I am developing models for the way fitness landscapes vary across dif
 ![Photo of Massimo Amicone](/assets/img/team/massimo_amicone_320x320.jpg)
 <i>I’m generally interested in the interplay between ecological and evolutionary processes. My current goal is to understand how eco-evolutionary dynamics can shape the diversity of microbial communities. Inspired by empirical observations, I build ecology-driven models of adaptation to generate new hypotheses regarding the evolution of bacteria within the gut microbiota and to answer general questions about biodiversity.</i>
 
+# Master students
+
+## Jérôme Stäheli
+ 
+* Contact: jerome.staeheli [at] students.unibe.ch
+
+![Photo of Jerome Staeheli](/assets/img/team/Profilbild_jerome_staeheli.jpg)
+
 </div>
 
 ---
