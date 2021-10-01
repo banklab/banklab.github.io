@@ -5,7 +5,7 @@ permalink: /
 ---
 # Welcome !
 
-Welcome to the web page of the Bank lab at the [University of Bern](http://www.thee.iee.unibe.ch/index_eng.html) and the [Gulbenkian Institute](https://gulbenkian.pt/ciencia/research-groups/cbank/).
+Welcome to the web page of the Bank lab at the [University of Bern](http://www.thee.iee.unibe.ch/index_eng.html).
 
 ## Theoretical Ecology and Evolution
 
