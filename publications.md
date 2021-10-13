@@ -21,6 +21,8 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 
 ## 2021
+<u>M.A.D. Louro</u>, M. Bettencourt-Dias, Jorge Carneiro. **A first-takes-all model of centriole copy number control based on cartwheel elongation.**doi.org/10.1371/journal.pcbi.1008359 [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008359)
+
 M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J. Cairns, E.S. Colizzi, <u>D. Cusseddu</u>, M.M. Desai, B. van Dijk, M. Egas, J. Ellers, A.T. Groot, D.G. Heckel, M.L. Johnson, K. Kraaijeveld, J. Krug, L. Laan, M. Lässig, P.A. Lind, J. Meijer, L.M. Noble, S. Okasha, P.B. Rainey, D.E. Rozen, S. Shitut, S.J. Tans, O. Tenaillon, H. Teotónio, J.A.G.M. de Visser, M.E. Visser, R.M.A. Vroomans, G.D.A. Werner, B. Wertheim, P.S. Pennings. **The why, what and how of predicting evolution across biology: from disease to biotechnology to biodiversity.** [preprint](https://ecoevorxiv.org/4u3mg/)
 
 <u>J. Li</u><sup>#</sup>, M. Schumer, and <u>C. Bank</u><sup>#</sup>. **Inferring inter- and intrachromosomal Dobzhansky-Muller incompatibilities from imbalanced segregation of recombinant haplotypes in hybrid populations.** Submitted. [preprint](https://www.biorxiv.org/content/10.1101/2021.08.04.454891v1)
