@@ -25,5 +25,5 @@ The Division of Theoretical Ecology and Evolution is a dynamic, international, a
 The starting date of the PhD positions is negotiable (ideally in fall 2022). The starting salary is 47,040 CHF and includes social security contributions.
  
 ## Contact and Application
-Please submit your application via email by 1 April 2022 to Prof. Claudia Bank: claudia.bank@iee.unibe.ch. Applicants must submit one merged PDF file that includes a letter of motivation mentioning the desired starting date (<500 words), a CV, names of two ref-erees who should have sent their recommendation letter separately by email before the deadline, and copies of relevant publications and/or the Master thesis.
+Please submit your application via email by **1 April 2022** to Prof. Claudia Bank: claudia.bank@iee.unibe.ch. Applicants must submit one merged PDF file that includes a letter of motivation mentioning the desired starting date (<500 words), a CV, names of two ref-erees who should have sent their recommendation letter separately by email before the deadline, and copies of relevant publications and/or the Master thesis.
 
