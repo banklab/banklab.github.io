@@ -6,7 +6,7 @@ permalink: /positions/
 
 # Positions
 
-## Two PhD positions in Theoretical Ecology and Evolution (50-100%)
+## Two PhD positions in Theoretical Ecology and Evolution
  
 Two funded, 4-year PhD positions are available in the Division of [Theoretical Ecology and Evolution](https://banklab.github.io/) led by Professor Claudia Bank at the University of Bern, Switzerland. The positions are part of the ERC project “FIT2GO – a toolbox for fitness landscapes in evolution”, in which we study adaptation and speciation from a fitness-landscape point of view.
 
