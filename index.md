@@ -11,9 +11,13 @@ Welcome to the web page of the Bank lab at the [University of Bern](http://www.t
 
 In the Division of Theoretical Ecology and Evolution, we use theoretical and statistical approaches to quantify evolutionary processes. With projects ranging across all levels of biological organisation, we address questions about adaptation and speciation.
 
-## Lab News Feed
+## Most recent Tweet by @THEELabTeam
 
 <div class="twitter_feed">
   <a class="twitter-timeline" data-lang="en" data-width="550" data-height="680" data-dnt="true" data-theme="light" data-chrome="nofooter transparent" data-link-color="#15484c" data-tweet-limit="1" href="https://twitter.com/THEELabTeam?ref_src=twsrc%5Etfw">Most recent Tweet by the @THEELabTeam</a> 
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+
+## Lab News Feed
+
+To be revived!
