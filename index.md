@@ -37,3 +37,5 @@ Date | Event
 17.02.2022 | Ana gives a talk at the [Biology22](https://biology22.ch/) meeting in Basel with the title: "Mutagenic drugs consistently induce rapid mutational meltdown across several strains of laboratory-passed influenza A virus"
 17.02.2022 | Hermina gives a talk at the [Biology22](https://biology22.ch/) meeting in Basel with the title: "Some fitness landscapes are surprisingly predictable across environments"
 09.02.2022 | Claudia gives a virtual talk at the [Evolutionary Systems Biology Meeting](https://coursesandconferences.wellcomeconnectingscience.org/event/evolutionary-systems-biology-virtual-conference-20220209/) with the title: "Epistasis and adaptation on rugged fitness landscapes"
+
+{:.table__news}
