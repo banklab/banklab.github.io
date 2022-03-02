@@ -9,6 +9,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 <div class="layout-team" markdown="1">
 
 # Team
+(In chronological order of joining the lab)
 
 ## Claudia Bank
 
@@ -18,6 +19,23 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ![Photo of Claudia Bank](/assets/img/team/claudia_bank_320x320.jpg)
  
+---
+
+## Ana-Hermina Ghenu
+
+* PhD student (co-supervised by Isabel Gordo)
+* Contact: ahghenu [at] igc.gulbenkian.pt
+
+![Photo of Ana-Hermina Ghenu](/assets/img/team/hermina_ghenu_320x320.jpg)
+
+---
+
+## Marco Louro
+ 
+* PhD student (co-supervised by Mónica Bettencourt Dias)
+* Contact: mlouro [at] igc.gulbenkian.pt
+
+![Photo of Marco Louro](/assets/img/team/marco_louro_320x320.jpg)
 
 ---
 
@@ -29,7 +47,6 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ![Photo of André Amado](/assets/img/team/andre_amado_320x320.jpg)
  
-
 ---
 
 ## Juan Li
@@ -40,10 +57,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ![Photo of Juan Li](/assets/img/team/li_juan_320x320.jpg)
  
-
 ---
-
-
 
 ## Ana Y. Morales-Arce
  
@@ -52,49 +66,6 @@ A list of people working in the Bank lab and/or associated with it. See also our
 * [web-site](http://aymorales-arce.com), [GoogleScholar](https://scholar.google.com/citations?user=LP9FUxEAAAAJ&hl=en&oi=ao)
 
 ![Photo of Ana Y. Morales-Arce](/assets/img/team/ana_morales_320x320.jpg)
-
-
----
-
-## Loïc Marrec
- 
-* Postdoctoral fellow
-* Contact: loic.marrec [at] iee.unibe.ch
-* [GoogleScholar](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en), [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/loic.marrec.1/bibliography/public/), [ORCID](https://orcid.org/0000-0003-0941-6603)
-
-![Photo of Loïc Marrec](/assets/img/team/loic_marrec_320x320.jpg)
-
-
----
-
-## David McLeod
- 
-* Postdoctoral fellow
-* Contact: david.mcleod [at] iee.unibe.ch
-* [GoogleScholar](https://scholar.google.com/citations?hl=en&user=xVnf7XwAAAAJ&view_op=list_works&sortby=pubdate)
-
-![Photo of David McLeod](/assets/img/team/david_mcleod_square.jpg)
- 
-
----
-
-## Ana-Hermina Ghenu
-
-* PhD student (co-supervised by Isabel Gordo)
-* Contact: ahghenu [at] igc.gulbenkian.pt
-
-![Photo of Ana-Hermina Ghenu](/assets/img/team/hermina_ghenu_320x320.jpg)
-
-
----
-
-## Marco Louro
- 
-* PhD student (co-supervised by Mónica Bettencourt Dias)
-* Contact: mlouro [at] igc.gulbenkian.pt
-
-![Photo of Marco Louro](/assets/img/team/marco_louro_320x320.jpg)
-
 
 ---
 
@@ -106,6 +77,33 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ![Photo of Adamandia Kapopoulou](/assets/img/team/adamandia_kapopoulou_320x320.jpg)
  
+---
+
+## Loïc Marrec
+ 
+* Postdoctoral fellow
+* Contact: loic.marrec [at] iee.unibe.ch
+* [GoogleScholar](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en), [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/loic.marrec.1/bibliography/public/), [ORCID](https://orcid.org/0000-0003-0941-6603)
+
+![Photo of Loïc Marrec](/assets/img/team/loic_marrec_320x320.jpg)
+
+---
+
+## David McLeod
+ 
+* Postdoctoral fellow
+* Contact: david.mcleod [at] iee.unibe.ch
+* [GoogleScholar](https://scholar.google.com/citations?hl=en&user=xVnf7XwAAAAJ&view_op=list_works&sortby=pubdate)
+
+![Photo of David McLeod](/assets/img/team/david_mcleod_square.jpg)
+
+---
+
+## Jérôme Stäheli
+ 
+* Contact: jerome.staeheli [at] students.unibe.ch
+
+![Photo of Jerome Staeheli](/assets/img/team/Profilbild_jerome_staeheli.jpg)
 
 ---
 
@@ -125,16 +123,6 @@ A list of people working in the Bank lab and/or associated with it. See also our
 * Contact: jessica.rieder [at] vetsuisse.unibe.ch
 
 ![Photo of Jessica Rieder](/assets/img/team/Rieder-Jessica_w.jpg)
-
-# Master students
-
-## Jérôme Stäheli
- 
-* Contact: jerome.staeheli [at] students.unibe.ch
-
-![Photo of Jerome Staeheli](/assets/img/team/Profilbild_jerome_staeheli.jpg)
-
-</div>
 
 ---
 
