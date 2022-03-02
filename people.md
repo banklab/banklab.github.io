@@ -4,12 +4,10 @@ title: About us | Theoretical Ecology and Evolution
 permalink: /people/
 ---
 
-A list of people working in the Bank lab and/or associated with it. See also our Uni Bern [contact page](http://www.thee.iee.unibe.ch/about_us/team/) 
-
 <div class="layout-team" markdown="1">
 
 # Team
-(In chronological order of joining the lab)
+(In chronological order of joining the group)
 
 ## Claudia Bank
 
@@ -108,7 +106,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ---
 
-# Associated members
+# Associated team members
 
 ## Massimo Amicone
  
@@ -127,7 +125,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ---
 
-# Lab Alumni
+# Alumni
 
 ## Davide Cusseddu
 
