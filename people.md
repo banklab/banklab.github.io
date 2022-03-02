@@ -24,7 +24,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 ## Ana-Hermina Ghenu
 
 * PhD student (co-supervised by Isabel Gordo)
-* Contact: ahghenu [at] igc.gulbenkian.pt
+* Contact: ana-hermina.ghenu [at] iee.unibe.ch 
 
 ![Photo of Ana-Hermina Ghenu](/assets/img/team/hermina_ghenu_320x320.jpg)
 
@@ -41,7 +41,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ## André Amado
 
-* Postdoctoral fellow
+* Postdoctoral researcher
 * Contact: andre.amado [at] iee.unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?user=jO8AA9gAAAAJ), [ORCID](https://orcid.org/0000-0002-9027-5037)
 
@@ -51,7 +51,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ## Juan Li
  
-* Postdoctoral fellow
+* Postdoctoral researcher
 * Contact: juan.li [at] iee.unibe.ch
 * [ORCID](https://orcid.org/0000-0003-2643-0802)
 
@@ -61,7 +61,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ## Ana Y. Morales-Arce
  
-* Postdoctoral fellow
+* Postdoctoral researcher
 * Contact: ana.moralesarce [at] iee.unibe.ch
 * [web-site](http://aymorales-arce.com), [GoogleScholar](https://scholar.google.com/citations?user=LP9FUxEAAAAJ&hl=en&oi=ao)
 
@@ -81,7 +81,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ## Loïc Marrec
  
-* Postdoctoral fellow
+* Postdoctoral researcher
 * Contact: loic.marrec [at] iee.unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en), [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/loic.marrec.1/bibliography/public/), [ORCID](https://orcid.org/0000-0003-0941-6603)
 
@@ -91,7 +91,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ## David McLeod
  
-* Postdoctoral fellow
+* Postdoctoral researcher
 * Contact: david.mcleod [at] iee.unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?hl=en&user=xVnf7XwAAAAJ&view_op=list_works&sortby=pubdate)
 
@@ -131,7 +131,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ## Davide Cusseddu
 
-* Postdoc (2019-2021)
+* Postdoctoral researcher (2019-2021)
 
 ## Mark Schmitz
 
@@ -153,7 +153,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ## Dragan Stajic
 
-* Associated postdoctoral fellow (2019)
+* Associated postdoctoral researcher (2019)
 
 ## Christian Diwo
 
