@@ -5,11 +5,7 @@ permalink: /
 ---
 # Welcome !
 
-Welcome to the web page of the Bank lab at the [University of Bern](http://www.thee.iee.unibe.ch/index_eng.html).
-
-## Theoretical Ecology and Evolution
-
-In the Division of Theoretical Ecology and Evolution, we use theoretical and statistical approaches to quantify evolutionary processes. With projects ranging across all levels of biological organisation, we address questions about adaptation and speciation.
+Welcome to the web page of the Division Theoretical Ecology and Evolution at the [University of Bern](http://www.thee.iee.unibe.ch/index_eng.html). Here you can follow the latest lab news (below) or learn more about our [team members](https://banklab.github.io/people/), our [research](https://banklab.github.io/research/), our [publications](https://banklab.github.io/publications/) and more!
 
 ## Most recent Tweet by @THEELabTeam
 
@@ -19,6 +15,8 @@ In the Division of Theoretical Ecology and Evolution, we use theoretical and sta
 </div>
 
 ## Lab News Feed
+
+**We currently have [two open PhD positions](https://banklab.github.io/positions/)!**
 
 ### Upcoming events
 
