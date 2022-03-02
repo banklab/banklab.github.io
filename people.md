@@ -101,6 +101,7 @@ A list of people working in the Bank lab and/or associated with it. See also our
 
 ## Jérôme Stäheli
  
+* Master student
 * Contact: jerome.staeheli [at] students.unibe.ch
 
 ![Photo of Jerome Staeheli](/assets/img/team/Profilbild_jerome_staeheli.jpg)
