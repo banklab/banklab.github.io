@@ -127,6 +127,8 @@ permalink: /people/
 
 # Alumni
 
+(In reverse chronological order of leaving the group)
+
 ## Davide Cusseddu
 
 * Postdoctoral researcher (2019-2021)
@@ -174,7 +176,7 @@ permalink: /people/
 
 ## Manuel Fortunato
 
-* Modeling project student (2018)
+* Project student (2018)
 
 ## Sofia Torres
 
