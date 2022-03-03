@@ -33,6 +33,7 @@ permalink: /people/
  
 * PhD student (co-supervised by Mónica Bettencourt Dias)
 * Contact: mlouro [at] igc.gulbenkian.pt
+* [ORCID](https://orcid.org/0000-0002-7023-799X)
 
 ![Photo of Marco Louro](/assets/img/team/marco_louro_320x320.jpg)
 
