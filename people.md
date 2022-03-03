@@ -23,6 +23,7 @@ permalink: /people/
 
 * PhD student (co-supervised by Isabel Gordo)
 * Contact: ana-hermina.ghenu [at] iee.unibe.ch 
+* [GoogleScholar](https://scholar.google.com/citations?user=1sBIOkIAAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0002-9088-2232)
 
 ![Photo of Ana-Hermina Ghenu](/assets/img/team/hermina_ghenu_320x320.jpg)
 
@@ -71,7 +72,7 @@ permalink: /people/
 
 * Bioinformatician
 * Contact: adamantia.kapopoulou [at] iee.unibe.ch
-* [GoogleScholar](https://scholar.google.com/citations?hl=en&user=CMkgYYwAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=kapopoulou&sort=date)
+* [GoogleScholar](https://scholar.google.com/citations?hl=en&user=CMkgYYwAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=kapopoulou&sort=date), [ORCID](https://orcid.org/0000-0003-4192-4923)
 
 ![Photo of Adamandia Kapopoulou](/assets/img/team/adamandia_kapopoulou_320x320.jpg)
  
