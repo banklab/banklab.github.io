@@ -20,6 +20,8 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Upcoming events
 
+**25.10.2022:** We are hosting [Helen Alexander](https://www.ed.ac.uk/biology/groups/alexander), Group Leader at the University of Edinburgh, Scotland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
+
 **24.05.2022:** We are hosting [Michael Turelli](https://biology.ucdavis.edu/people/michael-turelli), Distinguished Professor at the Evolution and Ecology Center for Population Biology, UC Davis, USA, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
 **18.05.2022:** We are hosting [Bahti Yilmaz](https://www.mucosalimmunology.ch/en/lab-members/dr-bahtiyar-yilmaz.html), Ambizione Group Leader at the Mucosal Immunology Department, University of Bern, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
@@ -32,9 +34,9 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **06.04.2022:** We are hosting [Stefan Laurent](https://www.mpipz.mpg.de/laurent), Group Leader at the MPIPZ, Germany, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
-**05.04.2022:** We are hosting [Joshua Ebner](https://duw.unibas.ch/en/research-groups/geoecology/staff/joshua-niklas-ebner/), PhD Candidate at the Department of Environmental Sciences, University of Basel, for a seminar
+**05.04.2022:** We are hosting [Joshua Ebner](https://duw.unibas.ch/en/research-groups/geoecology/staff/joshua-niklas-ebner/), PhD Candidate at the Department of Environmental Sciences, University of Basel, for a seminar on "Proteome plasticity across temperature and environment"
 
-**30.03.2022:** We are hosting [Philine Feulner](https://www.eawag.ch/en/department/fishec/main-focus/fish-genomics/), Group Leader of Fish Genomics at EAWAG, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
+**30.03.2022:** We are hosting [Philine Feulner](https://www.eawag.ch/en/department/fishec/main-focus/fish-genomics/), Group Leader of Fish Genomics at EAWAG, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) showing us "A Genomic Perspective on Speciation and Adaption in Alpine Whitefish"
 
 **09.03.2022:** Claudia gives a talk at the University of Lausanne
 
@@ -42,7 +44,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Past events
 
-**01.03.2022:** We are hosting [Marion Talbi](https://www.aqua.iee.unibe.ch/about_us/team/marion_talbi/talbi_marion/index_eng.html), PhD Student at the Aquatic Ecology and Evolution group, University of Bern, for a seminat with the title: "Inference of recombination landscapes – from simulation to real data"
+**01.03.2022:** We are hosting [Marion Talbi](https://www.aqua.iee.unibe.ch/about_us/team/marion_talbi/talbi_marion/index_eng.html), PhD Student at the Aquatic Ecology and Evolution group, University of Bern, for a seminar with the title: "Inference of recombination landscapes – from simulation to real data"
 
 **21.02.2022:** Spring semester starts at the University of Bern
 
