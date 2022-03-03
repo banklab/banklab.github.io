@@ -131,7 +131,7 @@ permalink: /people/
 
 ## Davide Cusseddu
 
-* Postdoctoral researcher (2019-2021)
+* Postdoctoral researcher (2019-2021) [GoogleScholar](https://scholar.google.ch/citations?user=x701yr0AAAAJ&hl=en&oi=sra)
 
 ## Mark Schmitz
 
@@ -143,13 +143,11 @@ permalink: /people/
 
 ## Lila Fishman 
 
-* Sabbatical Visitor (2020)
-* Contact: lila.fishman [@] mso.umt.edu; [web-site](https://www.fishmanlab.org/)
+* Sabbatical Visitor (2020) [web-site](https://www.fishmanlab.org/)
 
 ## Alex Wong
 
-* Sabbatical Visitor (2019)
-* Contact: [web-site](https://carleton.ca/eme)
+* Sabbatical Visitor (2019) [web-site](https://carleton.ca/eme)
 
 ## Dragan Stajic
 
@@ -164,6 +162,7 @@ permalink: /people/
 * Postdoc (2016-2019)
 
 ## Inês Fragata
+
 * Postdoc (2016-2019)
 
 ## Dinis Seward
