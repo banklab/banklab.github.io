@@ -38,11 +38,11 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **30.03.2022:** We are hosting [Philine Feulner](https://www.eawag.ch/en/department/fishec/main-focus/fish-genomics/), Group Leader of Fish Genomics at EAWAG, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) showing us "A Genomic Perspective on Speciation and Adaption in Alpine Whitefish"
 
+### Past events
+
 **09.03.2022:** Claudia gives a talk at the University of Lausanne
 
 **03.03.2022:** Claudia gives a virtual talk at the University of Exeter, UK 
-
-### Past events
 
 **01.03.2022:** We are hosting [Marion Talbi](https://www.aqua.iee.unibe.ch/about_us/team/marion_talbi/talbi_marion/index_eng.html), PhD Student at the Aquatic Ecology and Evolution group, University of Bern, for a seminar with the title: "Inference of recombination landscapes – from simulation to real data"
 
