@@ -123,7 +123,7 @@ permalink: /people/
 * Associated PhD student ([Adrian-Kalchhauser lab](https://www.fiwi.vetsuisse.unibe.ch/research/index_eng.html))
 * Contact: jessica.rieder [at] vetsuisse.unibe.ch
 
-![Photo of Jessica Rieder](/assets/img/team/Rieder-Jessica_w.jpg)
+![Photo of Jessica Rieder](/assets/img/team/white-Rieder-Jessica_w.jpg)
 
 ---
 
