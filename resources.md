@@ -104,6 +104,9 @@ For more information and a pdf of the accompanying lecture see the [website of t
 ![SNSF logo](/assets/img/logos/SNF_logo_standard_web_color_pos_e.png)<br>
 [Swiss National Science Foundation](https://www.snf.ch/en/FKhU9kAtfXx7w9AI/page/home)
 
+![HFSP logo](/assets/img/logos/HFSP_horizontal_blue_0.jpg)<br>
+[Human Frontier Science Program](https://www.hfsp.org/)
+
 ![ERC logo](/assets/img/logos/erc-logo-0.png)<br>
 [European Research Council](https://erc.europa.eu/)
 
