@@ -32,7 +32,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **03.05.2022:** We are hosting [Dave Johnson](https://www.eawag.ch/en/aboutus/portrait/organisation/staff/profile/david-johnson/show/), Group Leader at the Department Environmental Microbiology, EAWAG, for a seminar
 
-**12.04.2022:** We are hosting [Sam Yeaman](https://yeamanlab.weebly.com/), Associate Professor at the University of Calgary, Canada, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
+**12.04.2022:** We are hosting [Sam Yeaman](https://yeamanlab.weebly.com/), Associate Professor at the University of Calgary, Canada, for a virtual [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
 **06.04.2022:** We are hosting [Stefan Laurent](https://www.mpipz.mpg.de/laurent), Group Leader at the MPIPZ, Germany, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
