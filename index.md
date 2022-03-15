@@ -26,6 +26,8 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **18.05.2022:** We are hosting [Bahti Yilmaz](https://www.mucosalimmunology.ch/en/lab-members/dr-bahtiyar-yilmaz.html), Ambizione Group Leader at the Mucosal Immunology Department, University of Bern, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
+**17.05.2022:** We are hosting [François Blanquart](https://sites.google.com/site/francoisblanquart/home), CNRS Group Leader at the Collège de France, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
+
 **11.05.2022:** We are hosting [Hannes Svardal](https://www.uantwerpen.be/en/staff/hannes-svardal/svardal-lab/), Head of Evolutionary Population Genomics, at the University of Antwerp, Belgium, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
 **03.05.2022:** We are hosting [Dave Johnson](https://www.eawag.ch/en/aboutus/portrait/organisation/staff/profile/david-johnson/show/), Group Leader at the Department Environmental Microbiology, EAWAG, for a seminar
@@ -37,6 +39,8 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 **05.04.2022:** We are hosting [Joshua Ebner](https://duw.unibas.ch/en/research-groups/geoecology/staff/joshua-niklas-ebner/), PhD Candidate at the Department of Environmental Sciences, University of Basel, for a seminar on "Proteome plasticity across temperature and environment"
 
 **30.03.2022:** We are hosting [Philine Feulner](https://www.eawag.ch/en/department/fishec/main-focus/fish-genomics/), Group Leader of Fish Genomics at EAWAG, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) showing us "A Genomic Perspective on Speciation and Adaption in Alpine Whitefish"
+
+**22.03.2022:** We are hosting [Sam Yeaman](https://yeamanlab.weebly.com/), Associate Professor at the University of Calgary, Canada, for a discussion on "Quantifying how constraints limit the diversity of viable routes to adaptation"
 
 ### Past events
 
