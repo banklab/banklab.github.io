@@ -22,17 +22,17 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **25.10.2022:** We are hosting [Helen Alexander](https://www.ed.ac.uk/biology/groups/alexander), Group Leader at the University of Edinburgh, Scotland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
-**24.05.2022:** We are hosting [Michael Turelli](https://biology.ucdavis.edu/people/michael-turelli), Distinguished Professor at the Evolution and Ecology Center for Population Biology, UC Davis, USA, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
+**24.05.2022:** We are co-hosting [Michael Turelli](https://biology.ucdavis.edu/people/michael-turelli), Distinguished Professor at the Evolution and Ecology Center for Population Biology, UC Davis, USA, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
 **18.05.2022:** We are hosting [Bahti Yilmaz](https://www.mucosalimmunology.ch/en/lab-members/dr-bahtiyar-yilmaz.html), Ambizione Group Leader at the Mucosal Immunology Department, University of Bern, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
-**17.05.2022:** We are hosting [François Blanquart](https://sites.google.com/site/francoisblanquart/home), CNRS Group Leader at the Collège de France, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
+**17.05.2022:** Loïc is hosting [François Blanquart](https://sites.google.com/site/francoisblanquart/home), CNRS Group Leader at the Collège de France, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
 **11.05.2022:** We are hosting [Hannes Svardal](https://www.uantwerpen.be/en/staff/hannes-svardal/svardal-lab/), Head of Evolutionary Population Genomics, at the University of Antwerp, Belgium, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
 **03.05.2022:** We are hosting [Dave Johnson](https://www.eawag.ch/en/aboutus/portrait/organisation/staff/profile/david-johnson/show/), Group Leader at the Department Environmental Microbiology, EAWAG, for a seminar
 
-**12.04.2022:** We are hosting [Sam Yeaman](https://yeamanlab.weebly.com/), Associate Professor at the University of Calgary, Canada, for a virtual [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
+**12.04.2022:** We are co-hosting [Sam Yeaman](https://yeamanlab.weebly.com/), Associate Professor at the University of Calgary, Canada, for a virtual [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) on "The genetic basis of adaptation: constrained, flexible, or somewhere in between?"
 
 **06.04.2022:** We are hosting [Stefan Laurent](https://www.mpipz.mpg.de/laurent), Group Leader at the MPIPZ, Germany, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
