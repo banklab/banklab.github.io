@@ -20,18 +20,20 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 {:/comment}
 
 ## 2022
-<u>L. Lansch-Justen</u>, <u>D. Cusseddu</u>, <u>M.A. Schmitz</u>, and  <u>C. Bank</u>. **The extinction time under mutational meltdown.** Submitted. [preprint](https://www.biorxiv.org/content/10.1101/2022.02.01.478601)
 
-<u>C. Bank</u>. **Epistasis and adaptation in rugged fitness landscapes.** Submitted.
+<u>L. Lansch-Justen</u>, <u>D. Cusseddu</u>, <u>M.A. Schmitz</u>, and  <u>C. Bank</u>. **The extinction time under mutational meltdown.** In review. [preprint](https://www.biorxiv.org/content/10.1101/2022.02.01.478601)
+
+<u>D. Stajic</u><sup>#</sup>, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Epigenetic switching outcompetes genetic mutations during adaptation to fluctuating environments.** In review. [preprint](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
+
+<u>C. Bank</u>. **Epistasis and adaptation in rugged fitness landscapes.** Annual Reviews in Ecology, Evolution and Systematics, accepted pending revision.
 
 <u>J. Li</u><sup>#</sup>, M. Schumer, and <u>C. Bank</u><sup>#</sup>. **Imbalanced segregation of recombinant haplotypes in hybrid populations reveals inter- and intrachromosomal Dobzhansky-Muller incompatibilities.** Plos Genetics, accepted. [preprint](https://www.biorxiv.org/content/10.1101/2021.08.04.454891v1)
 
 ## 2021
+
 <u>M.A.D. Louro</u>, M. Bettencourt-Dias, and Jorge Carneiro. **A first-takes-all model of centriole copy number control based on cartwheel elongation.** Plos Computational Biology, doi.org/10.1371/journal.pcbi.1008359 [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008359)
 
 M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J. Cairns, E.S. Colizzi, <u>D. Cusseddu</u>, M.M. Desai, B. van Dijk, M. Egas, J. Ellers, A.T. Groot, D.G. Heckel, M.L. Johnson, K. Kraaijeveld, J. Krug, L. Laan, M. Lässig, P.A. Lind, J. Meijer, L.M. Noble, S. Okasha, P.B. Rainey, D.E. Rozen, S. Shitut, S.J. Tans, O. Tenaillon, H. Teotónio, J.A.G.M. de Visser, M.E. Visser, R.M.A. Vroomans, G.D.A. Werner, B. Wertheim, and P.S. Pennings. **The why, what and how of predicting evolution across biology: from disease to biotechnology to biodiversity.** [preprint](https://ecoevorxiv.org/4u3mg/)
-
-<u>D. Stajic</u><sup>#</sup>, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Epigenetic switching outcompetes genetic mutations during adaptation to fluctuating environments.** Submitted. [preprint](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
 
 M.S. Joshi, <u>A. Kapopoulou</u>, and S. Laurent. **Impact of genetic variation in gene regulatory sequences: a population genomics perspective.** Frontiers in Genetics. [link](https://doi.org/10.3389/fgene.2021.660899)
 
@@ -67,7 +69,6 @@ S. Ramos, A.R. Carlos, B. Sundaram, V. Jeney, A. Ribeiro, R. Gozzelino, <u>C. Ba
 
 <u>I. Fragata</u>, <u>A. Blanckaert</u>, <u>M.A.D. Louro</u>, D.A. Liberles, and <u>C. Bank</u>. **Evolution in the light of fitness landscape theory.** Trends in Ecology and Evolution, doi: 10.1016/j.tree.2018.10.009 [link](https://doi.org/10.1016/j.tree.2018.10.009) or [preprint](https://www.dropbox.com/s/wiy9doprw3nhoe2/tree_ms.pdf?dl=0)
 
-
 ## 2018
 
 <u>A. Blanckaert</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation.** Plos Genetics, doi: 10.1371/journal.pgen.1007613 [link](https://doi.org/10.1371/journal.pgen.1007613) or [preprint](https://doi.org/10.1101/266254)
@@ -84,7 +85,6 @@ J.A.G.M. de Visser<sup>#</sup>, S.F. Elena<sup>#</sup>, <u>I. Fragata</u><sup>#<
 
 <u>A.-H. Ghenu</u><sup>*</sup>, <u>A. Blanckaert</u><sup>*</sup>, R.K. Butlin, J. Kulmuni, and <u>C. Bank</u>. **Conflict between heterozygote advantage and hybrid incompatibility in haplodiploids (and sex chromosomes).** Molecular Ecology, doi: 10.1111/mec.14482 [link](http://onlinelibrary.wiley.com/doi/10.1111/mec.14482/abstract) or [preprint](https://doi.org/10.1101/196469). Read our summary of this article [here](https://evoldynamics.org/2018/02/08/conflict-between-heterozygote-advantage-and-hybrid-incompatibility-in-haplodiploids-and-sex-chromosomes/).
 
-
 ## 2017
 
 <u>I. Fragata</u>, and <u>C. Bank</u>. **What doesn’t kill us makes us stronger: can Fisher’s Geometric model predict antibiotic resistance evolution?** Peer Community in Evolutionary Biology, doi:10.24072/pci.evolbiol.100028 (A post-print recommendation of [Harmand et al., 2016, Evolution](https://doi.org/10.1111/evo.13111).) [link](https://doi.org/10.24072/pci.evolbiol.100028)
@@ -92,7 +92,6 @@ J.A.G.M. de Visser<sup>#</sup>, S.F. Elena<sup>#</sup>, <u>I. Fragata</u><sup>#<
 L. Ormond, P. Liu, S. Matuszewski, N. Renzette, <u>C. Bank</u>, K.B. Zeldovich, D.N.A. Bolon, T.F. Kowalik, R.W. Finberg, J.D. Jensen<sup>#</sup>, and J.P. Wang<sup>#</sup>. **The combined effect of oseltamivir and favipiravir on influenza A virus evolution.** Genome Biology and Evolution, doi:10.1093/gbe/evx138 [link](https://doi.org/10.1093/gbe/evx138)
 
 S. Matuszewski, L. Ormond, <u>C. Bank</u>, and J.D. Jensen. **Two sides of the same coin: a population genetics perspective on lethal mutagenesis and mutational meltdown.** Virus Evolution, doi:10.1093/ve/vex004 [link](https://doi.org/10.1093/ve/vex004) or [direct pdf link](http://jjensenlab.org/wp-content/uploads/2016/02/Matuszewski_et_al_2017.pdf)
-
 
 ##  2016
 
@@ -106,11 +105,9 @@ S. Matuszewski<sup>*#</sup>, M.E. Hildebrandt<sup>*</sup>, <u>A.-H. Ghenu</u>, J
 
 L. Jiang, P. Liu, <u>C. Bank</u>, N. Renzette, K. Prachanronarong, L.S. Yilmaz, D.R. Caffrey, K.B. Zeldovich, C.A. Schiffer, T.F. Kowalik, J.D. Jensen, R.W. Finberg, J.P. Wang<sup>#</sup>, and D.N.A. Bolon<sup>#</sup>. **A balance between inhibitor binding and substrate processing confers influenza drug resistance.** Journal of Molecular Biology, doi:10.1016/j.jmb.2015.11.027 [link](https://doi.org/10.1016/j.jmb.2015.11.027)
 
-
 ## 2015
 
 <u>C. Bank</u>, R.T. Hietpas, J.D. Jensen, and D.N.A. Bolon. **A systematic survey of an intragenic epistatic landscape.** Molecular Biology and Evolution, doi:10.1093/molbev/msu301 [link](https://doi.org/10.1093/molbev/msu301) or [preprint](https://doi.org/10.1101/010645)
-
 
 ## 2014
 
@@ -122,11 +119,9 @@ M. Foll<sup>*</sup>, Y.-P. Poh<sup>*</sup>, N. Renzette, A. Ferrer-Admetlla, <u>
 
 O. Seehausen, R.K. Butlin, I. Keller, C. Wagner, J. Boughman, P. Hohenlohe, C. Peichel, G.-P. Saetre, <u>C. Bank</u>, A. Brännström, A. Brelsford, C. Clarkson, F. Eroukhmanoff, J.L. Feder, M.C. Fischer, A.D. Foote, P. Franchini, C.D. Jiggins, F.C. Jones, A.K. Lindholm, K. Lucek, M.E. Maan, D.A. Marques, S.H. Martin, B. Matthews, J.I. Meier, M. Möst, M.W. Nachman, E. Nonaka, C.L. Peichel, D.J. Rennison, G.-P. Saetre, J. Schwarzer, C.E. Wagner, E.T. Watson, A.M. Westram, and A. Widmer. **Genomics and the origin of species.** Nature Reviews Genetics, doi:10.1038/nrg3644 [link](https://doi.org/10.1038/nrg3644)
 
-
 ## 2013
 
 R.T. Hietpas<sup>*</sup>, <u>C. Bank</u><sup>*</sup>, J.D. Jensen<sup>#</sup>, and D.N.A. Bolon<sup>#</sup>. **Shifting fitness landscapes in response to altered environments.** Evolution, doi:10.1111/evo.12207 [link](https://doi.org/10.1111/evo.12207) or [direct pdf link](http://jjensenlab.org/wp-content/uploads/2016/02/hietpas_et_al_2013.pdf)
-
 
 ## 2012
 
