@@ -27,19 +27,19 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>C. Bank</u>. **Epistasis and adaptation in rugged fitness landscapes.** Annual Reviews in Ecology, Evolution and Systematics, accepted pending revision.
 
-<u>J. Li</u><sup>#</sup>, M. Schumer, and <u>C. Bank</u><sup>#</sup>. **Imbalanced segregation of recombinant haplotypes in hybrid populations reveals inter- and intrachromosomal Dobzhansky-Muller incompatibilities.** Plos Genetics, accepted. [preprint](https://www.biorxiv.org/content/10.1101/2021.08.04.454891v1)
+<u>J. Li</u><sup>#</sup>, M. Schumer, and <u>C. Bank</u><sup>#</sup>. **Imbalanced segregation of recombinant haplotypes in hybrid populations reveals inter- and intrachromosomal Dobzhansky-Muller incompatibilities.** Plos Genetics, doi: 10.1371/journal.pgen.1010120. [preprint](https://www.biorxiv.org/content/10.1101/2021.08.04.454891v1)
 
 ## 2021
 
-<u>M.A.D. Louro</u>, M. Bettencourt-Dias, and Jorge Carneiro. **A first-takes-all model of centriole copy number control based on cartwheel elongation.** Plos Computational Biology, doi.org/10.1371/journal.pcbi.1008359 [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008359)
+<u>M.A.D. Louro</u>, M. Bettencourt-Dias, and Jorge Carneiro. **A first-takes-all model of centriole copy number control based on cartwheel elongation.** Plos Computational Biology, doi: 10.1371/journal.pcbi.1008359 [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008359)
 
-M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J. Cairns, E.S. Colizzi, <u>D. Cusseddu</u>, M.M. Desai, B. van Dijk, M. Egas, J. Ellers, A.T. Groot, D.G. Heckel, M.L. Johnson, K. Kraaijeveld, J. Krug, L. Laan, M. Lässig, P.A. Lind, J. Meijer, L.M. Noble, S. Okasha, P.B. Rainey, D.E. Rozen, S. Shitut, S.J. Tans, O. Tenaillon, H. Teotónio, J.A.G.M. de Visser, M.E. Visser, R.M.A. Vroomans, G.D.A. Werner, B. Wertheim, and P.S. Pennings. **The why, what and how of predicting evolution across biology: from disease to biotechnology to biodiversity.** [preprint](https://ecoevorxiv.org/4u3mg/)
+M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J. Cairns, E.S. Colizzi, <u>D. Cusseddu</u>, M.M. Desai, B. van Dijk, M. Egas, J. Ellers, A.T. Groot, D.G. Heckel, M.L. Johnson, K. Kraaijeveld, J. Krug, L. Laan, M. Lässig, P.A. Lind, J. Meijer, L.M. Noble, S. Okasha, P.B. Rainey, D.E. Rozen, S. Shitut, S.J. Tans, O. Tenaillon, H. Teotónio, J.A.G.M. de Visser, M.E. Visser, R.M.A. Vroomans, G.D.A. Werner, B. Wertheim, and P.S. Pennings. **The why, what and how of predicting evolution across biology: from disease to biotechnology to biodiversity.** EcoEvoRxiv, doi: 10.32942/osf.io/4u3mg [preprint](https://ecoevorxiv.org/4u3mg/)
 
-M.S. Joshi, <u>A. Kapopoulou</u>, and S. Laurent. **Impact of genetic variation in gene regulatory sequences: a population genomics perspective.** Frontiers in Genetics. [link](https://doi.org/10.3389/fgene.2021.660899)
+M.S. Joshi, <u>A. Kapopoulou</u>, and S. Laurent. **Impact of genetic variation in gene regulatory sequences: a population genomics perspective.** Frontiers in Genetics, doi: 10.3389/fgene.2021.660899 [link](https://doi.org/10.3389/fgene.2021.660899)
 
-<u>M.A.D. Louro</u>, M. Bettencourt-Dias, and <u>C. Bank</u>. **Patterns of selection against centrosome amplification in human cell lines.** Plos Computational Biology, doi:10.1371/journal.pcbi.1008765. [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008765) or [preprint](https://doi.org/10.1101/2020.01.24.918615)
+<u>M.A.D. Louro</u>, M. Bettencourt-Dias, and <u>C. Bank</u>. **Patterns of selection against centrosome amplification in human cell lines.** Plos Computational Biology, doi: 10.1371/journal.pcbi.1008765. [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008765) or [preprint](https://doi.org/10.1101/2020.01.24.918615)
 
-R.K. Butlin, M.R. Servedio, C.M. Smadja, <u>C. Bank</u>,  N.H. Barton,  S.M. Flaxman, T. Giraud, R. Hopkins, E.L. Larson, M.E. Maan, J. Meier, R. Merrill, M.A.F. Noor, D. Ortiz‐Barrientos, A. Qvarnström. **Homage to Felsenstein 1981, or why are there so few/many species?** Evolution, doi:10.1111/evo.14235 [link](https://doi.org/10.1111/evo.14235)
+R.K. Butlin, M.R. Servedio, C.M. Smadja, <u>C. Bank</u>,  N.H. Barton,  S.M. Flaxman, T. Giraud, R. Hopkins, E.L. Larson, M.E. Maan, J. Meier, R. Merrill, M.A.F. Noor, D. Ortiz‐Barrientos, A. Qvarnström. **Homage to Felsenstein 1981, or why are there so few/many species?** Evolution, doi: 10.1111/evo.14235 [link](https://doi.org/10.1111/evo.14235)
 
 <u>E. Berdan</u><sup>*#</sup>, <u>A. Blanckaert</u><sup>*#</sup>, R.K. Butlin, and <u>C. Bank</u>. **Deleterious mutation accumulation and the long-term fate of chromosomal inversions.** Plos Genetics, doi: 10.1371/journal.pgen.1009411 [link](https://doi.org/10.1371/journal.pgen.1009411) or [preprint](https://www.biorxiv.org/content/10.1101/606012v1)
 
