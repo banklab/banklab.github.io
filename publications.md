@@ -21,7 +21,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2022
 
-<u>L. Lansch-Justen</u>, <u>D. Cusseddu</u>, <u>M.A. Schmitz</u>, and  <u>C. Bank</u>. **The extinction time under mutational meltdown.** In review. [preprint](https://www.biorxiv.org/content/10.1101/2022.02.01.478601)
+<u>L. Lansch-Justen</u>, <u>D. Cusseddu</u>, <u>M.A. Schmitz</u>, and  <u>C. Bank</u>. **The extinction time under mutational meltdown.** Ecology and Evolution, accepted pending revision. [preprint](https://www.biorxiv.org/content/10.1101/2022.02.01.478601)
 
 <u>D. Stajic</u><sup>#</sup>, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Epigenetic switching outcompetes genetic mutations during adaptation to fluctuating environments.** Genome Biology and Evolution, accepted pending revision. [preprint](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
 
