@@ -27,7 +27,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>C. Bank</u>. **Epistasis and adaptation in rugged fitness landscapes.** Annual Reviews in Ecology, Evolution and Systematics, accepted pending revision.
 
-<u>J. Li</u><sup>#</sup>, M. Schumer, and <u>C. Bank</u><sup>#</sup>. **Imbalanced segregation of recombinant haplotypes in hybrid populations reveals inter- and intrachromosomal Dobzhansky-Muller incompatibilities.** Plos Genetics, doi: 10.1371/journal.pgen.1010120. [preprint](https://www.biorxiv.org/content/10.1101/2021.08.04.454891v1)
+<u>J. Li</u><sup>#</sup>, M. Schumer, and <u>C. Bank</u><sup>#</sup>. **Imbalanced segregation of recombinant haplotypes in hybrid populations reveals inter- and intrachromosomal Dobzhansky-Muller incompatibilities.** Plos Genetics, doi: 10.1371/journal.pgen.1010120. [link](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010120) or [preprint](https://www.biorxiv.org/content/10.1101/2021.08.04.454891v1)
 
 ## 2021
 
