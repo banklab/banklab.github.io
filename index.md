@@ -40,9 +40,13 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **30.03.2022:** We are hosting [Philine Feulner](https://www.eawag.ch/en/department/fishec/main-focus/fish-genomics/), Group Leader of Fish Genomics at EAWAG, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) showing us "A Genomic Perspective on Speciation and Adaption in Alpine Whitefish"
 
-**22.03.2022:** We are hosting [Sam Yeaman](https://yeamanlab.weebly.com/), Associate Professor at the University of Calgary, Canada, for a discussion on "Quantifying how constraints limit the diversity of viable routes to adaptation"
-
 ### Past events
+
+**28.03.2022:** LiJuan's and Claudia's paper on ["Imbalanced segregation of recombinant haplotypes in hybrid populations reveals inter- and intrachromosomal Dobzhansky-Muller incompatibilities"](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010120) is published in PLOS Genetics
+
+**25.03.2022:** Dave gives a talk at the [Mathematical models in ecology and evolution](http://mmee.eu/) conference at Institut Henri Poincaré, Paris, France with title: "Effects of epistasis and recombination between vaccine-escape and virulence alleles on the dynamics of pathogen adaptation"
+
+**22.03.2022:** We are hosting [Sam Yeaman](https://yeamanlab.weebly.com/), Associate Professor at the University of Calgary, Canada, for a discussion on "Quantifying how constraints limit the diversity of viable routes to adaptation"
 
 **09.03.2022:** Claudia gives a talk at the University of Lausanne
 
