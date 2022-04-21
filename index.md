@@ -7,8 +7,6 @@ permalink: /
 
 Welcome to the web page of the Division Theoretical Ecology and Evolution at the [University of Bern](http://www.thee.iee.unibe.ch/index_eng.html). Here you can follow the latest lab news (below) or learn more about our [team members](https://banklab.github.io/people/), [research](https://banklab.github.io/research/), [publications](https://banklab.github.io/publications/) and more!
 
-**Note that we currently have [two open PhD positions](https://banklab.github.io/positions/)!**
-
 ## Most recent Tweet by @THEELabTeam
 
 <div class="twitter_feed">
