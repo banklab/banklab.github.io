@@ -127,74 +127,46 @@ permalink: /people/
 
 ---
 
-# Alumni
+# Alumni (University of Bern)
+
+**Sabrina Rasch** Bachelor student (2021-2022)
+
+# Alumni (Gulbenkian Science Institute)
 
 (In reverse chronological order of leaving the group)
 
-## Davide Cusseddu
+[**Davide Cusseddu**](https://scholar.google.ch/citations?user=x701yr0AAAAJ&hl=en&oi=sra) Postdoctoral researcher (2019-2021)
 
-* Postdoctoral researcher (2019-2021) [GoogleScholar](https://scholar.google.ch/citations?user=x701yr0AAAAJ&hl=en&oi=sra)
+**Mark Schmitz** Data/Lab Manager (2020)
 
-## Mark Schmitz
+**Lucy Lansch-Justen** Trainee/Programmer (2020)
 
-* Data/Lab-manager (2020)
+**Inês Borges** Bachelor student (2020)
 
-## Lucy Lansch-Justen
+[**Lila Fishman**](https://www.fishmanlab.org/) Sabbatical Visitor (2019-2020)
 
-* Summer project student (2020)
+[**Alex Wong**](https://carleton.ca/eme) Sabbatical Visitor (2019)
 
-## Lila Fishman 
+**Dragan Stajic** Associated postdoctoral researcher (2019)
 
-* Sabbatical Visitor (2020) [web-site](https://www.fishmanlab.org/)
+**Christian Diwo** Trainee (2019)
 
-## Alex Wong
+[**Alexandre Blanckaert**](https://scholar.google.ch/citations?hl=en&user=7mCf8EwAAAAJ) Postdoc (2016-2019)
 
-* Sabbatical Visitor (2019) [web-site](https://carleton.ca/eme)
+[**Inês Fragata**](https://scholar.google.ch/citations?user=zSLmDo4AAAAJ&hl=en) Postdoc (2016-2019)
 
-## Dragan Stajic
+**Dinis Seward** Summer project student (2019)
 
-* Associated postdoctoral researcher (2019)
+**Vedanth Sriram** Summer project student (2019)
 
-## Christian Diwo
+**Manuel Fortunato** Project student (2018)
 
-* Trainee (2019)
+**Sofia Torres** Summer project student (2018)
 
-## Alexandre Blanckaert
+[**Emma Berdan**](https://scholar.google.ch/citations?hl=en&user=8PtQTicAAAAJ) Visiting postdoc (2018)
 
-* Postdoc (2016-2019)
+**Andreia Teixeira** Trainee (2016)
 
-## Inês Fragata
+**Mariana Vidal Pinheiro** Summer project student (2016)
 
-* Postdoc (2016-2019)
-
-## Dinis Seward
-
-* Summer project student (2019)
-
-## Vedanth Sriram
-
-* Summer project student (2019)
-
-## Manuel Fortunato
-
-* Project student (2018)
-
-## Sofia Torres
-
-* Summer project student (2018)
-
-## Emma Berdan
-
-* Visiting postdoc (February/March 2018)
-
-## Andreia Teixeira
-
-* Trainee (2016)
-
-## Mariana Vidal Pinheiro
-
-* Summer project student (2016)
-
-## Telmo Cunha
-
-* Summer project student (2016)
+**Telmo Cunha** Summer project student (2016)
