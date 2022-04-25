@@ -22,6 +22,8 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **24.05.2022:** We are co-hosting [Michael Turelli](https://biology.ucdavis.edu/people/michael-turelli), Distinguished Professor at the Evolution and Ecology Center for Population Biology, UC Davis, USA, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
+**24.05.2022:** We are hosting [Chaitanya Gokhale](https://tecoevo.github.io/), Group Leader at the Max-Planck Institute for Evolutionary Biology in Plön, Germany, for a seminar on "The power of belief - how collective narratives catalyze cooperation"
+
 **18.05.2022:** We are hosting [Bahti Yilmaz](https://www.mucosalimmunology.ch/en/lab-members/dr-bahtiyar-yilmaz.html), Ambizione Group Leader at the Mucosal Immunology Department, University of Bern, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
 **17.05.2022:** Loïc is hosting [François Blanquart](https://sites.google.com/site/francoisblanquart/home), CNRS Group Leader at the Collège de France, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
@@ -30,6 +32,10 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **03.05.2022:** We are hosting [Dave Johnson](https://www.eawag.ch/en/aboutus/portrait/organisation/staff/profile/david-johnson/show/), Group Leader at the Department Environmental Microbiology, EAWAG, for a seminar
 
+### Past events
+
+**12.04.2022:** We are hosting [Massimo Amicone](https://scholar.google.ch/citations?user=i-kYxE4AAAAJ&hl=en&oi=ao), PhD student at the Gulbenkian Science Institute in Oeiras, Portugal, for a seminar on "The role of competition in microbial evolution"
+
 **12.04.2022:** We are co-hosting [Sam Yeaman](https://yeamanlab.weebly.com/), Associate Professor at the University of Calgary, Canada, for a virtual [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) on "The genetic basis of adaptation: constrained, flexible, or somewhere in between?"
 
 **06.04.2022:** We are hosting [Stefan Laurent](https://www.mpipz.mpg.de/laurent), Group Leader at the MPIPZ, Germany, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
@@ -37,8 +43,6 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 **05.04.2022:** We are hosting [Joshua Ebner](https://duw.unibas.ch/en/research-groups/geoecology/staff/joshua-niklas-ebner/), PhD Candidate at the Department of Environmental Sciences, University of Basel, for a seminar on "Proteome plasticity across temperature and environment"
 
 **30.03.2022:** We are hosting [Philine Feulner](https://www.eawag.ch/en/department/fishec/main-focus/fish-genomics/), Group Leader of Fish Genomics at EAWAG, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) showing us "A Genomic Perspective on Speciation and Adaption in Alpine Whitefish"
-
-### Past events
 
 **28.03.2022:** LiJuan's and Claudia's paper on ["Imbalanced segregation of recombinant haplotypes in hybrid populations reveals inter- and intrachromosomal Dobzhansky-Muller incompatibilities"](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010120) is published in PLOS Genetics
 
