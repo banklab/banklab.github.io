@@ -127,13 +127,15 @@ permalink: /people/
 
 ---
 
-# Alumni (University of Bern)
+# Alumni
+
+(In reverse chronological order of leaving the group)
+
+## University of Bern Alumni
 
 **Sabrina Rasch** Bachelor student (2021-2022)
 
-# Alumni (Gulbenkian Science Institute)
-
-(In reverse chronological order of leaving the group)
+## Gulbenkian Science Institute Alumni
 
 [**Davide Cusseddu**](https://scholar.google.ch/citations?user=x701yr0AAAAJ&hl=en&oi=sra) Postdoctoral researcher (2019-2021)
 
