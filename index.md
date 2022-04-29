@@ -34,6 +34,8 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Past events
 
+**29.04.2022** Claudia's review paper synthesizing "Epistasis and Adaptation on Fitness Landscapes" is now online as a [preprint](https://arxiv.org/abs/2204.13321)
+
 **12.04.2022:** We are hosting [Massimo Amicone](https://scholar.google.ch/citations?user=i-kYxE4AAAAJ&hl=en&oi=ao), PhD student at the Gulbenkian Science Institute in Oeiras, Portugal, for a seminar on "The role of competition in microbial evolution"
 
 **12.04.2022:** We are co-hosting [Sam Yeaman](https://yeamanlab.weebly.com/), Associate Professor at the University of Calgary, Canada, for a virtual [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) on "The genetic basis of adaptation: constrained, flexible, or somewhere in between?"
