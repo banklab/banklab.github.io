@@ -25,7 +25,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>D. Stajic</u><sup>#</sup>, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Epigenetic switching outcompetes genetic mutations during adaptation to fluctuating environments.** Genome Biology and Evolution, accepted pending revision. [preprint](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
 
-<u>C. Bank</u>. **Epistasis and adaptation in rugged fitness landscapes.** Annual Reviews in Ecology, Evolution and Systematics, accepted pending revision.
+<u>C. Bank</u>. **Epistasis and adaptation in rugged fitness landscapes.** Annual Reviews in Ecology, Evolution and Systematics, accepted pending revision. [preprint](https://arxiv.org/abs/2204.13321)
 
 <u>J. Li</u><sup>#</sup>, M. Schumer, and <u>C. Bank</u><sup>#</sup>. **Imbalanced segregation of recombinant haplotypes in hybrid populations reveals inter- and intrachromosomal Dobzhansky-Muller incompatibilities.** Plos Genetics, doi: 10.1371/journal.pgen.1010120. [link](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010120) or [preprint](https://www.biorxiv.org/content/10.1101/2021.08.04.454891v1)
 
