@@ -21,6 +21,8 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2022
 
+<u>D.V. McLeod</u>, S. Gandon. **Effects of epistasis and recombination between vaccine-escape and virulence alleles on the dynamics of pathogen adaptation.** Nature Ecology & Evolution, [link](https://doi.org/10.1038/s41559-022-01709-y)
+
 <u>L. Lansch-Justen</u>, <u>D. Cusseddu</u>, <u>M.A. Schmitz</u>, and  <u>C. Bank</u>. **The extinction time under mutational meltdown.** Ecology and Evolution, accepted pending revision. [preprint](https://www.biorxiv.org/content/10.1101/2022.02.01.478601)
 
 <u>D. Stajic</u><sup>#</sup>, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Epigenetic switching outcompetes genetic mutations during adaptation to fluctuating environments.** Genome Biology and Evolution, accepted pending revision. [preprint](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
