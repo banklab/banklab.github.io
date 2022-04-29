@@ -36,6 +36,8 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **29.04.2022** Claudia's review paper synthesizing "Epistasis and Adaptation on Fitness Landscapes" is now online as a [preprint](https://arxiv.org/abs/2204.13321)
 
+**18.04.2022** Dave's paper "Effects of epistasis and recombination between vaccine-escape and virulence alleles on the dynamics of pathogen adaptation" has been published [link](https://doi.org/10.1038/s41559-022-01709-y)
+
 **12.04.2022:** We are hosting [Massimo Amicone](https://scholar.google.ch/citations?user=i-kYxE4AAAAJ&hl=en&oi=ao), PhD student at the Gulbenkian Science Institute in Oeiras, Portugal, for a seminar on "The role of competition in microbial evolution"
 
 **12.04.2022:** We are co-hosting [Sam Yeaman](https://yeamanlab.weebly.com/), Associate Professor at the University of Calgary, Canada, for a virtual [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) on "The genetic basis of adaptation: constrained, flexible, or somewhere in between?"
@@ -48,7 +50,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **28.03.2022:** LiJuan's and Claudia's paper on ["Imbalanced segregation of recombinant haplotypes in hybrid populations reveals inter- and intrachromosomal Dobzhansky-Muller incompatibilities"](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010120) is published in PLOS Genetics
 
-**25.03.2022:** Dave gives a talk at the [Mathematical models in ecology and evolution](http://mmee.eu/) conference at Institut Henri Poincaré, Paris, France with title: "Effects of epistasis and recombination between vaccine-escape and virulence alleles on the dynamics of pathogen adaptation"
+**25.03.2022:** Dave gives a talk at the [Mathematical models in ecology and evolution](https://matmodecoevo-22.sciencesconf.org/) conference at Institut Henri Poincaré, Paris, France with title: "Effects of epistasis and recombination between vaccine-escape and virulence alleles on the dynamics of pathogen adaptation"
 
 **22.03.2022:** We are hosting [Sam Yeaman](https://yeamanlab.weebly.com/), Associate Professor at the University of Calgary, Canada, for a discussion on "Quantifying how constraints limit the diversity of viable routes to adaptation"
 
