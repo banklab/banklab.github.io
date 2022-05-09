@@ -20,6 +20,8 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **25.10.2022:** We are hosting [Helen Alexander](https://www.ed.ac.uk/biology/groups/alexander), Group Leader at the University of Edinburgh, Scotland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
+**31.05.2022:** Loïc gives a talk at the [iPOLS meeting](https://gdripols.wordpress.com/meeting-montpellier-2021/) at Montpellier, France with title: "Evolutionary rescue in fluctuating environment"
+
 **24.05.2022:** We are co-hosting [Michael Turelli](https://biology.ucdavis.edu/people/michael-turelli), Distinguished Professor at the Evolution and Ecology Center for Population Biology, UC Davis, USA, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
 **24.05.2022:** We are hosting [Chaitanya Gokhale](https://tecoevo.github.io/), Group Leader at the Max-Planck Institute for Evolutionary Biology in Plön, Germany, for a seminar on "The power of belief - how collective narratives catalyze cooperation"
@@ -30,9 +32,9 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **11.05.2022:** We are hosting [Hannes Svardal](https://www.uantwerpen.be/en/staff/hannes-svardal/svardal-lab/), Head of Evolutionary Population Genomics, at the University of Antwerp, Belgium, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
-**03.05.2022:** We are hosting [Dave Johnson](https://www.eawag.ch/en/aboutus/portrait/organisation/staff/profile/david-johnson/show/), Group Leader at the Department Environmental Microbiology, EAWAG, for a seminar
-
 ### Past events
+
+**03.05.2022:** We are hosting [Dave Johnson](https://www.eawag.ch/en/aboutus/portrait/organisation/staff/profile/david-johnson/show/), Group Leader at the Department Environmental Microbiology, EAWAG, for a seminar
 
 **29.04.2022** Claudia's review paper synthesizing "Epistasis and Adaptation on Fitness Landscapes" is now online as a [preprint](https://arxiv.org/abs/2204.13321)
 
