@@ -21,13 +21,13 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2022
 
-<u>D.V. McLeod</u>, S. Gandon. **Effects of epistasis and recombination between vaccine-escape and virulence alleles on the dynamics of pathogen adaptation.** Nature Ecology & Evolution, [link](https://doi.org/10.1038/s41559-022-01709-y)
-
 <u>L. Lansch-Justen</u>, <u>D. Cusseddu</u>, <u>M.A. Schmitz</u>, and  <u>C. Bank</u>. **The extinction time under mutational meltdown.** Ecology and Evolution, accepted pending revision. [preprint](https://www.biorxiv.org/content/10.1101/2022.02.01.478601)
 
-<u>D. Stajic</u><sup>#</sup>, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Epigenetic switching outcompetes genetic mutations during adaptation to fluctuating environments.** Genome Biology and Evolution, accepted pending revision. [preprint](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
-
 <u>C. Bank</u>. **Epistasis and adaptation on fitness landscapes.** Annual Reviews in Ecology, Evolution and Systematics, accepted pending revision. [preprint](https://arxiv.org/abs/2204.13321)
+
+<u>D. Stajic</u><sup>#</sup>, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Adaptive Potential of Epigenetic Switching During Adaptation to Fluctuating Environments.** Genome Biology and Evolution, doi: 10.1093/gbe/evac065. [link](https://academic.oup.com/gbe/article/14/5/evac065/6586088?login=true) or [preprint](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
+
+<u>D.V. McLeod</u>, S. Gandon. **Effects of epistasis and recombination between vaccine-escape and virulence alleles on the dynamics of pathogen adaptation.** Nature Ecology & Evolution, [link](https://doi.org/10.1038/s41559-022-01709-y)
 
 <u>J. Li</u><sup>#</sup>, M. Schumer, and <u>C. Bank</u><sup>#</sup>. **Imbalanced segregation of recombinant haplotypes in hybrid populations reveals inter- and intrachromosomal Dobzhansky-Muller incompatibilities.** Plos Genetics, doi: 10.1371/journal.pgen.1010120. [link](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010120) or [preprint](https://www.biorxiv.org/content/10.1101/2021.08.04.454891v1)
 
