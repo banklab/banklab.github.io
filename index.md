@@ -22,9 +22,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **31.05.2022:** Loïc gives a talk at the [iPOLS meeting](https://gdripols.wordpress.com/meeting-montpellier-2021/) at Montpellier, France with title: "Evolutionary rescue in fluctuating environment"
 
-**24.05.2022:** We are co-hosting [Michael Turelli](https://biology.ucdavis.edu/people/michael-turelli), Distinguished Professor at the Evolution and Ecology Center for Population Biology, UC Davis, USA, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
-
-**24.05.2022:** We are hosting [Chaitanya Gokhale](https://tecoevo.github.io/), Group Leader at the Max-Planck Institute for Evolutionary Biology in Plön, Germany, for a seminar on "The power of belief - how collective narratives catalyze cooperation"
+**24.05.2022:** We are hosting [Chaitanya Gokhale](https://tecoevo.github.io/), Group Leader at the Max-Planck Institute for Evolutionary Biology in Plön, Germany, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) on "The power of belief - how collective narratives catalyze cooperation"
 
 **18.05.2022:** We are hosting [Bahti Yilmaz](https://www.mucosalimmunology.ch/en/lab-members/dr-bahtiyar-yilmaz.html), Ambizione Group Leader at the Mucosal Immunology Department, University of Bern, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
