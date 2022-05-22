@@ -1,4 +1,10 @@
 
+---
+layout: default
+title: About us | Theoretical Ecology and Evolution
+permalink: /contact/
+---
+
 # Contact
 
 University of Bern
