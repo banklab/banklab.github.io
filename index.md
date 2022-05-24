@@ -20,7 +20,11 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **25.10.2022:** We are hosting [Helen Alexander](https://www.ed.ac.uk/biology/groups/alexander), Group Leader at the University of Edinburgh, Scotland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
+**13-17.06.2022:** Loïc gives a virtual talk at the Models in Population Dynamics, Ecology and Evolution meeting [MPDEE2022](https://sites.google.com/view/mpdee2022), Torino, Italy with title: "Evolutionary rescue in fluctuating environment"
+
 **31.05.2022:** Loïc gives a talk at the [iPOLS meeting](https://gdripols.wordpress.com/meeting-montpellier-2021/) at Montpellier, France with title: "Evolutionary rescue in fluctuating environment"
+
+### Past events
 
 **24.05.2022:** We are hosting [Chaitanya Gokhale](https://tecoevo.github.io/), Group Leader at the Max-Planck Institute for Evolutionary Biology in Plön, Germany, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) on "The power of belief - how collective narratives catalyze cooperation"
 
@@ -29,8 +33,6 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 **17.05.2022:** Loïc is hosting [François Blanquart](https://sites.google.com/site/francoisblanquart/home), CNRS Group Leader at the Collège de France, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
 **11.05.2022:** We are hosting [Hannes Svardal](https://www.uantwerpen.be/en/staff/hannes-svardal/svardal-lab/), Head of Evolutionary Population Genomics, at the University of Antwerp, Belgium, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
-
-### Past events
 
 **03.05.2022:** We are hosting [Dave Johnson](https://www.eawag.ch/en/aboutus/portrait/organisation/staff/profile/david-johnson/show/), Group Leader at the Department Environmental Microbiology, EAWAG, for a seminar
 
