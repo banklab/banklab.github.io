@@ -8,10 +8,15 @@ permalink: /contact/
 # Contact
 
 University of Bern
+
 Institute of Ecology and Evolution
+
 Theoretical Ecology and Evolution
+
 Baltzerstrasse 6
+
 CH-3012 Bern
+
 Tel +41 31 684 45 11 (Secr)
 
 ## Directions to the Lab from the Bern Train Station (Hauptbahnhof):
