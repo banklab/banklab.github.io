@@ -22,11 +22,17 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **13-17.06.2022:** Loïc gives a virtual talk at the Models in Population Dynamics, Ecology and Evolution meeting [MPDEE2022](https://sites.google.com/view/mpdee2022), Torino, Italy with title: "Evolutionary rescue in fluctuating environment"
 
-**31.05.2022:** Loïc gives a talk at the [iPOLS meeting](https://gdripols.wordpress.com/meeting-montpellier-2021/) at Montpellier, France with title: "Evolutionary rescue in fluctuating environment"
+**14-15.06.2022:** The lab is actively participating in the [SIB days](https://sibdays.sib.swiss/about-sib-days), the Swiss bioinformatics summit: Ana is co-chairing a session, André and LiJuan are presenting a poster and Mado is selected for a 3' pitch of her poster.
 
 ### Past events
 
+**01.06.2022:** We are hosting [Victor Boussange](https://ele.ethz.ch/the-group/people/person-detail/victor-boussange.html), PhD student in the Landscape Ecology Group at ETH Zürich and at the Swiss Federal Institute for Forest, Snow & Landscape (WSL), Switzerland
+
+**31.05.2022:** Loïc gives a talk at the [iPOLS meeting](https://gdripols.wordpress.com/meeting-montpellier-2021/) at Montpellier, France with title: "Evolutionary rescue in fluctuating environment"
+
 **24.05.2022:** We are hosting [Chaitanya Gokhale](https://tecoevo.github.io/), Group Leader at the Max-Planck Institute for Evolutionary Biology in Plön, Germany, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) on "The power of belief - how collective narratives catalyze cooperation"
+
+**19.05.2022:** Welcome to Harsh B Gupta, who is joining the lab for a virtual summer internship during the next 2.5 months
 
 **18.05.2022:** We are hosting [Bahti Yilmaz](https://www.mucosalimmunology.ch/en/lab-members/dr-bahtiyar-yilmaz.html), Ambizione Group Leader at the Mucosal Immunology Department, University of Bern, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
