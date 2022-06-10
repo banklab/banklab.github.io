@@ -21,7 +21,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2022
 
-<u>C. Bank</u>. **Epistasis and adaptation on fitness landscapes.** Annual Reviews in Ecology, Evolution and Systematics, accepted pending revision. [preprint](https://arxiv.org/abs/2204.13321)
+<u>C. Bank</u>. **Epistasis and adaptation on fitness landscapes.** Annual Reviews in Ecology, Evolution and Systematics, in press. [preprint](https://arxiv.org/abs/2204.13321)
 
 <u>L. Lansch-Justen</u>, <u>D. Cusseddu</u>, <u>M.A. Schmitz</u>, and  <u>C. Bank</u>. **The extinction time under mutational meltdown driven by high mutation rates.** Ecology and Evolution, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.02.01.478601)
 
