@@ -20,11 +20,11 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **25.10.2022:** We are hosting [Helen Alexander](https://www.ed.ac.uk/biology/groups/alexander), Group Leader at the University of Edinburgh, Scotland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
+### Past events
+
 **13-17.06.2022:** Loïc gives a virtual talk at the Models in Population Dynamics, Ecology and Evolution meeting [MPDEE2022](https://sites.google.com/view/mpdee2022), Torino, Italy with title: "Evolutionary rescue in fluctuating environment"
 
-**14-15.06.2022:** The lab is actively participating in the [SIB days](https://sibdays.sib.swiss/about-sib-days), the Swiss bioinformatics summit: Ana is co-chairing a session, André and LiJuan are presenting a poster and Mado is selected for a 3' pitch of her poster.
-
-### Past events
+**14-15.06.2022:** The lab is actively participating in the [SIB days](https://sibdays.sib.swiss/about-sib-days), the Swiss bioinformatics summit: Ana is co-chairing a session and Mado is selected for a 3' pitch of her poster.
 
 **01.06.2022:** We are hosting [Victor Boussange](https://ele.ethz.ch/the-group/people/person-detail/victor-boussange.html), PhD student in the Landscape Ecology Group at ETH Zürich and at the Swiss Federal Institute for Forest, Snow & Landscape (WSL), Switzerland
 
