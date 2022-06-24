@@ -21,6 +21,8 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2022
 
+<u>A.-H. Ghenu</u><sup>*,#</sup>, <u>L. Marrec</u><sup>*,#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** Submitted.
+
 <u>C. Bank</u>, <u>M.A. Schmitz</u>, and <u>A.Y. Morales-Arce</u>. **Evolutionary models predict potential mechanisms of escape from mutational meltdown.** [preprint](https://www.biorxiv.org/content/10.1101/2022.06.21.496937)
 
 <u>C. Bank</u>. **Epistasis and adaptation on fitness landscapes.** Annual Reviews in Ecology, Evolution and Systematics, in press. [preprint](https://arxiv.org/abs/2204.13321)
