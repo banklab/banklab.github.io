@@ -22,9 +22,15 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Past events
 
+**27.06.2022:** Claudia's and Ana's paper on "Evolutionary models predict potential mechanisms of escape from mutational meltdown" is now online in [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.21.496937v2)
+
+**25.06.2022:** Hermina's, Loïc's, and Claudia's paper on "Challenges and pitfalls of inferring microbial growth rates from lab cultures" is now online in [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.24.497412v1)
+
 **13-17.06.2022:** Loïc gives a virtual talk at the Models in Population Dynamics, Ecology and Evolution meeting [MPDEE2022](https://sites.google.com/view/mpdee2022), Torino, Italy with title: "Evolutionary rescue in fluctuating environment"
 
-**14-15.06.2022:** The lab is actively participating in the [SIB days](https://sibdays.sib.swiss/about-sib-days), the Swiss bioinformatics summit: Ana is co-chairing a session and Mado is selected for a 3' pitch of her poster.
+**14-15.06.2022:** The lab is actively participating in the [SIB days](https://sibdays.sib.swiss/about-sib-days), the Swiss bioinformatics summit: Ana is co-chairing a session and Mado is selected for a 3' pitch of her poster
+
+**02.06.2022:** Claudia gives an interview about how "Time stands still for some creatures" in [Horizons - The Swiss Research Magazine](https://www.horizons-mag.ch/2022/06/02/time-stands-still-for-some-creatures/)
 
 **01.06.2022:** We are hosting [Victor Boussange](https://ele.ethz.ch/the-group/people/person-detail/victor-boussange.html), PhD student in the Landscape Ecology Group at ETH Zürich and at the Swiss Federal Institute for Forest, Snow & Landscape (WSL), Switzerland
 
@@ -75,5 +81,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 **17.02.2022:** Hermina gives a talk at the [Biology22](https://biology22.ch/) meeting in Basel with the title: "Some fitness landscapes are surprisingly predictable across environments"
 
 **09.02.2022:** Claudia gives a virtual talk at the [Evolutionary Systems Biology Meeting](https://coursesandconferences.wellcomeconnectingscience.org/event/evolutionary-systems-biology-virtual-conference-20220209/) with the title: "Epistasis and adaptation on rugged fitness landscapes"
+
+**11.01.2022:** Claudia gives an interview about how "Evolution ‘Landscapes’ Predict What’s Next for COVID Virus" in [Quantamagazine](https://www.quantamagazine.org/evolution-landscapes-predict-whats-next-for-covid-virus-20220111/)
 
 {:.table__news}
