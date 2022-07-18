@@ -21,13 +21,15 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2022
 
+<u>J. Rieder</u>, <u>A. Kapopoulou</u>, <u>C. Bank</u>, and I. Adrian-Kalchhauser. **Metagenomics and metabarcoding experimental choices and their impact on microbial community characterization in freshwater recirculating aquaculture systems.** [preprint](https://www.biorxiv.org/content/10.1101/2022.07.05.498813v1.abstract)
+
 <u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
-<u>C. Bank</u>, <u>M.A. Schmitz</u>, and <u>A.Y. Morales-Arce</u>. **Evolutionary models predict potential mechanisms of escape from mutational meltdown.** [preprint](https://www.biorxiv.org/content/10.1101/2022.06.21.496937)
+<u>C. Bank</u>, <u>M.A. Schmitz</u>, and <u>A.Y. Morales-Arce</u>. **Evolutionary models predict potential mechanisms of escape from mutational meltdown.** Frontiers in Virology, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.06.21.496937)
 
 <u>C. Bank</u>. **Epistasis and adaptation on fitness landscapes.** Annual Reviews in Ecology, Evolution and Systematics, in press. [preprint](https://arxiv.org/abs/2204.13321)
 
-<u>L. Lansch-Justen</u>, <u>D. Cusseddu</u>, <u>M.A. Schmitz</u>, and  <u>C. Bank</u>. **The extinction time under mutational meltdown driven by high mutation rates.** Ecology and Evolution, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.02.01.478601)
+<u>L. Lansch-Justen</u>, <u>D. Cusseddu</u>, <u>M.A. Schmitz</u>, and  <u>C. Bank</u>. **The extinction time under mutational meltdown driven by high mutation rates.** Ecology and Evolution, doi: 10.1002/ece3.9046. [link](http://dx.doi.org/10.1002/ece3.9046) or [preprint](https://www.biorxiv.org/content/10.1101/2022.02.01.478601)
 
 <u>D. Stajic</u><sup>#</sup>, <u>C. Bank</u>, and I. Gordo<sup>#</sup>. **Adaptive Potential of Epigenetic Switching During Adaptation to Fluctuating Environments.** Genome Biology and Evolution, doi: 10.1093/gbe/evac065. [link](https://academic.oup.com/gbe/article/14/5/evac065/6586088?login=true) or [preprint](https://www.biorxiv.org/content/10.1101/2021.03.11.434930v1.abstract)
 
