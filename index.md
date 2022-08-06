@@ -20,7 +20,11 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **25.10.2022:** We are hosting [Helen Alexander](https://www.ed.ac.uk/biology/groups/alexander), Group Leader at the University of Edinburgh, Scotland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
+**14-19.08.2022:** The lab is actively participating at the [ESEB meeting](https://www.eseb2022.cz/) in Prague: André, LiJuan, Loïc, and Mado are giving a talk, Hermina and Ana are presenting a poster
+
 ### Past events
+
+**05.07.2022:** Jessica's, Mado's, and Claudia's paper on "Metagenomics and metabarcoding experimental choices and their impact on microbial community characterization in freshwater recirculating aquaculture systems" is now online in [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.05.498813v1.full)
 
 **27.06.2022:** Claudia's and Ana's paper on "Evolutionary models predict potential mechanisms of escape from mutational meltdown" is now online in [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.21.496937v2)
 
