@@ -27,7 +27,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>C. Bank</u>. **Epistasis and adaptation on fitness landscapes.** Annual Reviews in Ecology, Evolution, and Systematics, in press. [preprint](https://arxiv.org/abs/2204.13321)
 
-<u>C. Bank</u>, <u>M.A. Schmitz</u>, and <u>A.Y. Morales-Arce</u>. **Evolutionary models predict potential mechanisms of escape from mutational meltdown.** Frontiers in Virology, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.06.21.496937)
+<u>C. Bank</u>, <u>M.A. Schmitz</u>, and <u>A.Y. Morales-Arce</u>. **Evolutionary models predict potential mechanisms of escape from mutational meltdown.** Frontiers in Virology, doi: 10.3389/fviro.2022.886655. [link]([https://academic.oup.com/gbe/article/14/5/evac065/6586088?login=true](https://www.frontiersin.org/articles/10.3389/fviro.2022.886655/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Virology&id=886655) or [preprint](https://www.biorxiv.org/content/10.1101/2022.06.21.496937)
 
 <u>L. Lansch-Justen</u>, <u>D. Cusseddu</u>, <u>M.A. Schmitz</u>, and  <u>C. Bank</u>. **The extinction time under mutational meltdown driven by high mutation rates.** Ecology and Evolution, doi: 10.1002/ece3.9046. [link](http://dx.doi.org/10.1002/ece3.9046) or [preprint](https://www.biorxiv.org/content/10.1101/2022.02.01.478601)
 
