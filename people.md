@@ -25,7 +25,7 @@ permalink: /people/
 * Contact: ana-hermina.ghenu [at] iee.unibe.ch 
 * [GoogleScholar](https://scholar.google.com/citations?user=1sBIOkIAAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0002-9088-2232)
 
-![Photo of Ana-Hermina Ghenu](/assets/img/team/hermina_ghenu_320x320.jpg)
+![Photo of Ana-Hermina Ghenu](/assets/img/team/Hermina_new_photo.jpg)
 
 ---
 
