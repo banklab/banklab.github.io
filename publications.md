@@ -20,6 +20,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 {:/comment}
 
 ## 2022
+<u>A.-H. Ghenu</u>, <u>A. Amado</u>, I. Gordo, and <u>C. Bank</u>. **Epistasis decreases with increasing antibiotic pressure but not temperature.** [preprint](https://www.biorxiv.org/content/10.1101/2022.09.01.506172)
 
 <u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
