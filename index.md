@@ -20,6 +20,8 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **25.10.2022:** We are hosting [Helen Alexander](https://www.ed.ac.uk/biology/groups/alexander), Group Leader at the University of Edinburgh, Scotland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
+**26.09.2022:** Ana is hosting [Christoph Stritt](https://www.swisstph.ch/fr/staff/profile/people/christoph-stritt), Postdoctoal Scientific Collaborator at the the Swiss Tropical and Public Health Institute for a seminar
+
 ### Past events
 
 **14-19.08.2022:** The lab is actively participating at the [ESEB meeting](https://www.eseb2022.cz/) in Prague: André, LiJuan, Loïc, and Mado are giving a talk, Hermina and Ana are presenting a poster
