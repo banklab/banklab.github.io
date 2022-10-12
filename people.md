@@ -22,7 +22,7 @@ permalink: /people/
 ## Ana-Hermina Ghenu
 
 * PhD student (co-supervised by Isabel Gordo)
-* Contact: ana-hermina.ghenu [at] iee.unibe.ch 
+* Contact: ana-hermina.ghenu [at] unibe.ch 
 * [GoogleScholar](https://scholar.google.com/citations?user=1sBIOkIAAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0002-9088-2232)
 
 ![Photo of Ana-Hermina Ghenu](/assets/img/team/Hermina_new_photo.jpg)
@@ -42,7 +42,7 @@ permalink: /people/
 ## André Amado
 
 * Postdoctoral researcher
-* Contact: andre.amado [at] iee.unibe.ch
+* Contact: andre.amado [at] unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?user=jO8AA9gAAAAJ), [ORCID](https://orcid.org/0000-0002-9027-5037)
 
 ![Photo of André Amado](/assets/img/team/andre_amado_320x320.jpg)
@@ -52,7 +52,7 @@ permalink: /people/
 ## Juan Li
  
 * Postdoctoral researcher
-* Contact: juan.li [at] iee.unibe.ch
+* Contact: juan.li [at] unibe.ch
 * [ORCID](https://orcid.org/0000-0003-2643-0802)
 
 ![Photo of Juan Li](/assets/img/team/li_juan_320x320.jpg)
@@ -62,7 +62,7 @@ permalink: /people/
 ## Ana Y. Morales-Arce
  
 * Postdoctoral researcher
-* Contact: ana.moralesarce [at] iee.unibe.ch
+* Contact: ana.moralesarce [at] unibe.ch
 * [web-site](http://aymorales-arce.com), [GoogleScholar](https://scholar.google.com/citations?user=LP9FUxEAAAAJ&hl=en&oi=ao)
 
 ![Photo of Ana Y. Morales-Arce](/assets/img/team/ana_morales_320x320.jpg)
@@ -72,7 +72,7 @@ permalink: /people/
 ## Adamandia Kapopoulou
 
 * Bioinformatician
-* Contact: adamantia.kapopoulou [at] iee.unibe.ch
+* Contact: adamantia.kapopoulou [at] unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?hl=en&user=CMkgYYwAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=kapopoulou&sort=date), [ORCID](https://orcid.org/0000-0003-4192-4923)
 
 ![Photo of Adamandia Kapopoulou](/assets/img/team/adamandia_kapopoulou_320x320.jpg)
@@ -82,7 +82,7 @@ permalink: /people/
 ## Loïc Marrec
  
 * Postdoctoral researcher
-* Contact: loic.marrec [at] iee.unibe.ch
+* Contact: loic.marrec [at] unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en), [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/loic.marrec.1/bibliography/public/), [ORCID](https://orcid.org/0000-0003-0941-6603)
 
 ![Photo of Loïc Marrec](/assets/img/team/loic_marrec_320x320.jpg)
@@ -92,7 +92,7 @@ permalink: /people/
 ## David McLeod
  
 * Postdoctoral researcher
-* Contact: david.mcleod [at] iee.unibe.ch
+* Contact: david.mcleod [at] unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?hl=en&user=xVnf7XwAAAAJ&view_op=list_works&sortby=pubdate)
 
 ![Photo of David McLeod](/assets/img/team/david_mcleod_square.jpg)
@@ -105,6 +105,15 @@ permalink: /people/
 * Contact: jerome.staeheli [at] students.unibe.ch
 
 ![Photo of Jerome Staeheli](/assets/img/team/Profilbild_jerome_staeheli.jpg)
+
+---
+
+## Loraine Hablützel
+ 
+* PhD student
+* Contact: loraine.habluetzel [at] unibe.ch
+
+![Photo of Loraine Habluetzel](/assets/img/team/Loraine.jpeg)
 
 ---
 
