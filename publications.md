@@ -24,7 +24,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
-<u>J. Rieder</u>, <u>A. Kapopoulou</u>, <u>C. Bank</u>, and I. Adrian-Kalchhauser. **Metagenomics and metabarcoding experimental choices and their impact on microbial community characterization in freshwater recirculating aquaculture systems.** Environmental Microbiome, accepted pending revision. [preprint](https://www.biorxiv.org/content/10.1101/2022.07.05.498813v1.abstract)
+<u>J. Rieder</u>, <u>A. Kapopoulou</u>, <u>C. Bank</u>, and I. Adrian-Kalchhauser. **Metagenomics and metabarcoding experimental choices and their impact on microbial community characterization in freshwater recirculating aquaculture systems.** Environmental Microbiome, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.07.05.498813v1.abstract)
 
 <u>C. Bank</u>. **Epistasis and adaptation on fitness landscapes.** Annual Reviews in Ecology, Evolution, and Systematics, doi: 10.1146/annurev-ecolsys-102320-112153. [link](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-102320-112153) or [preprint](https://arxiv.org/abs/2204.13321)
 
