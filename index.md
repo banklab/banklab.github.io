@@ -20,9 +20,9 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **12.12.2022:** We are hosting Peter Lenart, Post-Doc in [Ben Towbin's group at the Cell Biology Institute](https://www.towbinlab.org/), University of Bern
 
-**31.10.2022:** We are hosting [Caroline Daniel](https://allanecology.com/about-us/people/caroline-daniel/), PhD student at [Allan Ecology Group](https://allanecology.com/), University of Bern
-
 ### Past events
+
+**31.10.2022:** We are hosting [Caroline Daniel](https://allanecology.com/about-us/people/caroline-daniel/), PhD student at [Allan Ecology Group](https://allanecology.com/), University of Bern
 
 **25.10.2022:** We are hosting [Helen Alexander](https://www.ed.ac.uk/biology/groups/alexander), Group Leader at the University of Edinburgh, Scotland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 

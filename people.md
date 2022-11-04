@@ -117,15 +117,13 @@ permalink: /people/
 
 ---
 
+# Bachelor students
+
+## Giulia Capella
+
+## Henrik Jasper
+
 # Associated team members
-
-## Massimo Amicone
- 
-* Associated PhD student ([Gordo lab](http://eao.igc.gulbenkian.pt/EVB/index.html))
-* Contact: mamicone [at] igc.gulbenkian.pt
-
-![Photo of Massimo Amicone](/assets/img/team/massimo_amicone_320x320.jpg)
-
 
 ## Jessica Rieder
 
@@ -145,6 +143,8 @@ permalink: /people/
 **Sabrina Rasch**  Bachelor student (2021-2022)
 
 ## Gulbenkian Science Institute Alumni
+
+**Massimo Amicone** Associated PhD student
 
 [**Davide Cusseddu**](https://scholar.google.ch/citations?user=x701yr0AAAAJ&hl=en&oi=sra)  Postdoc (2019-2021)
 
