@@ -22,6 +22,9 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Past events
 
+**08.11.2022:** We are hosting [Andreas Wagner](https://www.ieu.uzh.ch/wagner/), Professor at the University of Zürich, Dept. of Evolutionary Biology
+and Environmental Studies, Switzerland
+
 **31.10.2022:** We are hosting [Caroline Daniel](https://allanecology.com/about-us/people/caroline-daniel/), PhD student at [Allan Ecology Group](https://allanecology.com/), University of Bern
 
 **25.10.2022:** We are hosting [Helen Alexander](https://www.ed.ac.uk/biology/groups/alexander), Group Leader at the University of Edinburgh, Scotland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
