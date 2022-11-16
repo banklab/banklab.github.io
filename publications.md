@@ -20,13 +20,20 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 {:/comment}
 
 ## 2022
+
+<u>J. Li<sup>*#</sup></u>, <u>A. Amado<sup>*#</sup></u>, and <u>C. Bank</u>. **Short-term adaptation on tunable fitness landscapes from standing genetic variation in recombining populations.** Submitted.
+
+<u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** Submitted.
+
+<u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment.** [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
+
 <u>A.-H. Ghenu</u>, <u>A. Amado</u>, I. Gordo, and <u>C. Bank</u>. **Epistasis decreases with increasing antibiotic pressure but not temperature.** [preprint](https://www.biorxiv.org/content/10.1101/2022.09.01.506172)
 
 <u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
 <u>J. Rieder</u>, <u>A. Kapopoulou</u>, <u>C. Bank</u>, and I. Adrian-Kalchhauser. **Metagenomics and metabarcoding experimental choices and their impact on microbial community characterization in freshwater recirculating aquaculture systems.** Environmental Microbiome, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.07.05.498813v1.abstract)
 
-<u>C. Bank</u>. **Epistasis and adaptation on fitness landscapes.** Annual Reviews in Ecology, Evolution, and Systematics, doi: 10.1146/annurev-ecolsys-102320-112153. [link](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-102320-112153) or [preprint](https://arxiv.org/abs/2204.13321)
+<u>C. Bank</u>. **Epistasis and adaptation on fitness landscapes.** Annual Reviews in Ecology, Evolution, and Systematics, doi: 10.1146/annurev-ecolsys-102320-112153. [link](http://www.annualreviews.org/eprint/S7XY5J79I8FDVF9PEF6K/full/10.1146/annurev-ecolsys-102320-112153) or [preprint](https://arxiv.org/abs/2204.13321)
 
 <u>C. Bank</u>, <u>M.A. Schmitz</u>, and <u>A.Y. Morales-Arce</u>. **Evolutionary models predict potential mechanisms of escape from mutational meltdown.** Frontiers in Virology, doi: 10.3389/fviro.2022.886655. [link](https://www.frontiersin.org/articles/10.3389/fviro.2022.886655/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Virology&id=886655) or [preprint](https://www.biorxiv.org/content/10.1101/2022.06.21.496937)
 
