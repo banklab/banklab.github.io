@@ -21,7 +21,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2022
 
-<u>J. Li<sup>*#</sup></u>, <u>A. Amado<sup>*#</sup></u>, and <u>C. Bank</u>. **Short-term adaptation on tunable fitness landscapes from standing genetic variation in recombining populations.** Submitted.
+<u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Short-term adaptation on tunable fitness landscapes from standing genetic variation in recombining populations.** Submitted.
 
 <u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** Submitted.
 
