@@ -21,9 +21,9 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2022
 
-<u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Short-term adaptation on tunable fitness landscapes from standing genetic variation in recombining populations.** Submitted.
+<u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Short-term adaptation on tunable fitness landscapes from standing genetic variation in recombining populations.** [preprint](https://www.biorxiv.org/content/10.1101/2022.11.16.516770v1)
 
-<u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** Submitted.
+<u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** [preprint](https://www.biorxiv.org/content/10.1101/2022.11.15.516663v1)
 
 <u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment.** [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
 
