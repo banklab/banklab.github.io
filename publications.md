@@ -31,6 +31,8 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
+M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J. Cairns, E.S. Colizzi, <u>D. Cusseddu</u>, M.M. Desai, B. van Dijk, M. Egas, J. Ellers, A.T. Groot, D.G. Heckel, M.L. Johnson, K. Kraaijeveld, J. Krug, L. Laan, M. Lässig, P.A. Lind, J. Meijer, L.M. Noble, S. Okasha, P.B. Rainey, D.E. Rozen, S. Shitut, S.J. Tans, O. Tenaillon, H. Teotónio, J.A.G.M. de Visser, M.E. Visser, R.M.A. Vroomans, G.D.A. Werner, B. Wertheim, and P.S. Pennings. **Towards evolutionary predictions: Current promises and challenges.** Evolutionary Applications, doi: 10.1111/eva.13513 [link](https://onlinelibrary.wiley.com/doi/10.1111/eva.13513) or [earlier preprint](https://ecoevorxiv.org/4u3mg/)
+
 <u>J. Rieder</u>, <u>A. Kapopoulou</u>, <u>C. Bank</u>, and I. Adrian-Kalchhauser. **Metagenomics and metabarcoding experimental choices and their impact on microbial community characterization in freshwater recirculating aquaculture systems.** Environmental Microbiome, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.07.05.498813v1.abstract)
 
 <u>J. Rieder</u>, P. M. Martin-Sanchez, O. A. Osman, I. Adrian-Kalchhauser, A. Eiler. **Detecting aquatic pathogens with field-compatible dried qPCR assays.** Journal of Microbiological Methods, doi: 10.1016/j.mimet.2022.106594. [link](https://doi.org/10.1016/j.mimet.2022.106594)
@@ -50,8 +52,6 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 ## 2021
 
 <u>M.A.D. Louro</u>, M. Bettencourt-Dias, and Jorge Carneiro. **A first-takes-all model of centriole copy number control based on cartwheel elongation.** Plos Computational Biology, doi: 10.1371/journal.pcbi.1008359 [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008359)
-
-M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J. Cairns, E.S. Colizzi, <u>D. Cusseddu</u>, M.M. Desai, B. van Dijk, M. Egas, J. Ellers, A.T. Groot, D.G. Heckel, M.L. Johnson, K. Kraaijeveld, J. Krug, L. Laan, M. Lässig, P.A. Lind, J. Meijer, L.M. Noble, S. Okasha, P.B. Rainey, D.E. Rozen, S. Shitut, S.J. Tans, O. Tenaillon, H. Teotónio, J.A.G.M. de Visser, M.E. Visser, R.M.A. Vroomans, G.D.A. Werner, B. Wertheim, and P.S. Pennings. **The why, what and how of predicting evolution across biology: from disease to biotechnology to biodiversity.** EcoEvoRxiv, doi: 10.32942/osf.io/4u3mg [preprint](https://ecoevorxiv.org/4u3mg/)
 
 M.S. Joshi, <u>A. Kapopoulou</u>, and S. Laurent. **Impact of genetic variation in gene regulatory sequences: a population genomics perspective.** Frontiers in Genetics, doi: 10.3389/fgene.2021.660899 [link](https://doi.org/10.3389/fgene.2021.660899)
 
