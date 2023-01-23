@@ -12,7 +12,7 @@ permalink: /people/
 ## Claudia Bank
 
 * Principal investigator, Head of Division
-* Contact: evoldynamics [at] gmail.com
+* Contact: claudia.bank [at] unibe.ch
 * [GoogleScholar](https://scholar.google.ch/citations?user=VBOPD0UAAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bank+Claudia%5BAuthor%5D&sort=date), [ORCID](https://orcid.org/0000-0003-4730-758X)
 
 ![Photo of Claudia Bank](/assets/img/team/claudia_bank_320x320.jpg)
@@ -140,44 +140,63 @@ permalink: /people/
 
 ## University of Bern Alumni
 
-**Sabrina Rasch**  Bachelor student (2021-2022)
+**Sabrina Rasch**  
+Bachelor student (2021-2022)
 
 ## Gulbenkian Science Institute Alumni
 
-**Massimo Amicone** Associated PhD student
+[**Massimo Amicone**](https://scholar.google.ch/citations?user=i-kYxE4AAAAJ&hl=en&oi=ao)
+Associated PhD student
 
-[**Davide Cusseddu**](https://scholar.google.ch/citations?user=x701yr0AAAAJ&hl=en&oi=sra)  Postdoc (2019-2021)
+[**Davide Cusseddu**](https://scholar.google.ch/citations?user=x701yr0AAAAJ&hl=en&oi=sra)  
+Postdoc (2019-2021)
 
-**Mark Schmitz**  Data/Lab Manager (2020)
+**Mark Schmitz**  
+Data/Lab Manager (2020)
 
-**Lucy Lansch-Justen**  Trainee/Programmer (2020)
+**Lucy Lansch-Justen**  
+Trainee/Programmer (2020)
 
-**Inês Borges**  Bachelor student (2020)
+**Inês Borges**  
+Bachelor student (2020)
 
-[**Lila Fishman**](https://www.fishmanlab.org/)  Sabbatical Visitor (2019-2020)
+[**Lila Fishman**](https://www.fishmanlab.org/)  
+Sabbatical Visitor (2019-2020)
 
-[**Alex Wong**](https://carleton.ca/eme)  Sabbatical Visitor (2019)
+[**Alex Wong**](https://carleton.ca/eme)  
+Sabbatical Visitor (2019)
 
-**Dragan Stajic**  Associated postdoctoral researcher (2019)
+**Dragan Stajic**  
+Associated postdoctoral researcher (2019)
 
-**Christian Diwo**  Trainee (2019)
+**Christian Diwo**  
+Trainee (2019)
 
-[**Alexandre Blanckaert**](https://scholar.google.ch/citations?hl=en&user=7mCf8EwAAAAJ)  Postdoc (2016-2019)
+[**Alexandre Blanckaert**](https://scholar.google.ch/citations?hl=en&user=7mCf8EwAAAAJ)  
+Postdoc (2016-2019)
 
-[**Inês Fragata**](https://scholar.google.ch/citations?user=zSLmDo4AAAAJ&hl=en)  Postdoc (2016-2019)
+[**Inês Fragata**](https://scholar.google.ch/citations?user=zSLmDo4AAAAJ&hl=en)  
+Postdoc (2016-2019)
 
-**Dinis Seward**  Summer project student (2019)
+**Dinis Seward**  
+Summer project student (2019)
 
-**Vedanth Sriram**  Summer project student (2019)
+**Vedanth Sriram**  
+Summer project student (2019)
 
-**Manuel Fortunato**  Project student (2018)
+**Manuel Fortunato**  
+Project student (2018)
 
-**Sofia Torres**  Summer project student (2018)
+**Sofia Torres**  
+Summer project student (2018)
 
 [**Emma Berdan**](https://scholar.google.ch/citations?hl=en&user=8PtQTicAAAAJ)  Visiting postdoc (2018)
 
-**Andreia Teixeira**  Trainee (2016)
+**Andreia Teixeira**  
+Trainee (2016)
 
-**Mariana Vidal Pinheiro**  Summer project student (2016)
+**Mariana Vidal Pinheiro**  
+Summer project student (2016)
 
-**Telmo Cunha**  Summer project student (2016)
+**Telmo Cunha**  
+Summer project student (2016)
