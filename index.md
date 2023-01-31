@@ -16,13 +16,16 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ## Lab News Feed
 
+**01.02.2023:** Welcome to our 2 new PhD students Julio Ayala and Russ Jasper
+
 ### Upcoming events
 
-**12.12.2022:** We are hosting Peter Lenart, Post-Doc in [Ben Towbin's group at the Cell Biology Institute](https://www.towbinlab.org/), University of Bern, as invited speaker for our Lab meeting
 
 ### Past events
 
 **16.01.2023:** We are hosting [Stefan Struett](https://www.cmpg.iee.unibe.ch/about_us/team/researchers/dr_struett_stefan/index_eng.html), Post-Doc in CMPG lab (co-supervised by Excoffier & Peischl), University of Berne, as invited speaker for our Lab meeting to give a talk about "Demographic inference under weak negative selection without recombination"
+
+**12.12.2022:** We are hosting Peter Lenart, Post-Doc in [Ben Towbin's group at the Cell Biology Institute](https://www.towbinlab.org/), University of Bern, as invited speaker for our Lab meeting
 
 **08.11.2022:** We are hosting [Andreas Wagner](https://www.ieu.uzh.ch/wagner/), Professor at the University of Zürich, Dept. of Evolutionary Biology
 and Environmental Studies, Switzerland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) on "A highly rugged yet easily navigable adaptive landscape of antibiotic resistance"
