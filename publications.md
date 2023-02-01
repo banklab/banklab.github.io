@@ -19,9 +19,11 @@ markdown="1" attribute important, the following text will not be converted other
 https://kramdown.gettalong.org/syntax.html#html-blocks
 {:/comment}
 
-## 2022
+## 2023
 
-<u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Short-term adaptation on tunable fitness landscapes from standing genetic variation in recombining populations.** [preprint](https://www.biorxiv.org/content/10.1101/2022.11.16.516770v1)
+<u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Rapid adaptation of recombining populations on tunable fitness landscapes.** Molecular Ecology, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.11.16.516770v1)
+
+## 2022
 
 <u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** [preprint](https://www.biorxiv.org/content/10.1101/2022.11.15.516663v1)
 
