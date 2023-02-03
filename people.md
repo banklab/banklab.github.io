@@ -117,6 +117,16 @@ permalink: /people/
 
 ---
 
+## Russ Jasper
+ 
+* PhD student
+* Contact: russell.jasper [at] unibe.ch
+* [ORCID](https://orcid.org/0000-0003-4275-1155)
+
+![Photo of Russ Jasper](/assets/img/team/Russ.jpeg)
+
+---
+
 # Bachelor students
 
 ## Giulia Capella
