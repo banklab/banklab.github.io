@@ -23,13 +23,13 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Rapid adaptation of recombining populations on tunable fitness landscapes.** Molecular Ecology, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.11.16.516770v1)
 
+<u>A.-H. Ghenu</u>, <u>A. Amado</u>, I. Gordo, and <u>C. Bank</u>. **Epistasis decreases with increasing antibiotic pressure but not temperature.** Philosophical Transactions B, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.09.01.506172)
+
 ## 2022
 
 <u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** [preprint](https://www.biorxiv.org/content/10.1101/2022.11.15.516663v1)
 
 <u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment.** [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
-
-<u>A.-H. Ghenu</u>, <u>A. Amado</u>, I. Gordo, and <u>C. Bank</u>. **Epistasis decreases with increasing antibiotic pressure but not temperature.** [preprint](https://www.biorxiv.org/content/10.1101/2022.09.01.506172)
 
 <u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
