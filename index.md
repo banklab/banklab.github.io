@@ -16,12 +16,28 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ## Lab News Feed
 
-**01.02.2023:** Welcome to our 2 new PhD students Julio Ayala and Russ Jasper
 
 ### Upcoming events
 
+**05.06.2023:** We are hosting [Charlotte Ng](https://www.dbmr.unibe.ch/research/personenpool_programs_and_indie_groups/oncogenomics/dr_ng_charlotte_kiu_yan/index_eng.html), Group Leader at the University of Bern, Switzerland, as invited speaker for our Lab meeting
+
+**31.05.2023:** We are hosting [Adria LeBoeuf](https://www.unifr.ch/bio/en/groups/leboeuf-group/), Assistant Professor at the University of Fribourg, Switzerland, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
+
+**10.05.2023:** We are hosting [Inês Fragata](https://ce3c.ciencias.ulisboa.pt/member/inesfragata), Researcher at the University of Lisbon, Portugal, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
+
+**26.04.2023:** We are hosting [Daven Presgraves](https://www.sas.rochester.edu/bio/people/faculty/presgraves_daven/), Professor at the University of Rochester, USA, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
+
+**24.04.2023:** We are hosting [Daniel Romero Mujalli](https://botanik.uni-greifswald.de/en/experimental-plant-ecology/staff/translate-to-english-daniel-mujalli/), Post-Doc at the University of Greifswald, Germany, as invited speaker for our Lab meeting
+
+**05.04.2023:** We are hosting [Meike Wortel](https://www.uva.nl/en/profile/w/o/m.t.wortel/m.t.wortel.html?cb), Assistent Professor at the Swammerdam Institute for Life Sciences, Netherlands, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
+
+**06.03.2023:** We are hosting [Judith Boumann](https://www.ispm.unibe.ch/about_us/staff/bouman_judith/index_eng.html), Post-Doc at the [Interfaculty Platform for Data and Computational Science](https://www.ispm.unibe.ch/research/research_groups_and_themes/input/index_eng.html), University of Bern, as invited speaker for our Lab meeting
+
+**01.03.2023:** We are hosting [Catalina Chaparro Pedraza](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/catalina-chaparro-pedraza/show/), Marie Curie postdoctoral fellow at the EAWAG, Switzerland, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
 ### Past events
+
+**01.02.2023:** Welcome to our 2 new PhD students Julio Ayala and Russ Jasper
 
 **16.01.2023:** We are hosting [Stefan Struett](https://www.cmpg.iee.unibe.ch/about_us/team/researchers/dr_struett_stefan/index_eng.html), Post-Doc in CMPG lab (co-supervised by Excoffier & Peischl), University of Berne, as invited speaker for our Lab meeting to give a talk about "Demographic inference under weak negative selection without recombination"
 
@@ -33,6 +49,8 @@ and Environmental Studies, Switzerland, for an [IEE seminar](https://www.iee.uni
 **31.10.2022:** We are hosting [Caroline Daniel](https://allanecology.com/about-us/people/caroline-daniel/), PhD student at [Allan Ecology Group](https://allanecology.com/), University of Bern, as invited speaker for our Lab meeting with title "From competition to coexistence, going beyond the pairwise framework."
 
 **25.10.2022:** We are hosting [Helen Alexander](https://www.ed.ac.uk/biology/groups/alexander), Group Leader at the University of Edinburgh, Scotland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) on "Roles of demographic stochasticity and ecology in the emergence of drug resistance"
+
+**01.10.2022:** Welcome to our new PhD Loraine Hablützel
 
 **14-19.08.2022:** The lab is actively participating at the [ESEB meeting](https://www.eseb2022.cz/) in Prague: André, LiJuan, Loïc, and Mado are giving a talk, Hermina and Ana are presenting a poster
 
