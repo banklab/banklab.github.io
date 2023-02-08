@@ -133,7 +133,7 @@ permalink: /people/
 * Contact: julio.ayalalopez [at] unibe.ch
 * [ORCID](https://orcid.org/0000-0003-4687-5825)
 
-![Photo of Julio Ayala](/assets/img/team/Julio.jpeg)
+![Photo of Julio Ayala](/assets/img/team/Julio.jpg)
 
 ---
 
