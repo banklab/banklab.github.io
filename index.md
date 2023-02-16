@@ -37,6 +37,8 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Past events
 
+**13.02.2023:** We are hosting Alexandre Rego, PhD student in [Rike Stelkens' lab at the University of Stockholm](https://stelkenslab.com/people/), for a talk with title: "Dynamics and outcomes of adaptation to complex environments in Saccharomyces cerevisiae"
+
 **01.02.2023:** Welcome to our 2 new PhD students Julio Ayala and Russ Jasper
 
 **16.01.2023:** We are hosting [Stefan Struett](https://www.cmpg.iee.unibe.ch/about_us/team/researchers/dr_struett_stefan/index_eng.html), Post-Doc in CMPG lab (co-supervised by Excoffier & Peischl), University of Berne, as invited speaker for our Lab meeting to give a talk about "Demographic inference under weak negative selection without recombination"
