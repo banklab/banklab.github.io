@@ -21,6 +21,10 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2023
 
+<u>A. Blanckaert</u>, <u>V. Sriram</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation II: hard times for hybrid speciation.** [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528680v1)
+
+<u>A. Amado</u><sup>*#</sup>, <u>J. Li</u><sup>*#</sup>, and <u>C. Bank</u>. **STUN: forward-time Simulation on TUnable fitNess landscapes in recombining populations.** [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528681v1)
+
 <u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Rapid adaptation of recombining populations on tunable fitness landscapes.** Molecular Ecology, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.11.16.516770v1)
 
 <u>A.-H. Ghenu</u>, <u>A. Amado</u>, I. Gordo, and <u>C. Bank</u>. **Epistasis decreases with increasing antibiotic pressure but not temperature.** Philosophical Transactions B, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.09.01.506172)
