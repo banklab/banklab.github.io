@@ -31,6 +31,8 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>J. Rieder</u>, <u>A. Kapopoulou</u>, <u>C. Bank</u>, and I. Adrian-Kalchhauser. **Metagenomics and metabarcoding experimental choices and their impact on microbial community characterization in freshwater recirculating aquaculture systems.** Environmental Microbiome, 10.1186/s40793-023-00459-z. [link](https://rdcu.be/c5D08) or [preprint](https://www.biorxiv.org/content/10.1101/2022.07.05.498813v1.abstract)
 
+M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J. Cairns, E.S. Colizzi, <u>D. Cusseddu</u>, M.M. Desai, B. van Dijk, M. Egas, J. Ellers, A.T. Groot, D.G. Heckel, M.L. Johnson, K. Kraaijeveld, J. Krug, L. Laan, M. Lässig, P.A. Lind, J. Meijer, L.M. Noble, S. Okasha, P.B. Rainey, D.E. Rozen, S. Shitut, S.J. Tans, O. Tenaillon, H. Teotónio, J.A.G.M. de Visser, M.E. Visser, R.M.A. Vroomans, G.D.A. Werner, B. Wertheim, and P.S. Pennings. **Towards evolutionary predictions: Current promises and challenges.** Evolutionary Applications, doi: 10.1111/eva.13513 [link](https://onlinelibrary.wiley.com/doi/10.1111/eva.13513) or [earlier preprint](https://ecoevorxiv.org/4u3mg/)
+
 ## 2022
 
 <u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** [preprint](https://www.biorxiv.org/content/10.1101/2022.11.15.516663v1)
@@ -38,8 +40,6 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 <u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment.** [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
 
 <u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
-
-M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J. Cairns, E.S. Colizzi, <u>D. Cusseddu</u>, M.M. Desai, B. van Dijk, M. Egas, J. Ellers, A.T. Groot, D.G. Heckel, M.L. Johnson, K. Kraaijeveld, J. Krug, L. Laan, M. Lässig, P.A. Lind, J. Meijer, L.M. Noble, S. Okasha, P.B. Rainey, D.E. Rozen, S. Shitut, S.J. Tans, O. Tenaillon, H. Teotónio, J.A.G.M. de Visser, M.E. Visser, R.M.A. Vroomans, G.D.A. Werner, B. Wertheim, and P.S. Pennings. **Towards evolutionary predictions: Current promises and challenges.** Evolutionary Applications, doi: 10.1111/eva.13513 [link](https://onlinelibrary.wiley.com/doi/10.1111/eva.13513) or [earlier preprint](https://ecoevorxiv.org/4u3mg/)
 
 <u>J. Rieder</u>, P. M. Martin-Sanchez, O. A. Osman, I. Adrian-Kalchhauser, A. Eiler. **Detecting aquatic pathogens with field-compatible dried qPCR assays.** Journal of Microbiological Methods, doi: 10.1016/j.mimet.2022.106594. [link](https://doi.org/10.1016/j.mimet.2022.106594)
 
