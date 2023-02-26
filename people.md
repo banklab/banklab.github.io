@@ -69,9 +69,18 @@ permalink: /people/
 
 ---
 
+## Susanne Holenstein
+
+* Office manager
+* Contact: susanne.holenstein [at] unibe.ch
+
+![Photo of Susanne Holenstein](/assets/img/team/susanne.jpg)
+ 
+---
+
 ## Adamandia Kapopoulou
 
-* Bioinformatician
+* Senior Bioinformatician
 * Contact: adamantia.kapopoulou [at] unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?hl=en&user=CMkgYYwAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=kapopoulou&sort=date), [ORCID](https://orcid.org/0000-0003-4192-4923)
 
