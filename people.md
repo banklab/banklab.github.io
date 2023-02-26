@@ -74,7 +74,7 @@ permalink: /people/
 * Office manager
 * Contact: susanne.holenstein [at] unibe.ch
 
-![Photo of Susanne Holenstein](/assets/img/team/susanne.jpg)
+![Photo of Susanne Holenstein](/assets/img/team/SusanneHolenstein.png)
  
 ---
 
@@ -105,15 +105,6 @@ permalink: /people/
 * [GoogleScholar](https://scholar.google.com/citations?hl=en&user=xVnf7XwAAAAJ&view_op=list_works&sortby=pubdate)
 
 ![Photo of David McLeod](/assets/img/team/david_mcleod_square.jpg)
-
----
-
-## Jérôme Stäheli
- 
-* Master student
-* Contact: jerome.staeheli [at] students.unibe.ch
-
-![Photo of Jerome Staeheli](/assets/img/team/Profilbild_jerome_staeheli.jpg)
 
 ---
 
@@ -168,6 +159,9 @@ permalink: /people/
 (In reverse chronological order of leaving the group)
 
 ## University of Bern Alumni
+
+**Jérôme Stäheli**
+Master student (2021-2023)
 
 **Sabrina Rasch**
 Bachelor student (2021-2022)
