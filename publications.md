@@ -25,13 +25,13 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>A. Amado</u><sup>*#</sup>, <u>J. Li</u><sup>*#</sup>, and <u>C. Bank</u>. **STUN: forward-time Simulation on TUnable fitNess landscapes in recombining populations.** [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528681v1)
 
-<u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Rapid adaptation of recombining populations on tunable fitness landscapes.** Molecular Ecology, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.11.16.516770v1)
+<u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Rapid adaptation of recombining populations on tunable fitness landscapes.** Molecular Ecology, doi: 10.1111/mec.16900. [link](http://doi.org/10.1111/mec.16900) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.16.516770v1)
 
 <u>A.-H. Ghenu</u>, <u>A. Amado</u>, I. Gordo, and <u>C. Bank</u>. **Epistasis decreases with increasing antibiotic pressure but not temperature.** Philosophical Transactions B, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.09.01.506172)
 
 <u>J. Rieder</u>, <u>A. Kapopoulou</u>, <u>C. Bank</u>, and I. Adrian-Kalchhauser. **Metagenomics and metabarcoding experimental choices and their impact on microbial community characterization in freshwater recirculating aquaculture systems.** Environmental Microbiome, doi: 10.1186/s40793-023-00459-z. [link](https://rdcu.be/c5D08) or [preprint](https://www.biorxiv.org/content/10.1101/2022.07.05.498813v1.abstract)
 
-M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J. Cairns, E.S. Colizzi, <u>D. Cusseddu</u>, M.M. Desai, B. van Dijk, M. Egas, J. Ellers, A.T. Groot, D.G. Heckel, M.L. Johnson, K. Kraaijeveld, J. Krug, L. Laan, M. Lässig, P.A. Lind, J. Meijer, L.M. Noble, S. Okasha, P.B. Rainey, D.E. Rozen, S. Shitut, S.J. Tans, O. Tenaillon, H. Teotónio, J.A.G.M. de Visser, M.E. Visser, R.M.A. Vroomans, G.D.A. Werner, B. Wertheim, and P.S. Pennings. **Towards evolutionary predictions: Current promises and challenges.** Evolutionary Applications, doi: 10.1111/eva.13513 [link](https://onlinelibrary.wiley.com/doi/10.1111/eva.13513) or [earlier preprint](https://ecoevorxiv.org/4u3mg/)
+M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J. Cairns, E.S. Colizzi, <u>D. Cusseddu</u>, M.M. Desai, B. van Dijk, M. Egas, J. Ellers, A.T. Groot, D.G. Heckel, M.L. Johnson, K. Kraaijeveld, J. Krug, L. Laan, M. Lässig, P.A. Lind, J. Meijer, L.M. Noble, S. Okasha, P.B. Rainey, D.E. Rozen, S. Shitut, S.J. Tans, O. Tenaillon, H. Teotónio, J.A.G.M. de Visser, M.E. Visser, R.M.A. Vroomans, G.D.A. Werner, B. Wertheim, and P.S. Pennings. **Towards evolutionary predictions: Current promises and challenges.** Evolutionary Applications, doi: 10.1111/eva.13513. [link](https://onlinelibrary.wiley.com/doi/10.1111/eva.13513) or [earlier preprint](https://ecoevorxiv.org/4u3mg/)
 
 ## 2022
 
