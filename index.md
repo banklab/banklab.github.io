@@ -27,15 +27,13 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **26.04.2023:** We are hosting [Daven Presgraves](https://www.sas.rochester.edu/bio/people/faculty/presgraves_daven/), Professor at the University of Rochester, USA, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
-**24.04.2023:** We are hosting [Daniel Romero Mujalli](https://botanik.uni-greifswald.de/en/experimental-plant-ecology/staff/translate-to-english-daniel-mujalli/), Post-Doc at the University of Greifswald, Germany, as invited speaker for our Lab meeting
+### Past events
 
 **05.04.2023:** We are hosting [Meike Wortel](https://www.uva.nl/en/profile/w/o/m.t.wortel/m.t.wortel.html?cb), Assistent Professor at the Swammerdam Institute for Life Sciences, Netherlands, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
 **06.03.2023:** We are hosting [Judith Boumann](https://www.ispm.unibe.ch/about_us/staff/bouman_judith/index_eng.html), Post-Doc at the [Interfaculty Platform for Data and Computational Science](https://www.ispm.unibe.ch/research/research_groups_and_themes/input/index_eng.html), University of Bern, as invited speaker for our Lab meeting
 
 **01.03.2023:** We are hosting [Catalina Chaparro Pedraza](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/catalina-chaparro-pedraza/show/), Marie Curie postdoctoral fellow at the EAWAG, Switzerland, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
-
-### Past events
 
 **13.02.2023:** We are hosting Alexandre Rego, PhD student in [Rike Stelkens' lab at the University of Stockholm](https://stelkenslab.com/people/), for a talk with title: "Dynamics and outcomes of adaptation to complex environments in Saccharomyces cerevisiae"
 
