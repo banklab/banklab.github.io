@@ -27,8 +27,6 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **26.04.2023:** We are hosting [Daven Presgraves](https://www.sas.rochester.edu/bio/people/faculty/presgraves_daven/), Professor at the University of Rochester, USA, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
-**24.04.2023:** We are hosting [Daniel Romero Mujalli](https://botanik.uni-greifswald.de/en/experimental-plant-ecology/staff/translate-to-english-daniel-mujalli/), Post-Doc at the University of Greifswald, Germany, as invited speaker for our Lab meeting
-
 ### Past events
 
 **05.04.2023:** We are hosting [Meike Wortel](https://www.uva.nl/en/profile/w/o/m.t.wortel/m.t.wortel.html?cb), Assistent Professor at the Swammerdam Institute for Life Sciences, Netherlands, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
