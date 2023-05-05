@@ -39,16 +39,6 @@ permalink: /people/
 
 ---
 
-## André Amado
-
-* Postdoctoral researcher
-* Contact: andre.amado [at] unibe.ch
-* [GoogleScholar](https://scholar.google.com/citations?user=jO8AA9gAAAAJ), [ORCID](https://orcid.org/0000-0002-9027-5037)
-
-![Photo of André Amado](/assets/img/team/andre_amado_320x320.jpg)
- 
----
-
 ## Juan Li
  
 * Postdoctoral researcher
@@ -159,6 +149,9 @@ permalink: /people/
 (In reverse chronological order of leaving the group)
 
 ## University of Bern Alumni
+
+[**André Amado**](https://scholar.google.com/citations?user=jO8AA9gAAAAJ)
+Postdoc (2019-2023)
 
 **Jérôme Stäheli**
 Master student (2021-2023)
