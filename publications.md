@@ -21,6 +21,8 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2023
 
+<u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs create complex dynamics and sustained diversity on dynamic eco-evolutionary fitness landscapes** In review.
+
 <u>A. Blanckaert</u>, <u>V. Sriram</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation II: hard times for hybrid speciation.** Evolution, accepted pending minor revision. [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528680v1)
 
 <u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment: periodic versus quasi-periodic environmental changes** Proceedings of the Royal Society B, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
