@@ -21,7 +21,9 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2023
 
-<u>A. Blanckaert</u>, <u>V. Sriram</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation II: hard times for hybrid speciation.** [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528680v1)
+<u>A. Blanckaert</u>, <u>V. Sriram</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation II: hard times for hybrid speciation.** Evolution, accepted pending minor revision. [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528680v1)
+
+<u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment.** Proceedings of the Royal Society B, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
 
 <u>A. Amado</u><sup>*#</sup>, <u>J. Li</u><sup>*#</sup>, and <u>C. Bank</u>. **STUN: forward-time Simulation on TUnable fitNess landscapes in recombining populations.** [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528681v1)
 
@@ -36,8 +38,6 @@ M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J
 ## 2022
 
 <u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** [preprint](https://www.biorxiv.org/content/10.1101/2022.11.15.516663v1)
-
-<u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment.** [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
 
 <u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
