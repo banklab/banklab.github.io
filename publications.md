@@ -23,7 +23,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>A. Blanckaert</u>, <u>V. Sriram</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation II: hard times for hybrid speciation.** Evolution, accepted pending minor revision. [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528680v1)
 
-<u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment.** Proceedings of the Royal Society B, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
+<u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment: periodic versus quasi-periodic environmental changes** Proceedings of the Royal Society B, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
 
 <u>A. Amado</u><sup>*#</sup>, <u>J. Li</u><sup>*#</sup>, and <u>C. Bank</u>. **STUN: forward-time Simulation on TUnable fitNess landscapes in recombining populations.** [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528681v1)
 
