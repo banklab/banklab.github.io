@@ -23,9 +23,11 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 **31.05.2023:** We are hosting [Adria LeBoeuf](https://www.unifr.ch/bio/en/groups/leboeuf-group/), Assistant Professor at the University of Fribourg, Switzerland, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
-**10.05.2023:** We are hosting [Inês Fragata](https://ce3c.ciencias.ulisboa.pt/member/inesfragata), Researcher at the University of Lisbon, Portugal, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
-
 ### Past events
+
+**22.05.2023:** We are hosting [Justus Fink](https://scholar.google.ch/citations?user=--24NSEAAAAJ&hl=en&oi=ao), PhD student in the [Theoretical Biology](https://tb.ethz.ch/) group, ETH Zürich, as invited speaker for our Lab meeting 
+
+**10.05.2023:** We are hosting [Inês Fragata](https://ce3c.ciencias.ulisboa.pt/member/inesfragata), Researcher at the University of Lisbon, Portugal, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
 **26.04.2023:** We are hosting [Daven Presgraves](https://www.sas.rochester.edu/bio/people/faculty/presgraves_daven/), Professor at the University of Rochester, USA, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
