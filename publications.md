@@ -23,15 +23,15 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs create complex dynamics and sustained diversity on eco-evolutionary fitness landscapes** In review.
 
-<u>A. Blanckaert</u>, <u>V. Sriram</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation II: hard times for hybrid speciation.** Evolution, accepted pending minor revision. [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528680v1)
+<u>A. Blanckaert</u>, <u>V. Sriram</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation II: hard times for hybrid speciation?** Evolution, accepted pending minor revision. [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528680v1)
 
-<u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment: periodic versus quasi-periodic environmental changes.** Proceedings of the Royal Society B, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
+<u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment: periodic versus quasi-periodic environmental changes.** Proceedings of the Royal Society B, doi: 10.1098/rspb.2023.0770. [link](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0770) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
 
 <u>A. Amado</u><sup>*#</sup>, <u>J. Li</u><sup>*#</sup>, and <u>C. Bank</u>. **STUN: forward-time Simulation on TUnable fitNess landscapes in recombining populations.** [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528681v1)
 
 <u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Rapid adaptation of recombining populations on tunable fitness landscapes.** Molecular Ecology, doi: 10.1111/mec.16900. [link](http://doi.org/10.1111/mec.16900) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.16.516770v1)
 
-<u>A.-H. Ghenu</u>, <u>A. Amado</u>, I. Gordo, and <u>C. Bank</u>. **Epistasis decreases with increasing antibiotic pressure but not temperature.** Philosophical Transactions B, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.09.01.506172)
+<u>A.-H. Ghenu</u>, <u>A. Amado</u>, I. Gordo, and <u>C. Bank</u>. **Epistasis decreases with increasing antibiotic pressure but not temperature.** Philosophical Transactions B, 10.1098/rstb.2022.0058. [link](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0058) or [preprint](https://www.biorxiv.org/content/10.1101/2022.09.01.506172)
 
 <u>J. Rieder</u>, <u>A. Kapopoulou</u>, <u>C. Bank</u>, and I. Adrian-Kalchhauser. **Metagenomics and metabarcoding experimental choices and their impact on microbial community characterization in freshwater recirculating aquaculture systems.** Environmental Microbiome, doi: 10.1186/s40793-023-00459-z. [link](https://rdcu.be/c5D08) or [preprint](https://www.biorxiv.org/content/10.1101/2022.07.05.498813v1.abstract)
 
