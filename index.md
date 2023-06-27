@@ -19,11 +19,16 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Upcoming events
 
-**05.06.2023:** We are hosting [Charlotte Ng](https://www.dbmr.unibe.ch/research/personenpool_programs_and_indie_groups/oncogenomics/dr_ng_charlotte_kiu_yan/index_eng.html), Group Leader at the University of Bern, Switzerland, as invited speaker for our Lab meeting
-
-**31.05.2023:** We are hosting [Adria LeBoeuf](https://www.unifr.ch/bio/en/groups/leboeuf-group/), Assistant Professor at the University of Fribourg, Switzerland, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
 ### Past events
+
+**26.06.2023** We are hosting Swastik Patnaik, an associated master student in our lab, as an invited speaker for our Lab meeting
+
+**05.06.2023:** We are hosting [Charlotte Ng](https://www.dbmr.unibe.ch/research/personenpool_programs_and_indie_groups/oncogenomics/dr_ng_charlotte_kiu_yan/index_eng.html), Group Leader at the University of Bern, Switzerland, as invited speaker for our Lab meeting
+
+**31.05.2023** We congratulate Giulia Capella and Henrik Jasper for presenting their bachelor thesis
+
+**31.05.2023:** We are hosting [Adria LeBoeuf](https://www.unifr.ch/bio/en/groups/leboeuf-group/), Assistant Professor at the University of Fribourg, Switzerland, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
 
 **22.05.2023:** We are hosting [Justus Fink](https://scholar.google.ch/citations?user=--24NSEAAAAJ&hl=en&oi=ao), PhD student in the [Theoretical Biology](https://tb.ethz.ch/) group, ETH Zürich, as invited speaker for our Lab meeting 
 
