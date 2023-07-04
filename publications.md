@@ -23,7 +23,9 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs create complex dynamics and sustained diversity on eco-evolutionary fitness landscapes** In review.
 
-<u>A. Blanckaert</u>, <u>V. Sriram</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation II: hard times for hybrid speciation?** Evolution, accepted pending minor revision. [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528680v1)
+<u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** Ecology and Evolution, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.11.15.516663v1)
+
+<u>A. Blanckaert</u>, <u>V. Sriram</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation II: hard times for hybrid speciation?** Evolution, in press. [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528680v1)
 
 <u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment: periodic versus quasi-periodic environmental changes.** Proceedings of the Royal Society B, doi: 10.1098/rspb.2023.0770. [link](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0770) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
 
@@ -39,13 +41,11 @@ M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J
 
 ## 2022
 
-<u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** [preprint](https://www.biorxiv.org/content/10.1101/2022.11.15.516663v1)
-
 <u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
 <u>J. Rieder</u>, P. M. Martin-Sanchez, O. A. Osman, I. Adrian-Kalchhauser, A. Eiler. **Detecting aquatic pathogens with field-compatible dried qPCR assays.** Journal of Microbiological Methods, doi: 10.1016/j.mimet.2022.106594. [link](https://doi.org/10.1016/j.mimet.2022.106594)
 
-<u>C. Bank</u>. **Epistasis and adaptation on fitness landscapes.** Annual Reviews in Ecology, Evolution, and Systematics, doi: 10.1146/annurev-ecolsys-102320-112153. [link](http://www.annualreviews.org/eprint/S7XY5J79I8FDVF9PEF6K/full/10.1146/annurev-ecolsys-102320-112153) or [preprint](https://arxiv.org/abs/2204.13321)
+<u>C. Bank</u>. **Epistasis and adaptation on fitness landscapes.** Annual Review in Ecology, Evolution, and Systematics, doi: 10.1146/annurev-ecolsys-102320-112153. [link](http://www.annualreviews.org/eprint/S7XY5J79I8FDVF9PEF6K/full/10.1146/annurev-ecolsys-102320-112153) or [preprint](https://arxiv.org/abs/2204.13321)
 
 <u>C. Bank</u>, <u>M.A. Schmitz</u>, and <u>A.Y. Morales-Arce</u>. **Evolutionary models predict potential mechanisms of escape from mutational meltdown.** Frontiers in Virology, doi: 10.3389/fviro.2022.886655. [link](https://www.frontiersin.org/articles/10.3389/fviro.2022.886655/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Virology&id=886655) or [preprint](https://www.biorxiv.org/content/10.1101/2022.06.21.496937)
 
