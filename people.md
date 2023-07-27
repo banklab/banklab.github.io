@@ -49,16 +49,6 @@ permalink: /people/
  
 ---
 
-## Ana Y. Morales-Arce
- 
-* Postdoctoral researcher
-* Contact: ana.moralesarce [at] unibe.ch
-* [web-site](http://aymorales-arce.com), [GoogleScholar](https://scholar.google.com/citations?user=LP9FUxEAAAAJ&hl=en&oi=ao)
-
-![Photo of Ana Y. Morales-Arce](/assets/img/team/ana_morales_320x320.jpg)
-
----
-
 ## Susanne Holenstein
 
 * Office manager
@@ -85,16 +75,6 @@ permalink: /people/
 * [GoogleScholar](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en), [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/loic.marrec.1/bibliography/public/), [ORCID](https://orcid.org/0000-0003-0941-6603)
 
 ![Photo of Loïc Marrec](/assets/img/team/loic_marrec_320x320.jpg)
-
----
-
-## David McLeod
- 
-* Postdoctoral researcher
-* Contact: david.mcleod [at] unibe.ch
-* [GoogleScholar](https://scholar.google.com/citations?hl=en&user=xVnf7XwAAAAJ&view_op=list_works&sortby=pubdate)
-
-![Photo of David McLeod](/assets/img/team/david_mcleod_square.jpg)
 
 ---
 
@@ -143,6 +123,12 @@ permalink: /people/
 (In reverse chronological order of leaving the group)
 
 ## University of Bern Alumni
+
+[**David McLeod**](https://scholar.google.com/citations?hl=en&user=xVnf7XwAAAAJ&view_op=list_works&sortby=pubdate)
+Postdoc (2021-2023)
+
+[**Ana Y. Morales-Arce**](https://scholar.google.com/citations?user=LP9FUxEAAAAJ&hl=en&oi=ao)
+Postdoc (2020-2023)
 
 **Henrik Jasper** 
 Bachelor student (2023)

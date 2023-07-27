@@ -19,6 +19,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Upcoming events
 
+**16.08.2023** We are hosting [Lindi Wahl](https://publish.uwo.ca/~lwahl/), professor in the applied mathematics in the University of Western Ontario, Canada, for a departamental seminar.
 
 ### Past events
 
