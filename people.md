@@ -107,6 +107,16 @@ permalink: /people/
 
 ---
 
+## Suman Das
+ 
+* Postdoctoral researcher
+* Contact: suman.das [at] unibe.ch
+* [GoogleScholar](https://scholar.google.com/citations?user=xGBUQx0AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-8583-9961)
+
+![Photo of Suman Das](/assets/img/team/Suman.jpeg)
+
+---
+
 # Associated team members
 
 ## Jessica Rieder
