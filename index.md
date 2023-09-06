@@ -12,9 +12,12 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Upcoming events
 
-**16.08.2023** We are hosting [Lindi Wahl](https://publish.uwo.ca/~lwahl/), professor in the applied mathematics department in the University of Western Ontario, Canada, for a seminar.
+**09.10.2023** - We are hosting [Vitor Sudbrack](http://sudbrack.me/), PhD student in the [Theoretical Evolutionary Ecology](https://lab-mullon.github.io/index.html) group at the University of Lausanne, as an invited speaker for our lab meeting.
+**28.11.2023** - We are hosting [Thomas Lenormand](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/193-thomas-lenormand), CNRS researcher at the [Centre d'Ecologie Fonctionnelle et Evolutive (CEFE)](https://www.cefe.cnrs.fr/en/), France, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
 ### Past events
+
+**16.08.2023** We are hosting [Lindi Wahl](https://publish.uwo.ca/~lwahl/), professor in the applied mathematics department in the University of Western Ontario, Canada, for a seminar.
 
 **26.06.2023** We are hosting Swastik Patnaik, an associated master student in our lab, as an invited speaker for our Lab meeting
 
