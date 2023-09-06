@@ -13,6 +13,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 ### Upcoming events
 
 **09.10.2023** - We are hosting [Vitor Sudbrack](http://sudbrack.me/), PhD student in the [Theoretical Evolutionary Ecology](https://lab-mullon.github.io/index.html) group at the University of Lausanne, as an invited speaker for our lab meeting.
+
 **28.11.2023** - We are hosting [Thomas Lenormand](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/193-thomas-lenormand), CNRS researcher at the [Centre d'Ecologie Fonctionnelle et Evolutive (CEFE)](https://www.cefe.cnrs.fr/en/), France, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
 ### Past events
