@@ -21,6 +21,8 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2023
 
+<u>J. Li</u>, and <u>C. Bank</u>. **Dominance and multi-locus interaction** Trends in Genetics, accepted pending revision.
+
 <u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs create complex dynamics and sustained diversity on eco-evolutionary fitness landscapes** In review.
 
 <u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** Ecology and Evolution, doi: 10.1002/ece3.10295. [link](http://dx.doi.org/10.1002/ece3.10295) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.15.516663v1)
