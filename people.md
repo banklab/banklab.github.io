@@ -134,49 +134,36 @@ permalink: /people/
 
 ## University of Bern Alumni
 
-[**David McLeod**](https://scholar.google.com/citations?hl=en&user=xVnf7XwAAAAJ&view_op=list_works&sortby=pubdate)
-Postdoc (2021-2023)
+[**David McLeod**](https://scholar.google.com/citations?hl=en&user=xVnf7XwAAAAJ&view_op=list_works&sortby=pubdate) Postdoc (2021-2023)
 
 [**Ana Y. Morales-Arce**](https://scholar.google.com/citations?user=LP9FUxEAAAAJ&hl=en&oi=ao)
 Postdoc (2020-2023)
 
-**Henrik Jasper** 
-Bachelor student (2023)
+**Henrik Jasper** Bachelor student (2023)
 
-**Giulia Capella** 
-Bachelor student (2022-2023)
+**Giulia Capella**  Bachelor student (2022-2023)
 
-[**André Amado**](https://scholar.google.com/citations?user=jO8AA9gAAAAJ) 
-Postdoc (2019-2023)
+[**André Amado**](https://scholar.google.com/citations?user=jO8AA9gAAAAJ) Postdoc (2019-2023)
 
-**Jérôme Stäheli** 
-Master student (2021-2023)
+**Jérôme Stäheli** Master student (2021-2023)
 
-**Sabrina Rasch** 
-Bachelor student (2021-2022)
+**Sabrina Rasch** Bachelor student (2021-2022)
 
 ## Gulbenkian Science Institute Alumni
 
-[**Massimo Amicone**](https://scholar.google.ch/citations?user=i-kYxE4AAAAJ&hl=en&oi=ao) 
-Associated PhD student
+[**Massimo Amicone**](https://scholar.google.ch/citations?user=i-kYxE4AAAAJ&hl=en&oi=ao) Associated PhD student
 
-[**Davide Cusseddu**](https://scholar.google.ch/citations?user=x701yr0AAAAJ&hl=en&oi=sra) 
-Postdoc (2019-2021)
+[**Davide Cusseddu**](https://scholar.google.ch/citations?user=x701yr0AAAAJ&hl=en&oi=sra) Postdoc (2019-2021)
 
-**Mark Schmitz** 
-Data/Lab Manager (2020)
+**Mark Schmitz** Data/Lab Manager (2020)
 
-**Lucy Lansch-Justen** 
-Trainee/Programmer (2020)
+**Lucy Lansch-Justen** Trainee/Programmer (2020)
 
-**Inês Borges** 
-Bachelor student (2020)
+**Inês Borges** Bachelor student (2020)
 
-[**Lila Fishman**](https://www.fishmanlab.org/) 
-Sabbatical Visitor (2019-2020)
+[**Lila Fishman**](https://www.fishmanlab.org/) Sabbatical Visitor (2019-2020)
 
-[**Alex Wong**](https://carleton.ca/eme) 
-Sabbatical Visitor (2019)
+[**Alex Wong**](https://carleton.ca/eme) Sabbatical Visitor (2019)
 
 **Dragan Stajic** 
 Associated postdoctoral researcher (2019)
