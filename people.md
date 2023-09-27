@@ -39,16 +39,6 @@ permalink: /people/
 
 ---
 
-## Juan Li
- 
-* Postdoctoral researcher
-* Contact: juan.li [at] unibe.ch
-* [ORCID](https://orcid.org/0000-0003-2643-0802)
-
-![Photo of Juan Li](/assets/img/team/li_juan_320x320.jpg)
- 
----
-
 ## Susanne Holenstein
 
 * Office manager
@@ -72,7 +62,7 @@ permalink: /people/
  
 * Postdoctoral researcher
 * Contact: loic.marrec [at] unibe.ch
-* [GoogleScholar](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en), [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/loic.marrec.1/bibliography/public/), [ORCID](https://orcid.org/0000-0003-0941-6603)
+* [GoogleScholar](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-0941-6603)
 
 ![Photo of Loïc Marrec](/assets/img/team/loic_marrec_320x320.jpg)
 
@@ -117,6 +107,15 @@ permalink: /people/
 
 ---
 
+## Xiaoyue Deng
+ 
+* Master student
+* Contact: xiaoyue.deng [at] students.unibe.ch
+
+![Photo of Suman Das](/assets/img/team/Xiaoyue.jpg)
+
+---
+
 # Associated team members
 
 ## Jessica Rieder
@@ -126,6 +125,13 @@ permalink: /people/
 
 ![Photo of Jessica Rieder](/assets/img/team/white-Rieder-Jessica_w.jpg)
 
+
+---
+
+## Swastik Patnaik
+
+* Associated Master Student (Indian Institute of Science Education and Research, Mohali, India)
+
 ---
 
 # Alumni
@@ -133,6 +139,8 @@ permalink: /people/
 (In reverse chronological order of leaving the group)
 
 ## University of Bern Alumni
+
+[Juan Li](https://orcid.org/0000-0003-2643-0802) - Postdoc (2020-2023)
 
 [David McLeod](https://scholar.google.com/citations?hl=en&user=xVnf7XwAAAAJ&view_op=list_works&sortby=pubdate) - Postdoc (2021-2023)
 
