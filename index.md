@@ -16,13 +16,21 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
+**17.10.2023** - We are hosting [Abdrea Sweigart](http://sweigartlab.genetics.uga.edu/), Professor in the genetics department at the University of Georgia, USA, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html).
+
+---
+
+**23.10.2023** - We are hosting [Ailene McPherson](https://amacp.github.io/), Assistant Professor in Mathematics at the Simon Fraser University, Canada, as an invited speaker for our lab meeting.
+
+---
+
 **28.11.2023** - We are hosting [Thomas Lenormand](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/193-thomas-lenormand), CNRS researcher at the [Centre d'Ecologie Fonctionnelle et Evolutive (CEFE)](https://www.cefe.cnrs.fr/en/), France, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
 ---
 
 ### Past events
 
-**16.08.2023** We are hosting [Lindi Wahl](https://publish.uwo.ca/~lwahl/), professor in the applied mathematics department in the University of Western Ontario, Canada, for a seminar.
+**16.08.2023** We are hosting [Lindi Wahl](https://publish.uwo.ca/~lwahl/), Professor in the applied mathematics department at the University of Western Ontario, Canada, for a seminar.
 
 ---
 
