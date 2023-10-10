@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8"/>
+    <link href="CSS/interactive_companion.css" rel="stylesheet">
+
+<!-- Load JavaScripts --> 
+    <!-- Don't remember what this library does? Perhaps it's the sliders? --> 
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <!-- jQuery library: --> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script
+        src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"
+        integrity="sha256-DI6NdAhhFRnO2k51mumYeDShet3I8AKCQf/tf7ARNhI="
+        crossorigin="anonymous"></script>
+    <script type="text/javascript" src="Javascript/cost_calculator.js"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/cupertino/jquery-ui.css">
+
+    <!-- jQuery code goes here -->
+    <script>
+        $(function() {
+            $( "#radio" ).buttonset();
+        });
+
+        //this shows and hides the user specified costs box
+        $(document).ready(function(){
+            $(".boxed").hide();
+            $("#yesCosts").click(function(){
+                $(".boxed").hide("normal");
+                resetCosts();
+            });
+            $("#noCosts").click(function(){
+                $(".boxed").show("normal");
+            });
+        });
+
+        //inserts the timestamp for the website
+        $(document).ready(function(){
+            $(".timestamp").append(date_lastmodified());
+        });
+    </script>
+
+    <title>Interactive companion for experimental design of deep mutational scanning experiments</title>
+
+</head>
+
+<body>
+
+    <h1>The interactive companion for "A statistical guide to the design of deep mutational scanning experiments"
+    </h1>
+
+<div id="content">
+    <p>This page helps you optimize the cost vs. error function of your high-throughput bulk competition experiments. Use the tools below to visualize some key results from Matuszewski <i>et al.</i> 2016 for values that are relevant to your proposed experiment(s). The publication in <i>Genetics</i> can be found <a href="http://www.genetics.org/content/early/2016/07/11/genetics.116.190462.long">here</a> (or see the pre-print version <a href="http://biorxiv.org/content/early/2016/06/29/048892">here</a>).
+    </p>
+
+<div id="tool_wrap">
+        <ul id='menu'>
+        <li><a href='visualize_page.html' style="text-decoration: none">Visualize key results</a></li>
+        <li class="selected"><a href='cost_calculator.html' style="text-decoration: none">Calculate costs</a></li>
+    </ul>
+
+    <table>
+        <tr class="text"><td>
+            Use the sliders to see the costs for different values of the sequencing depth per sampled time point (D), the number of mutants (K), the total duration of the experiment (t<sub>&tau;</sub>), and the number of equally spaced sampling time points (&tau;).
+        </td></tr>
+    </table>
+
+    <table>
+        <tr>
+            <th># Reads per Sample (D)</th>
+            <th># Mutants (K)</th>
+            <th>Duration (t<sub>&tau;</sub>)</th>
+        </tr>
+        <tr>
+            <td>
+                <label for="dMin">1k</label>
+                <!-- input values must be transformed by 10^(x/10000000000) to get par value -->
+                <input oninput="changeD(this.value)" type="range" id="slideD" name="slideD" min="30000000000" max="96989730001" step=30000 value=0>
+                <output id="dMax">>5bil</output>
+            </td>
+            <td>
+                <label for="kMin">100</label>
+                <input oninput="changeK(this.value)" type="range" id="slideK" name="slideK" min="20000000000" max="60020000000" step=30000000 value=0>
+                <output id="kMax">>1mil</output>
+            </td>
+            <td>
+                <label for="durMin">1</label>
+                <input oninput="changeDur(this.value)" type="range" id="slideDur" name="slideDur" min="1" max="25" value=13>
+                <output id="durMax">25</output>
+            </td>
+        </tr>
+        <tr class="bottom_spaced">
+            <td id="valD">1000</td>
+            <td id="valK">100</td>
+            <td><div id="valDur" class="inline">13</div></td>
+        </tr>
+        <tr>
+            <th># Samples Taken (&tau;)</th>
+            <th>Use Default Costs?</th>
+            <th>Minimum Expected 95% Confidence Interval*</th>
+        </tr>
+        <tr>
+            <td>
+                <label for="tMin">2</label>
+                <input oninput="changeT(this.value)" type="range" id="slideT" name="slideT" min="2" max="20" value=7>
+                <output id="tMax">20</output>
+            </td>
+            <td>
+                <form>
+                    <div id="radio">
+                        <input type="radio" id="yesCosts" name="radio" checked="checked"><label for="yesCosts">yes</label>
+                        <input type="radio" id="noCosts" name="radio"><label for="noCosts">no</label>
+                    </div>
+                </form>
+            </td>
+            <td class="output" id="CI"></td>
+        </tr>
+        <tr class="bottom_spaced">
+            <td id="valT">7</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+
+    <table>
+        <tr class="bottom_spaced">
+            <th>Overall costs<sup>&dagger;</sup></th>
+            <th>Monetary costs ($)<sup>&Dagger;</sup></th>
+        </tr>
+        <tr class="bottom_spaced">
+            <td class="output" id="overallCost"></td>
+            <td class="output" id="moneyCost"></td>
+        </tr>
+    </table>
+
+    <div class="boxed">
+        <p><font color='#0088cc' style="font-size:1.21em">Hourly personel costs (monetary cost):</font>
+            <br>
+            <label for="salary"> Salary per hour: $</label><input type="text" id="salary" value="20" style="width: 3em;">
+            &ensp;
+            <label for="peopleDurHours"> Number of personel hours per unit of experimental duration (t<sub>&tau;</sub>): </label><input type="text" id="peopleDurHours" value="1" style="width: 3em;">
+            <br>
+            <label for="peoplePrepHours"> Fixed number of hours needed to set up experiment, prepare samples for sequencing, <i>etc</i>: </label><input type="text" id="peoplePrepHours" value="100" style="width: 3em;">
+        </p>
+        <p><font color='#0088cc' style="font-size:1.21em">Sample preparation costs per sampled time point (monetary costs):</font>
+            <br>
+            <label for="extract"> DNA extraction: $</label><input type="text" id="extract" value="50" style="width: 3em;">
+            &ensp;
+            <label for="pcr"> PCR: $</label><input type="text" id="pcr" value="10" style="width: 3em;">
+            &ensp;
+            <label for="quality"> Quality control & quantification: $</label><input type="text" id="quality" value="50" style="width: 4em;">
+            <br>
+            <label for="library"> Library synthesis: $</label><input type="text" id="library" value="100" style="width: 4em;">
+        </p>
+
+        <p><font color='#0088cc' style="font-size:1.21em">Sequencing costs per lane and median number of expected reads per lane (monetary costs):</font>
+            <br>
+            <label for="seqCosts1">Sequencing cost 1: $</label><input type="text" id="seqCosts1" value="1800" style="width: 6em;">
+            &nbsp;
+            <label for="seqReads1">Median number of reads expected (default is MiSeq value): </label><input type="text" id="seqReads1" value="35000000" style="width: 10em;">
+            <br>
+            <label for="seqCosts2">Sequencing cost 2: $</label><input type="text" id="seqCosts2" value="2600" style="width: 6em;">
+            &nbsp;
+            <label for="seqReads2">Median # reads (default: MidOutput NextSeq):&thinsp;
+</label><input type="text" id="seqReads2" value="260000000" style="width: 10em;">
+            <br>
+            <label for="seqCosts3">Sequencing cost 3: $</label><input type="text" id="seqCosts3" value="6000" style="width: 6em;">
+            &nbsp;
+            <label for="seqReads3">Median # reads (default: HighOutput NextSeq): </label><input type="text" id="seqReads3" value="800000000" style="width: 10em;">
+        </p>
+
+        <p><font color='#0088cc' style="font-size:1.21em">Parameters to weigh the importance of the mean squared error (non-monetary costs):</font>
+            <br>
+            <label for="alpha"> &alpha;:</label><input type="text" id="alpha" value="10000000000">
+            &emsp;
+            <label for="beta"> &beta;:</label><input type="text" id="beta" value="1" style="width: 3em;">
+        </p>
+        <button onclick="updateCosts()">Calculate!</button>
+        <button onclick="resetCosts()">Reset values</button>
+    </div>
+    <div id="tableFootnotes"> </div>
+</div><!-- #tool_wrap -->
+
+   <div class="timestamp">This tool is hosted by the <a href="https://evoldynamics.org/">Bank lab</a> and the <a href="http://www.igc.gulbenkian.pt/">Gulbenkian Institute.</a> This page was last updated by A.H. Ghenu on: </div>
+</body>
+</html>

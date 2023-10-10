@@ -1,0 +1,10 @@
+#########################################################################################################
+###	  README 'A statistical guide to the design of deep mutational scanning experiments' Online Tool  ###
+#########################################################################################################
+
+
+
+To start the online tool open the file 'visualize_page.html' in the web-browser of your choice. The tool has been successfully tested under Firefox (version 45.0.2), Chrome (version 50.xxx), Safari (version 9.1), and  Opera (version 12.16).
+
+Use the sliders to set the parameters of the experiment. Results are visualized once sliders have been moved for the first time.
+
