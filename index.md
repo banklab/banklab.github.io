@@ -12,13 +12,6 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Upcoming events
 
-**09.10.2023** - We are hosting [Vitor Sudbrack](http://sudbrack.me/), PhD student in the [Theoretical Evolutionary Ecology](https://lab-mullon.github.io/index.html) group at the University of Lausanne, as an invited speaker for our lab meeting.
-
----
-
-**17.10.2023** - We are hosting [Abdrea Sweigart](http://sweigartlab.genetics.uga.edu/), Professor in the genetics department at the University of Georgia, USA, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html).
-
----
 
 **23.10.2023** - We are hosting [Ailene McPherson](https://amacp.github.io/), Assistant Professor in Mathematics at the Simon Fraser University, Canada, as an invited speaker for our lab meeting.
 
@@ -29,6 +22,19 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 ---
 
 ### Past events
+
+
+**17.10.2023** - We are hosting [Andrea Sweigart](http://sweigartlab.genetics.uga.edu/), Professor in the genetics department at the University of Georgia, USA, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html).
+
+---
+
+**13.10.2023** - We congratulate Jessica Rieder, associated PhD student in our lab, for succesfully defending her PhD titled "Environmental DNA methods for monitoring and detection of aquatic bacteria in recitculating aquaculture systems"
+
+---
+
+**09.10.2023** - We are hosting [Vitor Sudbrack](http://sudbrack.me/), PhD student in the [Theoretical Evolutionary Ecology](https://lab-mullon.github.io/index.html) group at the University of Lausanne, as an invited speaker for our lab meeting.
+
+---
 
 **16.08.2023** We are hosting [Lindi Wahl](https://publish.uwo.ca/~lwahl/), Professor in the applied mathematics department at the University of Western Ontario, Canada, for a seminar.
 
