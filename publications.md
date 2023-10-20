@@ -32,6 +32,8 @@ A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, A. Wong. Unpredictability o
 
 <u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** Ecology and Evolution, doi: 10.1002/ece3.10295. [link](http://dx.doi.org/10.1002/ece3.10295) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.15.516663v1)
 
+D. Grbin, S. Geček, A. Miljanović, D. Pavić, S. Hudina, J. Žučko, <u>J. Rieder</u>, S.R.R. Pisano, I. Adrian-Kalchhauser, A. Bielen. **Comparison of exoskeleton microbial communities of co-occurring native and invasive crayfish species.** Journal of Invertebrate Pathology, doi: j.jip.2023.107996. [link](https://www.sciencedirect.com/science/article/pii/S0022201123001131)
+
 <u>A. Blanckaert</u>, <u>V. Sriram</u>, and <u>C. Bank</u>. **In search of the Goldilocks zone for hybrid speciation II: hard times for hybrid speciation?** Evolution, doi: 10.1093/evolut/qpad125. [link](https://doi.org/10.1093/evolut/qpad125) or [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528680v1)
 
 <u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment: periodic versus quasi-periodic environmental changes.** Proceedings of the Royal Society B, doi: 10.1098/rspb.2023.0770. [link](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0770) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
