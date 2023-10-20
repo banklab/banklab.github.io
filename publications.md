@@ -9,7 +9,7 @@ Please [email](/people/) us for pdf copies of lab papers hidden behind a paywall
 
 This list shows publications of lab members during their time in the lab. For additional publications of individual lab members, see their personal pages.
 
-<sup>*</sup>equal contribution; <sup>#</sup>co-corresponding authors
+<sup>*</sup>equal contribution; <sup>#</sup>co-corresponding authors; <sup>&</sup>co-last authors
 {:.p__notes}
 
 <div class="layout-publications" markdown="1">
@@ -20,10 +20,15 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 {:/comment}
 
 ## 2023
+{::comment}
+A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, A. Wong. Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli. Submitted.
+{:/comment}
 
-<u>J. Li</u>, and <u>C. Bank</u>. **Dominance and multi-locus interaction** Trends in Genetics, accepted pending revision.
+<u>I. Fragata</u><sup>*</sup>, Y. Anciaux<sup>*</sup>, P. Cote-Hammarlof, T. Bataillon<sup>&</sup>, and <u>C. Bank</u><sup>&</sup>. **Distributions of fitness effects along the protein sequence of Hsp90 reveal variable costs of adaptation across protein domains and environments**. In review.
 
-<u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs create complex dynamics and sustained diversity on eco-evolutionary fitness landscapes** In review.
+<u>J. Li</u>, and <u>C. Bank</u>. **Dominance and multi-locus interaction**. Trends in Genetics, revision pending. [preprint](https://arxiv.org/abs/2310.04730)
+
+<u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs lead to complex evolutionary trajectories and sustained diversity on dynamic fitness landscapes** Journal of Physics A, revision pending. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.561986v1.abstract)
 
 <u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** Ecology and Evolution, doi: 10.1002/ece3.10295. [link](http://dx.doi.org/10.1002/ece3.10295) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.15.516663v1)
 
@@ -35,7 +40,9 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Rapid adaptation of recombining populations on tunable fitness landscapes.** Molecular Ecology, doi: 10.1111/mec.16900. [link](http://doi.org/10.1111/mec.16900) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.16.516770v1)
 
-<u>A.-H. Ghenu</u>, <u>A. Amado</u>, I. Gordo, and <u>C. Bank</u>. **Epistasis decreases with increasing antibiotic pressure but not temperature.** Philosophical Transactions B, 10.1098/rstb.2022.0058. [link](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0058) or [preprint](https://www.biorxiv.org/content/10.1101/2022.09.01.506172)
+<u>A.-H. Ghenu</u>, <u>A. Amado</u>, I. Gordo, and <u>C. Bank</u>. **Epistasis decreases with increasing antibiotic pressure but not temperature.** Philosophical Transactions B, doi: 10.1098/rstb.2022.0058. [link](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0058) or [preprint](https://www.biorxiv.org/content/10.1101/2022.09.01.506172)
+
+<u>J. Li</u>, and C.-R. Lee. **The role of gene presence–absence variations on genetic incompatibility in Asian rice**. New Phytologist, doi: 10.1111/nph.18969. [link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18969?casa_token=rNrI2cnKaDkAAAAA%3AwIcO6Xr7TykwDkjFM8xNTlNDB6LZepDvc2_I9zMjrZIc2EMPkz2p9laViCr41ikHdteG7Fm2t1z4lad9)
 
 <u>J. Rieder</u>, <u>A. Kapopoulou</u>, <u>C. Bank</u>, and I. Adrian-Kalchhauser. **Metagenomics and metabarcoding experimental choices and their impact on microbial community characterization in freshwater recirculating aquaculture systems.** Environmental Microbiome, doi: 10.1186/s40793-023-00459-z. [link](https://rdcu.be/c5D08) or [preprint](https://www.biorxiv.org/content/10.1101/2022.07.05.498813v1.abstract)
 
