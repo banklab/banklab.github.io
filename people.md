@@ -118,27 +118,17 @@ permalink: /people/
 
 # Associated team members
 
-## Jessica Rieder
-
-* Associated PhD student ([Adrian-Kalchhauser lab](https://www.fiwi.vetsuisse.unibe.ch/research/index_eng.html))
-* Contact: jessica.rieder [at] vetsuisse.unibe.ch
-
-![Photo of Jessica Rieder](/assets/img/team/white-Rieder-Jessica_w.jpg)
-
-
----
-
 ## Swastik Patnaik
 
 * Associated Master Student (Indian Institute of Science Education and Research, Mohali, India)
-
----
 
 # Alumni
 
 (In reverse chronological order of leaving the group)
 
 ## University of Bern Alumni
+
+[Jessica Rieder](https://www.researchgate.net/profile/Jessica-Rieder-2) - Associated PhD student (2020-2023)
 
 [Juan Li](https://orcid.org/0000-0003-2643-0802) - Postdoc (2020-2023)
 
