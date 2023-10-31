@@ -56,7 +56,7 @@ Go directly to the tool by clicking below:
 
 Go directly to the tool by clicking below:
 
-[Optimize high-throughput bulk competitions](http://evd.igc.gulbenkian.pt/companion/visualize_page.html){:.l-big-button}
+[Optimize high-throughput bulk competitions](https://banklab.github.io/mut_scanning/visualize_page.html){:.l-big-button}
 
 Or download and read the corresponding manuscript first: [A statistical guide to the design of deep mutational scanning experiments](http://www.genetics.org/content/early/2016/07/11/genetics.116.190462) – also available as [free preprint](http://biorxiv.org/content/early/2016/06/29/048892).
 
