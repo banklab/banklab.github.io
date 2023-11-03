@@ -12,6 +12,10 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Upcoming events
 
+**13.11.2023** - We are hosting [Christian Tentellino](https://orcid.org/0000-0002-5974-8764), Postdoc at the [Istituto Italiano di Tecnologia](https://plasna.iit.it/), Italy, as an invited speaker for our lab meeting
+
+---
+
 **28.11.2023** - We are hosting [Thomas Lenormand](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/193-thomas-lenormand), CNRS researcher at the [Centre d'Ecologie Fonctionnelle et Evolutive (CEFE)](https://www.cefe.cnrs.fr/en/), France, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
 ### Past events
