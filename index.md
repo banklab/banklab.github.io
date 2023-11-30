@@ -12,13 +12,20 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Upcoming events
 
-**13.11.2023** - We are hosting [Christian Tentellino](https://orcid.org/0000-0002-5974-8764), Postdoc at the [Istituto Italiano di Tecnologia](https://plasna.iit.it/), Italy, as an invited speaker for our lab meeting
 
----
+### Past events
 
 **28.11.2023** - We are hosting [Thomas Lenormand](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/193-thomas-lenormand), CNRS researcher at the [Centre d'Ecologie Fonctionnelle et Evolutive (CEFE)](https://www.cefe.cnrs.fr/en/), France, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
-### Past events
+---
+
+**27.11.2023** - We are hosting [Gian Marco Palamara](https://www.aqua.iee.unibe.ch/about_us/team/gian_marco_palamara/dr_palamara_gian_marco/index_eng.html), Research associate at the [Institute of Ecology and Evolution, University of Bern](https://www.iee.unibe.ch/index_eng.html), as an invited speaker for our lab meeting.
+
+---
+
+**13.11.2023** - We are hosting [Christian Tentellino](https://orcid.org/0000-0002-5974-8764), Postdoc at the [Istituto Italiano di Tecnologia](https://plasna.iit.it/), Italy, as an invited speaker for our lab meeting.
+
+---
 
 **23.10.2023** - We are hosting [Ailene McPherson](https://amacp.github.io/), Assistant Professor in Mathematics at the Simon Fraser University, Canada, as an invited speaker for our lab meeting.
 
