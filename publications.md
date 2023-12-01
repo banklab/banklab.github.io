@@ -25,7 +25,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, A. Wong. **Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli**. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563906v1)
 
-<u>D. McLeod</u>, <u>C. Bank</u>, and S. Gandon. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
+<u>D. McLeod</u>, <u>C. Bank<sup>&</sup></u>, and S. Gandon<sup>&</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
 
 <u>I. Fragata</u><sup>*</sup>, Y. Anciaux<sup>*</sup>, P. Cote-Hammarlof, T. Bataillon<sup>&</sup>, and <u>C. Bank</u><sup>&</sup>. **Distributions of fitness effects along the protein sequence of Hsp90 reveal variable costs of adaptation across protein domains and environments**. In review.
 
