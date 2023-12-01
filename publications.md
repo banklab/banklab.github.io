@@ -20,15 +20,18 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 {:/comment}
 
 ## 2023
-{::comment}
-A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, A. Wong. Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli. Submitted.
-{:/comment}
+
+<u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** Frontiers in Ecology and Evolution, revision pending. [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
+
+A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, A. Wong. **Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli**. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563906v1)
+
+<u>D. McLeod</u>, <u>C. Bank</u>, and S. Gandon. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
 
 <u>I. Fragata</u><sup>*</sup>, Y. Anciaux<sup>*</sup>, P. Cote-Hammarlof, T. Bataillon<sup>&</sup>, and <u>C. Bank</u><sup>&</sup>. **Distributions of fitness effects along the protein sequence of Hsp90 reveal variable costs of adaptation across protein domains and environments**. In review.
 
 <u>J. Li</u>, and <u>C. Bank</u>. **Dominance and multi-locus interaction**. Trends in Genetics, revision pending. [preprint](https://arxiv.org/abs/2310.04730)
 
-<u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs lead to complex evolutionary trajectories and sustained diversity on dynamic fitness landscapes** Journal of Physics A, revision pending. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.561986v1.abstract)
+<u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs lead to complex evolutionary trajectories and sustained diversity on dynamic fitness landscapes**. Journal of Physics A, revision pending. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.561986v1.abstract)
 
 <u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** Ecology and Evolution, doi: 10.1002/ece3.10295. [link](http://dx.doi.org/10.1002/ece3.10295) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.15.516663v1)
 
@@ -38,7 +41,7 @@ D. Grbin, S. Geček, A. Miljanović, D. Pavić, S. Hudina, J. Žučko, <u>J. Rie
 
 <u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment: periodic versus quasi-periodic environmental changes.** Proceedings of the Royal Society B, doi: 10.1098/rspb.2023.0770. [link](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0770) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
 
-<u>A. Amado</u><sup>*#</sup>, <u>J. Li</u><sup>*#</sup>, and <u>C. Bank</u>. **STUN: forward-time Simulation on TUnable fitNess landscapes in recombining populations.** [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528681v1)
+<u>A. Amado</u><sup>*#</sup>, <u>J. Li</u><sup>*#</sup>, and <u>C. Bank</u>. **STUN: forward-time Simulation on TUnable fitNess landscapes in recombining populations.** Bioinformatics Advances, in press. [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528681v1)
 
 <u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Rapid adaptation of recombining populations on tunable fitness landscapes.** Molecular Ecology, doi: 10.1111/mec.16900. [link](http://doi.org/10.1111/mec.16900) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.16.516770v1)
 
@@ -51,8 +54,6 @@ D. Grbin, S. Geček, A. Miljanović, D. Pavić, S. Hudina, J. Žučko, <u>J. Rie
 M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J. Cairns, E.S. Colizzi, <u>D. Cusseddu</u>, M.M. Desai, B. van Dijk, M. Egas, J. Ellers, A.T. Groot, D.G. Heckel, M.L. Johnson, K. Kraaijeveld, J. Krug, L. Laan, M. Lässig, P.A. Lind, J. Meijer, L.M. Noble, S. Okasha, P.B. Rainey, D.E. Rozen, S. Shitut, S.J. Tans, O. Tenaillon, H. Teotónio, J.A.G.M. de Visser, M.E. Visser, R.M.A. Vroomans, G.D.A. Werner, B. Wertheim, and P.S. Pennings. **Towards evolutionary predictions: Current promises and challenges.** Evolutionary Applications, doi: 10.1111/eva.13513. [link](https://onlinelibrary.wiley.com/doi/10.1111/eva.13513) or [earlier preprint](https://ecoevorxiv.org/4u3mg/)
 
 ## 2022
-
-<u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
 <u>J. Rieder</u>, P. M. Martin-Sanchez, O. A. Osman, I. Adrian-Kalchhauser, A. Eiler. **Detecting aquatic pathogens with field-compatible dried qPCR assays.** Journal of Microbiological Methods, doi: 10.1016/j.mimet.2022.106594. [link](https://doi.org/10.1016/j.mimet.2022.106594)
 
