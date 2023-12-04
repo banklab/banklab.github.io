@@ -111,6 +111,7 @@ permalink: /people/
 ## Swastik Patnaik
 
 * Associated Master Student (Indian Institute of Science Education and Research, Mohali, India)
+
 ![Photo of Swastik Patnaik](/assets/img/team/Swastik.jpeg)
 
 # Alumni
