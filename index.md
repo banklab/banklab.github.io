@@ -23,6 +23,10 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
+**23.11.2023** - We congratulate Ana-Hermina Ghenu, PhD student in our lab, for succesfully defending her PhD titled "Fitness landscapes for predicting evolution between environments"
+
+---
+
 **13.11.2023** - We are hosting [Christian Tentellino](https://orcid.org/0000-0002-5974-8764), Postdoc at the [Istituto Italiano di Tecnologia](https://plasna.iit.it/), Italy, as an invited speaker for our lab meeting.
 
 ---

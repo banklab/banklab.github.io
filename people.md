@@ -19,16 +19,6 @@ permalink: /people/
  
 ---
 
-## Ana-Hermina Ghenu
-
-* PhD student (co-supervised by Isabel Gordo)
-* Contact: ana-hermina.ghenu [at] unibe.ch 
-* [GoogleScholar](https://scholar.google.com/citations?user=1sBIOkIAAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0002-9088-2232)
-
-![Photo of Ana-Hermina Ghenu](/assets/img/team/Hermina_new_photo.jpg)
-
----
-
 ## Marco Louro
  
 * PhD student (co-supervised by Mónica Bettencourt Dias)
@@ -112,7 +102,7 @@ permalink: /people/
 * Master student
 * Contact: xiaoyue.deng [at] students.unibe.ch
 
-![Photo of Suman Das](/assets/img/team/Xiaoyue.jpg)
+![Photo of Xiaoyue Deng](/assets/img/team/Xiaoyue.jpg)
 
 ---
 
@@ -121,12 +111,15 @@ permalink: /people/
 ## Swastik Patnaik
 
 * Associated Master Student (Indian Institute of Science Education and Research, Mohali, India)
+![Photo of Swastik Patnaik](/assets/img/team/Swastik.jpeg)
 
 # Alumni
 
 (In reverse chronological order of leaving the group)
 
 ## University of Bern Alumni
+
+[Ana-Hermina Ghenu](https://scholar.google.com/citations?user=1sBIOkIAAAAJ&hl=en&oi=ao) - PhD student (2016-2023)
 
 [Jessica Rieder](https://www.researchgate.net/profile/Jessica-Rieder-2) - Associated PhD student (2020-2023)
 
