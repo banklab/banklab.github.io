@@ -23,7 +23,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>L. Marrec</u>. **Quantifying the impact of genotype-dependent gene flow on mutation fixation in subdivided populations.** [preprint](https://www.biorxiv.org/content/10.1101/2023.11.29.569213v1.abstract)
 
-<u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** Frontiers in Ecology and Evolution, revision pending. [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
+<u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** Frontiers in Ecology and Evolution, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
 A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, A. Wong. **Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli**. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563906v1)
 
@@ -43,7 +43,7 @@ D. Grbin, S. Geček, A. Miljanović, D. Pavić, S. Hudina, J. Žučko, <u>J. Rie
 
 <u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment: periodic versus quasi-periodic environmental changes.** Proceedings of the Royal Society B, doi: 10.1098/rspb.2023.0770. [link](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0770) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
 
-<u>A. Amado</u><sup>*#</sup>, <u>J. Li</u><sup>*#</sup>, and <u>C. Bank</u>. **STUN: forward-time Simulation on TUnable fitNess landscapes in recombining populations.** Bioinformatics Advances, in press. [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528681v1)
+<u>A. Amado</u><sup>*#</sup>, <u>J. Li</u><sup>*#</sup>, and <u>C. Bank</u>. **STUN: forward-time Simulation on TUnable fitNess landscapes in recombining populations.** Bioinformatics Advances, doi:10.1093/bioadv/vbad164. [link](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad164/7424707?searchresult=1) or [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528681v1)
 
 <u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Rapid adaptation of recombining populations on tunable fitness landscapes.** Molecular Ecology, doi: 10.1111/mec.16900. [link](http://doi.org/10.1111/mec.16900) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.16.516770v1)
 
@@ -57,9 +57,9 @@ M.T. Wortel, D. Agashe, S.F. Bailey, <u>C. Bank</u>, K. Bisschop, T. Blankers, J
 
 ## 2022
 
-<u>J. Rieder</u>, P. M. Martin-Sanchez, O. A. Osman, I. Adrian-Kalchhauser, A. Eiler. **Detecting aquatic pathogens with field-compatible dried qPCR assays.** Journal of Microbiological Methods, doi: 10.1016/j.mimet.2022.106594. [link](https://doi.org/10.1016/j.mimet.2022.106594)
-
 <u>C. Bank</u>. **Epistasis and adaptation on fitness landscapes.** Annual Review in Ecology, Evolution, and Systematics, doi: 10.1146/annurev-ecolsys-102320-112153. [link](http://www.annualreviews.org/eprint/S7XY5J79I8FDVF9PEF6K/full/10.1146/annurev-ecolsys-102320-112153) or [preprint](https://arxiv.org/abs/2204.13321)
+
+<u>J. Rieder</u>, P. M. Martin-Sanchez, O. A. Osman, I. Adrian-Kalchhauser, A. Eiler. **Detecting aquatic pathogens with field-compatible dried qPCR assays.** Journal of Microbiological Methods, doi: 10.1016/j.mimet.2022.106594. [link](https://doi.org/10.1016/j.mimet.2022.106594)
 
 <u>C. Bank</u>, <u>M.A. Schmitz</u>, and <u>A.Y. Morales-Arce</u>. **Evolutionary models predict potential mechanisms of escape from mutational meltdown.** Frontiers in Virology, doi: 10.3389/fviro.2022.886655. [link](https://www.frontiersin.org/articles/10.3389/fviro.2022.886655/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Virology&id=886655) or [preprint](https://www.biorxiv.org/content/10.1101/2022.06.21.496937)
 
