@@ -81,6 +81,7 @@ For more information and a pdf of the accompanying lecture see the [website of t
 
 ### Popular press/News releases
 
+* [Do Epigenetic Changes Influence Evolution?](https://www.the-scientist.com/features/do-epigenetic-changes-influence-evolution-70591) (The Scientist, 2022)
 * [ Novos fundos para estudar resistências antimicrobianas](https://www.dropbox.com/s/3mvjbjneyqb94fo/newsletter_17-08.png?dl=0) (FCG Newsletter in Portuguese, August/September 2017)
 * [ IGC Scientists receive new funding to study antimicrobial resistances ](http://www.igc.gulbenkian.pt/pages/article.php/A=318___collection=newsIGC___year=2017) (IGC press release, August 2017)
 * [ Evolutionary theory – a work in progress](https://dl.dropboxusercontent.com/u/11866163/internationalinoovation_small.pdf) (International Innovation, June 2014)
