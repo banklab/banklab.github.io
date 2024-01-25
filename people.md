@@ -13,7 +13,7 @@ permalink: /people/
 
 * Principal investigator, Head of Division
 * Contact: claudia.bank [at] unibe.ch
-* [GoogleScholar](https://scholar.google.ch/citations?user=VBOPD0UAAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bank+Claudia%5BAuthor%5D&sort=date), [ORCID](https://orcid.org/0000-0003-4730-758X)
+* [GoogleScholar](https://scholar.google.ch/citations?user=VBOPD0UAAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bank+Claudia%5BAuthor%5D&sort=date), [ORCID](https://orcid.org/0000-0003-4730-758X), [CV](https://www.dropbox.com/scl/fi/bvjed96v5lwoetj8g45mc/cv_bank.pdf?rlkey=sxvvxo6w323udt8e827gio0v1&dl=0)
 
 ![Photo of Claudia Bank](/assets/img/team/claudia_bank_320x320.jpg)
  
