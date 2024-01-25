@@ -21,8 +21,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2024
 
-<u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** Frontiers in Ecology and Evolution, doi: 10.3389/fevo.2023.1313500. [link](https://www.frontiersin.org/articles/10.3389/fevo.2023.1313500/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=1313500) [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
-
+<u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** Frontiers in Ecology and Evolution, doi: 10.3389/fevo.2023.1313500. [link](https://www.frontiersin.org/articles/10.3389/fevo.2023.1313500/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=1313500) or [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
 ## 2023
 
