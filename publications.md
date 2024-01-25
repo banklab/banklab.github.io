@@ -19,11 +19,14 @@ markdown="1" attribute important, the following text will not be converted other
 https://kramdown.gettalong.org/syntax.html#html-blocks
 {:/comment}
 
+## 2024
+
+<u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** Frontiers in Ecology and Evolution, doi: 10.3389/fevo.2023.1313500. [link](https://www.frontiersin.org/articles/10.3389/fevo.2023.1313500/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=1313500) [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
+
+
 ## 2023
 
 <u>L. Marrec</u>. **Quantifying the impact of genotype-dependent gene flow on mutation fixation in subdivided populations.** [preprint](https://www.biorxiv.org/content/10.1101/2023.11.29.569213v1.abstract)
-
-<u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** Frontiers in Ecology and Evolution, in press. [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
 A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, A. Wong. **Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli**. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563906v1)
 
@@ -168,5 +171,6 @@ R.T. Hietpas<sup>*</sup>, <u>C. Bank</u><sup>*</sup>, J.D. Jensen<sup>#</sup>, a
 <u>C. Bank</u>, R. Bürger, and J. Hermisson. **The limits to parapatric speciation: Dobzhansky-Muller incompatibilities in a continent-island model.** Genetics, doi: 10.1534/genetics.111.137513 [link](https://doi.org/10.1534/genetics.111.137513). Read our summary of this article [here](https://evoldynamics.org/2016/04/01/limits-to-parapatric-speciation/).
 
 <u>C. Bank</u>, J. Hermisson, and M. Kirkpatrick. **Can reinforcement complete speciation?** Evolution, doi: 10.1111/j.1558-5646.2011.01423.x [link](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1558-5646.2011.01423.x) or [direct pdf link](https://uscholar.univie.ac.at/get/o:245959)
+*This paper is part of a Perspective on [Recent work in speciation research by women authors](https://onlinelibrary.wiley.com/doi/10.1111/evo.14444) in the journal Evolution, which appeared in 2022.*
 
 </div>
