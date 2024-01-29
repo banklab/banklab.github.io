@@ -30,6 +30,10 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
+**01.01.2024:** Welcome to our new associated postdoctoral researcher, Zachary Bailey, working mainly in the [Terrestial ecology group](https://www.terr.iee.unibe.ch/research/index_eng.html) at the University of Bern.
+
+---
+
 **28.11.2023** - We are hosting [Thomas Lenormand](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/193-thomas-lenormand), CNRS researcher at the [Centre d'Ecologie Fonctionnelle et Evolutive (CEFE)](https://www.cefe.cnrs.fr/en/), France, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
 
 ---

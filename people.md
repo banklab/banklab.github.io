@@ -141,6 +141,8 @@ permalink: /people/
 * Contact: zachary.bailey [at] unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?user=V5rDLCkAAAAJ&hl=en)
 
+![Photo of Zachary Bailey](/assets/img/team/Zach.jpeg)
+
 ---
 
 # Alumni
