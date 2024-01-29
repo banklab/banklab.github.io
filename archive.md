@@ -6,6 +6,16 @@ permalink: /archive/
 
 ## Lab News Feed Archive
 
+**12.12.2022:** We are hosting Peter Lenart, Post-Doc in [Ben Towbin's group at the Cell Biology Institute](https://www.towbinlab.org/), University of Bern, as invited speaker for our Lab meeting
+
+**08.11.2022:** We are hosting [Andreas Wagner](https://www.ieu.uzh.ch/wagner/), Professor at the University of Zürich, Dept. of Evolutionary Biology and Environmental Studies, Switzerland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) on "A highly rugged yet easily navigable adaptive landscape of antibiotic resistance"
+
+**31.10.2022:** We are hosting [Caroline Daniel](https://allanecology.com/about-us/people/caroline-daniel/), PhD student at [Allan Ecology Group](https://allanecology.com/), University of Bern, as invited speaker for our Lab meeting with title "From competition to coexistence, going beyond the pairwise framework."
+
+**25.10.2022:** We are hosting [Helen Alexander](https://www.ed.ac.uk/biology/groups/alexander), Group Leader at the University of Edinburgh, Scotland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) on "Roles of demographic stochasticity and ecology in the emergence of drug resistance"
+
+**01.10.2022:** Welcome to our new PhD Loraine Hablützel
+
 **14-19.08.2022:** The lab is actively participating at the [ESEB meeting](https://www.eseb2022.cz/) in Prague: André, LiJuan, Loïc, and Mado are giving a talk, Hermina and Ana are presenting a poster
 
 **05.07.2022:** Jessica's, Mado's, and Claudia's paper on "Metagenomics and metabarcoding experimental choices and their impact on microbial community characterization in freshwater recirculating aquaculture systems" is now online in [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.05.498813v1.full)

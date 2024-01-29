@@ -97,12 +97,29 @@ permalink: /people/
 
 ---
 
-## Xiaoyue Deng
+## Catalina Chaparro Pedraza
  
-* Master student
-* Contact: xiaoyue.deng [at] students.unibe.ch
+* Postdoctoral researcher
+* Contact: catalina.chaparro [at] unibe.ch
+* [ORCID](https://orcid.org/0000-0001-9801-3878)
 
-![Photo of Xiaoyue Deng](/assets/img/team/Xiaoyue.jpg)
+---
+
+## Ianis Vilela
+
+* Master student
+
+---
+
+## Yannick Jauslin
+
+* Bachelor student
+
+---
+
+## Carole Schöpfer
+
+* Bachelor student
 
 ---
 
@@ -114,11 +131,21 @@ permalink: /people/
 
 ![Photo of Swastik Patnaik](/assets/img/team/Swastik.jpeg)
 
+---
+
+## Zachary Bailey
+
+* Associated Postdoctoral researcher (From the [Terrestial ecology group](https://www.terr.iee.unibe.ch/research/index_eng.html) in University of Bern)
+* Contact: zachary.bailey [at] unibe.ch
+* [GoogleScholar](https://scholar.google.com/citations?user=V5rDLCkAAAAJ&hl=en)
+
 # Alumni
 
 (In reverse chronological order of leaving the group)
 
 ## University of Bern Alumni
+
+Xiaoyue Deng - Master student (2023)
 
 [Ana-Hermina Ghenu](https://scholar.google.com/citations?user=1sBIOkIAAAAJ&hl=en&oi=ao) - PhD student (2016-2023)
 
