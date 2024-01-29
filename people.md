@@ -103,6 +103,8 @@ permalink: /people/
 * Contact: catalina.chaparro [at] unibe.ch
 * [ORCID](https://orcid.org/0000-0001-9801-3878)
 
+![Photo of Catalina Chaparro Pedraza](/assets/img/team/Catalina.jpeg)
+
 ---
 
 ## Ianis Vilela

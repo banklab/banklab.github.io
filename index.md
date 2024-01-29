@@ -26,7 +26,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**01.01.2024:** Welcome to our new postdoctoral researcher, Catalina Chaparro Pedraza
+**10.01.2024:** Welcome to our new postdoctoral researcher, Catalina Chaparro Pedraza
 
 ---
 
