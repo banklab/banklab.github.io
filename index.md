@@ -14,7 +14,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**05.02.2024:** We are hosting [Magdalena Bohutinska](https://scholar.google.com/citations?user=kSnTudAAAAAJ), Marie Curie Global Postdoctoral fellow in the Evolutionary Ecology lab, University of Bern, as invited speaker for our lab meeting to give a talk about "Genetics of repeated adaptation: in alpine Arabidopsis and beyond"
+**05.02.2024:** We are hosting [Magdalena Bohutinska](https://scholar.google.com/citations?user=kSnTudAAAAAJ), Marie Curie Global Postdoctoral fellow in the [Evolutionary Ecology lab](https://www.ee.iee.unibe.ch/index_eng.html), University of Bern, as invited speaker for our lab meeting to give a talk about "Genetics of repeated adaptation in alpine Arabidopsis and beyond"
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**18-19.01.2024:** The lab is actively participating at the [Biology 24](https://biology24.ch/) conference in Zurich: Russ is giving a talk, and Julio and Loraine are presenting a poster
+**18-19.01.2024:** The lab is actively participating at the [Biology 24](https://biology24.ch/) conference in Zurich, Switzerland: Russ is giving a talk, and Julio and Loraine are presenting a poster
 
 ---
 

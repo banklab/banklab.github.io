@@ -139,6 +139,8 @@ permalink: /people/
 * Contact: zachary.bailey [at] unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?user=V5rDLCkAAAAJ&hl=en)
 
+---
+
 # Alumni
 
 (In reverse chronological order of leaving the group)
