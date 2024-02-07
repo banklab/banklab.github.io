@@ -21,6 +21,10 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2024
 
+<u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs lead to complex evolutionary trajectories and sustained diversity on dynamic fitness landscapes**. Journal of Physics A, accepted. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.561986v1.abstract)
+
+K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antimicrobial Resistance in Wildlife across Switzerland and the Principality of Liechtenstein: Associations with Environmental Factors and Taxonomic Variation**. In review.
+
 <u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** Frontiers in Ecology and Evolution, doi: 10.3389/fevo.2023.1313500. [link](https://www.frontiersin.org/articles/10.3389/fevo.2023.1313500/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=1313500) or [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
 ## 2023
@@ -34,8 +38,6 @@ A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, A. Wong. **Unpredictability
 <u>I. Fragata</u><sup>*</sup>, Y. Anciaux<sup>*</sup>, P. Cote-Hammarlof, T. Bataillon<sup>&</sup>, and <u>C. Bank</u><sup>&</sup>. **Distributions of fitness effects along the protein sequence of Hsp90 reveal variable costs of adaptation across protein domains and environments**. In review.
 
 <u>J. Li</u>, and <u>C. Bank</u>. **Dominance and multi-locus interaction**. Trends in Genetics, in press. [preprint](https://arxiv.org/abs/2310.04730)
-
-<u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs lead to complex evolutionary trajectories and sustained diversity on dynamic fitness landscapes**. Journal of Physics A, revision pending. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.561986v1.abstract)
 
 <u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** Ecology and Evolution, doi: 10.1002/ece3.10295. [link](http://dx.doi.org/10.1002/ece3.10295) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.15.516663v1)
 
