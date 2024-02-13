@@ -14,11 +14,19 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**05.02.2024:** We are hosting [Magdalena Bohutinska](https://scholar.google.com/citations?user=kSnTudAAAAAJ), Marie Curie Global Postdoctoral fellow in the [Evolutionary Ecology lab](https://www.ee.iee.unibe.ch/index_eng.html), University of Bern, as invited speaker for our lab meeting to give a talk about "Genetics of repeated adaptation in alpine Arabidopsis and beyond"
+**04.03.2024:** We are hosting [Ksenia Khudiakova](https://scholar.google.com/citations?user=1sWI-dYAAAAJ&hl=en&oi=ao), PhD student in the [Barton Group](https://ist.ac.at/en/research/barton-group/), Institude of Science and Technology, Austria, as an invited speaker for our lab meeting to give a talk about "The impact of sign epistasis on the maintenance of genetic diversity"
+
+---
+
+**11.03.2024:** We are hosting [Thomas Flatt](https://scholar.google.co.cr/citations?user=hnOIPdEAAAAJ&hl=en), Professor of [Evolutionary Biology](https://www.unifr.ch/bio/en/groups/flatt/) at the University of Fribourg, as an invited speaker for our lab meeting to give a talk about "Unravelling How Balancing Selection Maintains Inversion Polymorphism"
 
 ---
 
 ### Past events
+
+---
+
+**05.02.2024:** We are hosting [Magdalena Bohutinska](https://scholar.google.com/citations?user=kSnTudAAAAAJ), Marie Curie Global Postdoctoral fellow in the [Evolutionary Ecology lab](https://www.ee.iee.unibe.ch/index_eng.html), University of Bern, as invited speaker for our lab meeting to give a talk about "Genetics of repeated adaptation in alpine Arabidopsis and beyond"
 
 ---
 
