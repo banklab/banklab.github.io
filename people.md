@@ -101,7 +101,7 @@ permalink: /people/
  
 * Postdoctoral researcher
 * Contact: catalina.chaparro [at] unibe.ch
-* [ORCID](https://orcid.org/0000-0001-9801-3878)
+* [Website](https://pcchaparro.github.io/) [ORCID](https://orcid.org/0000-0001-9801-3878)
 
 ![Photo of Catalina Chaparro Pedraza](/assets/img/team/Catalina.jpeg)
 
