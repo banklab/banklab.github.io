@@ -22,6 +22,10 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
+**12.04.2024** We congratulate Loraine from our group and Flávia Schlichta, for obtaining a grant from the Equal Opportunity Commission of the Faculty of Science at the University of Bern, to have a workshop on "Gender and Diversity in Academia: What’s My Share?" that will take place in the IEE on 12.04.2024 and is open for students of all levels in the Biology Department. Signup [here](https://forms.office.com/e/uG814aFTDq)
+
+---
+
 ### Past events
 
 ---
