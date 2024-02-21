@@ -21,6 +21,10 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2024
 
+<u>M.A.D. Louro<sup>*#</sup></u>, C. Peneda<sup>*#</sup>, <u>C. Bank</u>, and M. Bettencourt-Dias<sup>#</sup>. **Adaptation of human cell populations to different levels of centriole amplification involves a two-step response**. In review. [preprint](https://www.biorxiv.org/content/10.1101/2024.02.15.580424v2)
+
+A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, and A. Wong. **Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli**. Molecular Biology and Evolution, accepted pending revision. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563906v1)
+
 <u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs lead to complex evolutionary trajectories and sustained diversity on dynamic fitness landscapes**. Journal of Physics A, accepted. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.561986v1.abstract)
 
 K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antimicrobial Resistance in Wildlife across Switzerland and the Principality of Liechtenstein: Associations with Environmental Factors and Taxonomic Variation**. In review.
@@ -30,8 +34,6 @@ K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antim
 ## 2023
 
 <u>L. Marrec</u>. **Quantifying the impact of genotype-dependent gene flow on mutation fixation in subdivided populations.** [preprint](https://www.biorxiv.org/content/10.1101/2023.11.29.569213v1.abstract)
-
-A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, A. Wong. **Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli**. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563906v1)
 
 <u>D. McLeod</u>, <u>C. Bank<sup>&</sup></u>, and S. Gandon<sup>&</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
 
