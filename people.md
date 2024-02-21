@@ -151,7 +151,7 @@ permalink: /people/
 
 ## University of Bern Alumni
 
-Xiaoyue Deng - Master student (2023)
+Xiaoyue Deng - Master project student (2023)
 
 [Ana-Hermina Ghenu](https://scholar.google.com/citations?user=1sBIOkIAAAAJ&hl=en&oi=ao) - PhD student (2016-2023)
 
@@ -199,9 +199,9 @@ Christian Diwo - Trainee (2019)
 
 Dinis Seward - Summer project student (2019)
 
-Vedanth Sriram - Summer project student (2019)
+[Vedanth Sriram](https://scholar.google.ch/citations?user=Me5pI08AAAAJ&hl=en&oi=ao) - Summer project student (2019)
 
-Manuel Fortunato - Project student (2018)
+Manuel Fortunato - Master project student (2018)
 
 Sofia Torres - Summer project student (2018)
 
