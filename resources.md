@@ -104,45 +104,34 @@ For more information and a pdf of the accompanying lecture see the [website of t
 
 ![SNSF logo](/assets/img/logos/SNF_logo_standard_web_color_pos_e.png)<br>
 [Swiss National Science Foundation](https://www.snf.ch/en/FKhU9kAtfXx7w9AI/page/home)
+SNSF Project Funding 315230_204838/1
+MiCo4Sys - Microbial Community Composition and Colonization in Compartmentalized Aquaculture Systems (01/2022-12/2024)
 
 ![HFSP logo](/assets/img/logos/HFSP_horizontal_blue_0.jpg)<br>
 [Human Frontier Science Program](https://www.hfsp.org/)
+HFSP Young Investigator Grant RGY0081/2020
+Chance or curse? The consequences of hybridization in a changing world (12/2020-11/2024)
+PIs: M. Schumer (main), C. Bank, C. Rochman, V. Sousa
 
 ![ERC logo](/assets/img/logos/erc-logo-0.png)<br>
 [European Research Council](https://erc.europa.eu/)
+ERC Starting Grant 804569
+FIT2GO – A toolbox for fitness landscapes in evolution (03/2019-08/2024)
+PI: C. Bank
 
 ![EMBO logo](/assets/img/logos/embo-logo.jpg)<br>
 [European Molecular Biology Organization](https://www.embo.org/)
+EMBO Installation Grant 
+Fitness landscapes and the predictability of evolution (01/2019-12/2020)
+PI: C. Bank
 
 ![FCT logo](/assets/img/logos/fct-logo.jpg)<br>
 [Portuguese Science Foundation](http://www.fct.pt/)
-
-![FCG logo](/assets/img/logos/fcg-logo.jpg)<br>
-[Gulbenkian Foundation](https://gulbenkian.pt/)
+ERA-NET/FCT: JPIAMR Joint Call Transmission Dynamics 
+PREPARE – Predicting the Persistence of Resistance Across Environments (05/2017- 04/2020)
+PIs: A. Wong (main), C. Bank, T. Batallion, I. Gordo, R. Kassen
 
 </div>
-
-### Collaborators
-
-* [Thomas Bataillon](http://pure.au.dk/portal/en/persons/thomas-bataillon(8a3f8bad-957a-4a82-a80f-ad722ed6796f).html) (Aarhus University)
-* [Mónica Bettencourt Dias](http://sites.igc.gulbenkian.pt/ccr/) (Instituto Gulbenkian de Ciência)
-* [Daniel Bolon](http://profiles.umassmed.edu/Profiles/display/133553) (University of Massachusetts Medical School)
-* [Roger Butlin](https://www.shef.ac.uk/aps/staff-and-students/acadstaff/butlin) (University of Sheffield)
-* [Isabel Gordo](http://eao.igc.gulbenkian.pt/EVB/index.html) (Instituto Gulbenkian de Ciência)
-* [Joachim Hermisson](http://www.mabs.at/) (Universität Wien)
-* [Jeffrey Jensen](http://jjensenlab.org/) (Arizona State University)
-* [Rees Kassen](http://kassenlab.weebly.com/) (University of Ottawa)
-* [Mark Kirkpatrick](http://www.sbs.utexas.edu/kirkpatrick_lab/k/home.html) (University of Texas at Austin)
-* [Jonna Kulmuni](https://jonnakulmuni.wordpress.com/) (University of Helsinki)
-* [Alex Wong](http://labs.carleton.ca/eme/) (Carleton University)
-
-### Institutions
-
-* [Ecole Polytechnique Fédérale de Lausanne](https://www.epfl.ch/)
-* [Instituto Gulbenkian de Ciência](http://www.igc.gulbenkian.pt/pages/homepage.php)
-* [Kavli Institute for Theoretical Physics](https://www.kitp.ucsb.edu/)
-* [Simons Institute for the Theory of Computing](http://simons.berkeley.edu/)
-* [Vienna Graduate School of Population Genetics](http://www.popgen-vienna.at/)
 
 ### Attributions for images used
 
