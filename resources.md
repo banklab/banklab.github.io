@@ -8,30 +8,17 @@ permalink: /resources/
 * [Teaching](#teaching)
 * [Tools](#tools)
 * [Media](#media)
-* [Links](#links)
+* [Funding](#funding)
 
 ---
 
 ## Teaching
-![Grayscale photo of a curved hallway in a library](/assets/img/teaching.jpg)
 
-### Studies
-
-For the Study programs of the Uni Bern see the [Studies section](http://www.thee.iee.unibe.ch/studies/index_eng.html) on [our Uni Bern web-site](http://www.thee.iee.unibe.ch/).
-
-### Epistasis and fitness landscapes
-
-Fitness landscape simulation for the tutorial at the [ ICTS Workshop Living Matter](https://www.icts.res.in/program/LivingMatter2018). Download the Mathematica notebook here:
-
-* [adaptation on a fitness landscape](/assets/download/fintess-landscape-simulation.nb) [37 KB [Mathematica](https://www.wolfram.com/mathematica/) notebook - text format]
-
-A recording of the two accompanying lectures is available on the [website of the workshop](https://www.icts.res.in/program/LivingMatter2018).
+For the Study programs of Uni Bern see the [Studies section](http://www.thee.iee.unibe.ch/studies/index_eng.html) on [our Uni Bern web-site](http://www.thee.iee.unibe.ch/).
 
 ---
 
 ## Tools
-
-![Cropped grayscale image of an abacus](/assets/img/tools.jpg)
 
 ### empiricIST: a software that allows for accurate estimation of selection coefficients and credibility intervals from bulk competitions
 
@@ -73,10 +60,9 @@ Our [GitLab repository](https://gitlab.com/evoldyn/evomics-2018) contains the RS
 
 For more information and a pdf of the accompanying lecture see the [website of the workshop](http://evomics.org/workshops/workshop-on-population-and-speciation-genomics/2018-workshop-on-population-and-speciation-genomics-cesky-krumlov/) or download the lecture slides here: [Positive and negative selection [PDF, 6 MB]](https://evoldyn.gitlab.io/evomics-2018/lecture/positive_and_negative_selection.pdf).
 
+---
 
 ## Media
-
-![Grayscale photo showing a 35 mm film roll for analog cameras](/assets/img/media.jpg)
 
 ### Popular press/News releases
 
@@ -95,9 +81,9 @@ For more information and a pdf of the accompanying lecture see the [website of t
 * [ Shifting fitness landscapes in response to altered environments](https://www.youtube.com/watch?v=PXzyWIGpOmM) (Contributed talk at the ESEB congress in Lisbon, Portugal, August 2013)
 * [ Can reinforcement complete speciation?](https://www.youtube.com/watch?v=Pg4XUGUWjXM) (Contributed talk at the Speciation 2010 conference in Laxenburg, Austria, December 2010)
 
-## Links
+---
 
-### Funding
+## Funding
 
 <div class="layout-funding" markdown="1">
 
@@ -127,12 +113,3 @@ EMBO Installation Grant 4152: Fitness landscapes and the predictability of evolu
 ERA-NET/FCT JPIAMR Joint Call Transmission Dynamics: PREPARE – Predicting the Persistence of Resistance Across Environments (05/2017- 04/2020; PIs: A. Wong (main), C. Bank, T. Batallion, I. Gordo, R. Kassen)
 
 </div>
-
-### Attributions for images used
-
-* Teaching
-  * [https://unsplash.com/photos/V75YEqJp4pE](https://unsplash.com/photos/V75YEqJp4pE) from [@martinadams](https://unsplash.com/@martinadams)
-* Tools
-  * [https://unsplash.com/photos/gdL-UZfnD3I](https://unsplash.com/photos/gdL-UZfnD3I) from [@crissyjarvis](https://unsplash.com/@crissyjarvis)
-* Media
-  * [https://unsplash.com/photos/hRFg71vYTVk](https://unsplash.com/photos/hRFg71vYTVk) from [@markusspiske](https://unsplash.com/@markusspiske)
