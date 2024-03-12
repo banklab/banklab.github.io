@@ -7,6 +7,9 @@ permalink: /people/
 <div class="layout-team" markdown="1">
 
 # Team
+
+![Photo of Bank Lab team](/assets/img/team/team_24.jpg){:class="img-team"}
+
 (In chronological order of joining the group)
 
 ## Claudia Bank
@@ -15,7 +18,7 @@ permalink: /people/
 * Contact: claudia.bank [at] unibe.ch
 * [GoogleScholar](https://scholar.google.ch/citations?user=VBOPD0UAAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bank+Claudia%5BAuthor%5D&sort=date), [ORCID](https://orcid.org/0000-0003-4730-758X), [CV](https://www.dropbox.com/scl/fi/bvjed96v5lwoetj8g45mc/cv_bank.pdf?rlkey=sxvvxo6w323udt8e827gio0v1&dl=0)
 
-![Photo of Claudia Bank](/assets/img/team/claudia_bank_320x320.jpg)
+![Photo of Claudia Bank](/assets/img/team/Claudia_24.jpg)
  
 ---
 
@@ -44,7 +47,7 @@ permalink: /people/
 * Contact: adamantia.kapopoulou [at] unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?hl=en&user=CMkgYYwAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=kapopoulou&sort=date), [ORCID](https://orcid.org/0000-0003-4192-4923)
 
-![Photo of Adamandia Kapopoulou](/assets/img/team/adamandia_kapopoulou_320x320.jpg)
+![Photo of Adamandia Kapopoulou](/assets/img/team/Mado_24.jpg)
  
 ---
 
@@ -54,7 +57,7 @@ permalink: /people/
 * Contact: loic.marrec [at] unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-0941-6603)
 
-![Photo of Loïc Marrec](/assets/img/team/loic_marrec_320x320.jpg)
+![Photo of Loïc Marrec](/assets/img/team/Loic_24.jpg)
 
 ---
 
@@ -63,7 +66,7 @@ permalink: /people/
 * PhD student
 * Contact: loraine.habluetzel [at] unibe.ch
 
-![Photo of Loraine Habluetzel](/assets/img/team/Loraine.jpeg)
+![Photo of Loraine Habluetzel](/assets/img/team/Loraine_24.jpg)
 
 ---
 
@@ -73,7 +76,7 @@ permalink: /people/
 * Contact: russell.jasper [at] unibe.ch
 * [ORCID](https://orcid.org/0000-0003-4275-1155)
 
-![Photo of Russ Jasper](/assets/img/team/Russ.jpeg)
+![Photo of Russ Jasper](/assets/img/team/Russ_24.jpg)
 
 ---
 
@@ -83,7 +86,7 @@ permalink: /people/
 * Contact: julio.ayalalopez [at] unibe.ch
 * [ORCID](https://orcid.org/0000-0003-4687-5825)
 
-![Photo of Julio Ayala](/assets/img/team/Julio.jpg)
+![Photo of Julio Ayala](/assets/img/team/Julio_24.jpg)
 
 ---
 
@@ -93,7 +96,7 @@ permalink: /people/
 * Contact: suman.das [at] unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?user=xGBUQx0AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-8583-9961)
 
-![Photo of Suman Das](/assets/img/team/Suman.jpeg)
+![Photo of Suman Das](/assets/img/team/Suman_24.jpg)
 
 ---
 
@@ -103,27 +106,44 @@ permalink: /people/
 * Contact: catalina.chaparro [at] unibe.ch
 * [Website](https://pcchaparro.github.io/) [ORCID](https://orcid.org/0000-0001-9801-3878)
 
-![Photo of Catalina Chaparro Pedraza](/assets/img/team/Catalina.jpeg)
+![Photo of Catalina Chaparro Pedraza](/assets/img/team/Catalina_24.jpg)
 
 ---
 
 ## Ianis Vilela
 
 * Master student
+![Photo of Ianis Vilela](/assets/img/team/Ianis_24.jpg)
 
 ---
 
 ## Yannick Jauslin
 
 * Bachelor student
+![Photo of Yannick Jauslin](/assets/img/team/Yannick_24.jpg)
 
 ---
 
 ## Carole Schöpfer
 
 * Bachelor student
+![Photo of Carole Schöpfer](/assets/img/team/Carole_24.jpg)
 
 ---
+
+## James Ackermann
+
+* Lab assistant
+![Photo of James Ackermann](/assets/img/team/James_24.jpg)
+
+---
+
+## Sabrina Rasch
+
+* Master project student
+
+---
+
 
 # Associated team members
 
@@ -141,7 +161,7 @@ permalink: /people/
 * Contact: zachary.bailey [at] unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?user=V5rDLCkAAAAJ&hl=en)
 
-![Photo of Zachary Bailey](/assets/img/team/Zach.jpeg)
+![Photo of Zachary Bailey](/assets/img/team/Zach_24.jpg)
 
 ---
 
