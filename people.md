@@ -113,6 +113,7 @@ permalink: /people/
 ## Ianis Vilela
 
 * Master student
+
 ![Photo of Ianis Vilela](/assets/img/team/Ianis_24.jpg)
 
 ---
@@ -120,6 +121,7 @@ permalink: /people/
 ## Yannick Jauslin
 
 * Bachelor student
+
 ![Photo of Yannick Jauslin](/assets/img/team/Yannick_24.jpg)
 
 ---
@@ -127,6 +129,7 @@ permalink: /people/
 ## Carole Schöpfer
 
 * Bachelor student
+
 ![Photo of Carole Schöpfer](/assets/img/team/Carole_24.jpg)
 
 ---
@@ -134,6 +137,7 @@ permalink: /people/
 ## James Ackermann
 
 * Lab assistant
+
 ![Photo of James Ackermann](/assets/img/team/James_24.jpg)
 
 ---
