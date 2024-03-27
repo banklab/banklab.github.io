@@ -14,6 +14,10 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
+**08.04.2024:** We are hosting [Pooja Singh](https://scholar.google.com/citations?user=i1GhoccAAAAJ), Postdoctoral researcher in the [Aquatic Ecology & Evolution lab](https://www.aqua.iee.unibe.ch/index_eng.html), University of Bern, and [EAWAG](https://www.eawag.ch/en/department/fishec/) as an invited speaker for our lab meeting.
+
+---
+
 **12.04.2024** We congratulate Loraine from our group and Flávia Schlichta, for obtaining a grant from the Equal Opportunity Commission of the Faculty of Science at the University of Bern, to have a workshop on "Gender and Diversity in Academia: What’s My Share?" that will take place in the IEE on 12.04.2024 and is open for students of all levels in the Biology Department. Signup [here](https://forms.office.com/e/uG814aFTDq)
 
 ---
@@ -30,7 +34,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**05.02.2024:** We are hosting [Magdalena Bohutinska](https://scholar.google.com/citations?user=kSnTudAAAAAJ), Marie Curie Global Postdoctoral fellow in the [Evolutionary Ecology lab](https://www.ee.iee.unibe.ch/index_eng.html), University of Bern, as invited speaker for our lab meeting to give a talk about "Genetics of repeated adaptation in alpine Arabidopsis and beyond"
+**05.02.2024:** We are hosting [Magdalena Bohutinska](https://scholar.google.com/citations?user=kSnTudAAAAAJ), Marie Curie Global Postdoctoral fellow in the [Evolutionary Ecology lab](https://www.ee.iee.unibe.ch/index_eng.html), University of Bern, as an invited speaker for our lab meeting to give a talk about "Genetics of repeated adaptation in alpine Arabidopsis and beyond"
 
 ---
 
