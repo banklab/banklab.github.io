@@ -14,7 +14,15 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**08.04.2024:** We are hosting [Pooja Singh](https://scholar.google.com/citations?user=i1GhoccAAAAJ), Postdoctoral researcher in the [Aquatic Ecology & Evolution lab](https://www.aqua.iee.unibe.ch/index_eng.html), University of Bern, and [EAWAG](https://www.eawag.ch/en/department/fishec/) as an invited speaker for our lab meeting.
+**24.04.2024:** We are hosting [Michael Gerth](https://scholar.google.com/citations?user=puPG9FUAAAAJ&hl=en&oi=ao), leader of the [Symbiont Evolution group](https://www.idiv.de/en/symbiont-evolution.html) at the German Centre for Integrative Biodiversity Research, Leipzig, Germany, as an invited speaker for the [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) to give a talk about "Host shifts and the evolution of arthropod symbionts".
+
+---
+
+**13.05.2024:** We are hosting [Florian Labourel](https://scholar.google.com/citations?user=epay42kAAAAJ&hl=en&oi=ao), Postdoctoral researcher in the [Laboratoirde de Chimie Bactérienne](https://lcb.cnrs.fr/), Marseille, France, as an invited speaker for our lab meeting.
+
+---
+
+### Past events
 
 ---
 
@@ -22,7 +30,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-### Past events
+**08.04.2024:** We are hosting [Pooja Singh](https://scholar.google.com/citations?user=i1GhoccAAAAJ), Postdoctoral researcher in the [Aquatic Ecology & Evolution lab](https://www.aqua.iee.unibe.ch/index_eng.html), University of Bern, and [EAWAG](https://www.eawag.ch/en/department/fishec/) as an invited speaker for our lab meeting.
 
 ---
 
