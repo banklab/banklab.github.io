@@ -14,15 +14,19 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**24.04.2024:** We are hosting [Michael Gerth](https://scholar.google.com/citations?user=puPG9FUAAAAJ&hl=en&oi=ao), leader of the [Symbiont Evolution group](https://www.idiv.de/en/symbiont-evolution.html) at the German Centre for Integrative Biodiversity Research, Leipzig, Germany, as an invited speaker for the [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) to give a talk about "Host shifts and the evolution of arthropod symbionts".
+**13.05.2024:** We are hosting [Florian Labourel](https://scholar.google.com/citations?user=epay42kAAAAJ&hl=en&oi=ao), Postdoctoral researcher in the [Laboratoire de Chimie Bactérienne](https://lcb.cnrs.fr/), Marseille, France, as an invited speaker for our lab meeting.
 
 ---
 
-**13.05.2024:** We are hosting [Florian Labourel](https://scholar.google.com/citations?user=epay42kAAAAJ&hl=en&oi=ao), Postdoctoral researcher in the [Laboratoirde de Chimie Bactérienne](https://lcb.cnrs.fr/), Marseille, France, as an invited speaker for our lab meeting.
+ **21.05.2024** We are hosting Meike Wittmann, Professor of [Theoretical Biology](https://fis-portal.uni-bielefeld.de/vivo/display/p_2303) at Bielefeld University, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) about "Modelling the consequences of intraspecific trait variation and individual-environment interactions for population dynamics in a changing environment"
 
 ---
 
 ### Past events
+
+---
+
+**24.04.2024:** We are hosting [Michael Gerth](https://scholar.google.com/citations?user=puPG9FUAAAAJ&hl=en&oi=ao), leader of the [Symbiont Evolution group](https://www.idiv.de/en/symbiont-evolution.html) at the German Centre for Integrative Biodiversity Research, Leipzig, Germany, as an invited speaker for the [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) to give a talk about "Host shifts and the evolution of arthropod symbionts".
 
 ---
 
