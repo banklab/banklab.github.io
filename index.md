@@ -14,7 +14,11 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
- **21.05.2024** We are hosting Meike Wittmann, Professor of [Theoretical Biology](https://fis-portal.uni-bielefeld.de/vivo/display/p_2303) at Bielefeld University, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "Modelling the consequences of intraspecific trait variation and individual-environment interactions for population dynamics in a changing environment".
+**03.06.2024:** We are hosting [Sara Dal Cengio](https://scholar.google.com/citations?user=T06cMNYAAAAJ&hl=en), Postdoctoral researcher in the [Interdisciplinary Laboratory of Physics](https://liphy.univ-grenoble-alpes.fr/en), at the University of Grenoble Alpes, France, as an invited speaker for our lab meeting.
+
+---
+
+### Past events
 
 ---
 
@@ -22,7 +26,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-### Past events
+**21.05.2024** We congratulate Marco Louro, PhD student in our lab, for successfully defending his PhD!
 
 ---
 
