@@ -22,16 +22,6 @@ permalink: /people/
  
 ---
 
-## Marco Louro
- 
-* PhD student (co-supervised by Mónica Bettencourt Dias)
-* Contact: mlouro [at] igc.gulbenkian.pt
-* [ORCID](https://orcid.org/0000-0002-7023-799X)
-
-![Photo of Marco Louro](/assets/img/team/marco_louro_320x320.jpg)
-
----
-
 ## Susanne Holenstein
 
 * Office manager
@@ -118,30 +108,6 @@ permalink: /people/
 
 ---
 
-## Yannick Jauslin
-
-* Bachelor student
-
-![Photo of Yannick Jauslin](/assets/img/team/Yannick_24.jpg)
-
----
-
-## Carole Schöpfer
-
-* Bachelor student
-
-![Photo of Carole Schöpfer](/assets/img/team/Carole_24.jpg)
-
----
-
-## James Ackermann
-
-* Lab assistant
-
-![Photo of James Ackermann](/assets/img/team/James_24.jpg)
-
----
-
 ## Sabrina Rasch
 
 * Master project student
@@ -151,13 +117,6 @@ permalink: /people/
 
 # Associated team members
 
-## Swastik Patnaik
-
-* Associated Master Student (Indian Institute of Science Education and Research, Mohali, India)
-
-![Photo of Swastik Patnaik](/assets/img/team/Swastik.jpeg)
-
----
 
 ## Zachary Bailey
 
@@ -174,6 +133,16 @@ permalink: /people/
 (In reverse chronological order of leaving the group)
 
 ## University of Bern Alumni
+
+James Ackermann - Lab assistant (2024)
+
+Yannick Jauslin - Bachelor student (2024)
+
+Carole Schöpfer - Bachelor student (2024)
+
+[Marco Louro](https://orcid.org/0000-0002-7023-799X) - PhD student (2017-2024)
+
+Swastik Patnaik - Associated master student (2023-2024)
 
 Xiaoyue Deng - Master project student (2023)
 

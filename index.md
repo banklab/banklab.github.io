@@ -14,11 +14,11 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**03.06.2024:** We are hosting [Sara Dal Cengio](https://scholar.google.com/citations?user=T06cMNYAAAAJ&hl=en), Postdoctoral researcher in the [Interdisciplinary Laboratory of Physics](https://liphy.univ-grenoble-alpes.fr/en), at the University of Grenoble Alpes, France, as an invited speaker for our lab meeting.
+### Past events
 
 ---
 
-### Past events
+**03.06.2024:** We are hosting [Sara Dal Cengio](https://scholar.google.com/citations?user=T06cMNYAAAAJ&hl=en), Postdoctoral researcher in the [Interdisciplinary Laboratory of Physics](https://liphy.univ-grenoble-alpes.fr/en), at the University of Grenoble Alpes, France, as an invited speaker for our lab meeting.
 
 ---
 
@@ -26,7 +26,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**21.05.2024** We congratulate Marco Louro, PhD student in our lab, for successfully defending his PhD!
+**21.05.2024** We congratulate Marco Louro, PhD student in our lab, for successfully defending his PhD titled "Population dynamics of centrosome amplification"!
 
 ---
 
