@@ -26,7 +26,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**21.05.2024** We congratulate Marco Louro, PhD student in our lab, for successfully defending his PhD titled "Population dynamics of centrosome amplification"!
+**21.05.2024** We congratulate Marco Louro, PhD student in our lab, for successfully defending his PhD titled "Population dynamics of centrosome amplification".
 
 ---
 
