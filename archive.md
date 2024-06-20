@@ -6,6 +6,32 @@ permalink: /archive/
 
 ## Lab News Feed Archive
 
+**26.06.2023** We are hosting Swastik Patnaik, an associated master student in our lab, as an invited speaker for our Lab meeting
+
+**05.06.2023:** We are hosting [Charlotte Ng](https://www.dbmr.unibe.ch/research/personenpool_programs_and_indie_groups/oncogenomics/dr_ng_charlotte_kiu_yan/index_eng.html), Group Leader at the University of Bern, Switzerland, as invited speaker for our Lab meeting
+
+**31.05.2023** We congratulate Giulia Capella and Henrik Jasper for presenting their bachelor thesis
+
+**31.05.2023:** We are hosting [Adria LeBoeuf](https://www.unifr.ch/bio/en/groups/leboeuf-group/), Assistant Professor at the University of Fribourg, Switzerland, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
+
+**22.05.2023:** We are hosting [Justus Fink](https://scholar.google.ch/citations?user=--24NSEAAAAJ&hl=en&oi=ao), PhD student in the [Theoretical Biology](https://tb.ethz.ch/) group, ETH Zürich, as invited speaker for our Lab meeting 
+
+**10.05.2023:** We are hosting [Inês Fragata](https://ce3c.ciencias.ulisboa.pt/member/inesfragata), Researcher at the University of Lisbon, Portugal, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
+
+**26.04.2023:** We are hosting [Daven Presgraves](https://www.sas.rochester.edu/bio/people/faculty/presgraves_daven/), Professor at the University of Rochester, USA, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
+
+**05.04.2023:** We are hosting [Meike Wortel](https://www.uva.nl/en/profile/w/o/m.t.wortel/m.t.wortel.html?cb), Assistent Professor at the Swammerdam Institute for Life Sciences, Netherlands, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
+
+**06.03.2023:** We are hosting [Judith Boumann](https://www.ispm.unibe.ch/about_us/staff/bouman_judith/index_eng.html), Post-Doc at the [Interfaculty Platform for Data and Computational Science](https://www.ispm.unibe.ch/research/research_groups_and_themes/input/index_eng.html), University of Bern, as invited speaker for our Lab meeting
+
+**01.03.2023:** We are hosting [Catalina Chaparro Pedraza](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/catalina-chaparro-pedraza/show/), Marie Curie postdoctoral fellow at the EAWAG, Switzerland, for a [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html)
+
+**13.02.2023:** We are hosting Alexandre Rego, PhD student in [Rike Stelkens' lab at the University of Stockholm](https://stelkenslab.com/people/), for a talk with title: "Dynamics and outcomes of adaptation to complex environments in Saccharomyces cerevisiae"
+
+**01.02.2023:** Welcome to our 2 new PhD students Julio Ayala and Russ Jasper
+
+**16.01.2023:** We are hosting [Stefan Struett](https://www.cmpg.iee.unibe.ch/about_us/team/researchers/dr_struett_stefan/index_eng.html), Post-Doc in CMPG lab (co-supervised by Excoffier & Peischl), University of Berne, as invited speaker for our Lab meeting to give a talk about "Demographic inference under weak negative selection without recombination"
+
 **12.12.2022:** We are hosting Peter Lenart, Post-Doc in [Ben Towbin's group at the Cell Biology Institute](https://www.towbinlab.org/), University of Bern, as invited speaker for our Lab meeting
 
 **08.11.2022:** We are hosting [Andreas Wagner](https://www.ieu.uzh.ch/wagner/), Professor at the University of Zürich, Dept. of Evolutionary Biology and Environmental Studies, Switzerland, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) on "A highly rugged yet easily navigable adaptive landscape of antibiotic resistance"
