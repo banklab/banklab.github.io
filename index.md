@@ -15,7 +15,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**16-17.07.2024:** The lab is actively participating at the [Mathematical Models in Ecology and Evolution (MMEE)](https://ps-mathematik.univie.ac.at/e/index.php?event=mmee2024) in Vienna: Julio (16.07 at 13:30) and Loïc (17.07 at 10:25) are giving talks.
+**16-17.07.2024:** The lab is actively participating at the [Mathematical Models in Ecology and Evolution (MMEE) conference](https://ps-mathematik.univie.ac.at/e/index.php?event=mmee2024) in Vienna: Julio (16.07 at 13:30) and Loïc (17.07 at 10:25) are giving talks.
 
 ---
 
