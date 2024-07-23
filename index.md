@@ -12,6 +12,14 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Upcoming events
 
+---
+
+**27-29.07.2024:** The lab is actively participating at the [Evolution meeting](https://www.evolutionmeetings.org/) in Montreal: Russ (27.07 at 09:30), Loraine (29.07 at 09:45), and Suman (27.07 at 16:45) are giving talks.
+
+---
+
+### Past events
+
 
 ---
 
@@ -19,12 +27,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**27-29.07.2024:** The lab is actively participating at the [Evolution meeting](https://www.evolutionmeetings.org/) in Montreal: Russ (27.07 at 09:30), Loraine (29.07 at 09:45), and Suman (27.07 at 16:45) are giving talks.
-
----
-
-
-### Past events
+**10.07.2024:** The lab is actively participating at the [SMBE meeting](https://smbe2024.org/) in Puerto Vallarta: Mado (10.07) is presenting a poster.
 
 ---
 
