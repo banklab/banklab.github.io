@@ -23,9 +23,9 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>L. Hablützel</u><sup>#</sup>, and <u>C. Bank</u><sup>#</sup>. **Studying the genetic basis of ecological interactions with intergenomic epistasis**. In review. [preprint](https://ecoevorxiv.org/repository/view/6801/)
 
-<u>M.A.D. Louro</u><sup>*#</sup>, C. Peneda<sup>*#</sup>, <u>C. Bank</u>, and M. Bettencourt-Dias<sup>#</sup>. **Adaptation of human cell populations to different levels of centriole amplification involves a two-step response**. In review. [preprint](https://www.biorxiv.org/content/10.1101/2024.02.15.580424v2)
+<u>M.A.D. Louro</u><sup>*#</sup>, C. Peneda<sup>*#</sup>, <u>C. Bank</u>, and M. Bettencourt-Dias<sup>#</sup>. **Adaptation of human cell populations to different levels of centriole amplification involves a two-step response**. [preprint](https://www.biorxiv.org/content/10.1101/2024.02.15.580424v2)
 
-A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, and A. Wong. **Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli**. Molecular Biology and Evolution, accepted pending revision. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563906v1)
+A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, and A. Wong. **Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli**. Molecular Biology and Evolution, doi: 10.1093/molbev/msae086. [link](https://doi.org/10.1093/molbev/msae086) [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563906v1)
 
 <u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs lead to complex evolutionary trajectories and sustained diversity on dynamic fitness landscapes**. Journal of Physics A, accepted. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.561986v1.abstract)
 
