@@ -14,12 +14,16 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**27-29.07.2024:** The lab is actively participating at the [Evolution meeting](https://www.evolutionmeetings.org/) in Montreal: Russ (27.07 at 09:30), Loraine (29.07 at 09:45), and Suman (27.07 at 16:45) are giving talks.
+**17.06.2024:** We are hosting [Sergey Kryazhimskiy](https://scholar.google.com/citations?user=cEr8jtAAAAAJ&hl=de&oi=ao), Associate Professor in [evolutionary systems biology](https://www.sklab.science/) at University of Californa, San Diego, as an invited speaker for our lab meeting to give a talk about "Emerging regularities in the effects of mutations on microbial phenotypes and fitness".
 
 ---
 
 ### Past events
 
+
+---
+
+**27-29.07.2024:** The lab is actively participating at the [Evolution meeting](https://www.evolutionmeetings.org/) in Montreal: Russ (27.07 at 09:30), Loraine (29.07 at 09:45), and Suman (27.07 at 16:45) are giving talks.
 
 ---
 
