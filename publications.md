@@ -23,11 +23,11 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>L. Hablützel</u><sup>#</sup>, and <u>C. Bank</u><sup>#</sup>. **Studying the genetic basis of ecological interactions with intergenomic epistasis**. In review. [preprint](https://ecoevorxiv.org/repository/view/6801/)
 
-<u>M.A.D. Louro</u><sup>*#</sup>, C. Peneda<sup>*#</sup>, <u>C. Bank</u>, and M. Bettencourt-Dias<sup>#</sup>. **Adaptation of human cell populations to different levels of centriole amplification involves a two-step response**. In review. [preprint](https://www.biorxiv.org/content/10.1101/2024.02.15.580424v2)
+<u>M.A.D. Louro</u><sup>*#</sup>, C. Peneda<sup>*#</sup>, <u>C. Bank</u>, and M. Bettencourt-Dias<sup>#</sup>. **Adaptation of human cell populations to different levels of centriole amplification involves a two-step response**. [preprint](https://www.biorxiv.org/content/10.1101/2024.02.15.580424v2)
 
-A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, and A. Wong. **Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli**. Molecular Biology and Evolution, accepted pending revision. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563906v1)
+A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, and A. Wong. **Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli**. Molecular Biology and Evolution, doi: 10.1093/molbev/msae086. [link](https://doi.org/10.1093/molbev/msae086) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563906v1)
 
-<u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs lead to complex evolutionary trajectories and sustained diversity on dynamic fitness landscapes**. Journal of Physics A, accepted. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.561986v1.abstract)
+<u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs lead to complex evolutionary trajectories and sustained diversity on dynamic fitness landscapes**. Journal of Physics A, doi: 10.1088/1751-8121/ad30d0. [link](https://iopscience.iop.org/article/10.1088/1751-8121/ad30d0/meta) or  [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.561986v1.abstract)
 
 K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antimicrobial Resistance in Wildlife across Switzerland and the Principality of Liechtenstein: Associations with Environmental Factors and Taxonomic Variation**. In review.
 
@@ -39,9 +39,7 @@ K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antim
 
 <u>D. McLeod</u>, <u>C. Bank<sup>&</sup></u>, and S. Gandon<sup>&</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
 
-<u>I. Fragata</u><sup>*</sup>, Y. Anciaux<sup>*</sup>, P. Cote-Hammarlof, T. Bataillon<sup>&</sup>, and <u>C. Bank</u><sup>&</sup>. **Distributions of fitness effects along the protein sequence of Hsp90 reveal variable costs of adaptation across protein domains and environments**. In review.
-
-<u>J. Li</u>, and <u>C. Bank</u>. **Dominance and multi-locus interaction**. Trends in Genetics, in press. [preprint](https://arxiv.org/abs/2310.04730)
+<u>J. Li</u>, and <u>C. Bank</u>. **Dominance and multi-locus interaction**. Trends in Genetics, doi: 10.1016/j.tig.2023.12.003. [link](https://www.cell.com/trends/genetics/abstract/S0168-9525(23)00262-7) or [preprint](https://arxiv.org/abs/2310.04730)
 
 <u>L. Marrec</u>, <u>C. Bank</u>, and T. Bertrand. **Solving the stochastic dynamics of population growth.** Ecology and Evolution, doi: 10.1002/ece3.10295. [link](http://dx.doi.org/10.1002/ece3.10295) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.15.516663v1)
 
