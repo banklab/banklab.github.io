@@ -14,12 +14,15 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**17.06.2024:** We are hosting [Sergey Kryazhimskiy](https://scholar.google.com/citations?user=cEr8jtAAAAAJ&hl=de&oi=ao), Associate Professor in [evolutionary systems biology](https://www.sklab.science/) at University of Californa, San Diego, as an invited speaker for our lab meeting to give a talk about "Emerging regularities in the effects of mutations on microbial phenotypes and fitness".
+**15.10.2024** - We are hosting [Brandon Ogbunu](https://ogbunulab.yale.edu/), Assistant Professor in the [Department of Ecology and Evolutionary Biology](https://eeb.yale.edu/) at Yale University, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "Context & constraint in complex biological systems: Lessons from epidemiology"
 
 ---
 
 ### Past events
 
+---
+
+**23.09.2024:** We are hosting [Sergey Kryazhimskiy](https://scholar.google.com/citations?user=cEr8jtAAAAAJ&hl=de&oi=ao), Associate Professor in [evolutionary systems biology](https://www.sklab.science/) at University of Californa, San Diego, as an invited speaker for our lab meeting to give a talk about "Emerging regularities in the effects of mutations on microbial phenotypes and fitness".
 
 ---
 
