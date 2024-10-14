@@ -14,12 +14,19 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**27-29.07.2024:** The lab is actively participating at the [Evolution meeting](https://www.evolutionmeetings.org/) in Montreal: Russ (27.07 at 09:30), Loraine (29.07 at 09:45), and Suman (27.07 at 16:45) are giving talks.
+**15.10.2024** - We are hosting [Brandon Ogbunu](https://ogbunulab.yale.edu/), Assistant Professor in the [Department of Ecology and Evolutionary Biology](https://eeb.yale.edu/) at Yale University, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "Context & constraint in complex biological systems: Lessons from epidemiology"
 
 ---
 
 ### Past events
 
+---
+
+**23.09.2024:** We are hosting [Sergey Kryazhimskiy](https://scholar.google.com/citations?user=cEr8jtAAAAAJ&hl=de&oi=ao), Associate Professor in [evolutionary systems biology](https://www.sklab.science/) at University of Californa, San Diego, as an invited speaker for our lab meeting to give a talk about "Emerging regularities in the effects of mutations on microbial phenotypes and fitness".
+
+---
+
+**27-29.07.2024:** The lab is actively participating at the [Evolution meeting](https://www.evolutionmeetings.org/) in Montreal: Russ (27.07 at 09:30), Loraine (29.07 at 09:45), and Suman (27.07 at 16:45) are giving talks.
 
 ---
 
