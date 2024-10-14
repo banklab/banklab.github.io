@@ -21,7 +21,11 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2024
 
-<u>L. Hablützel</u><sup>#</sup>, and <u>C. Bank</u><sup>#</sup>. **Studying the genetic basis of ecological interactions with intergenomic epistasis**. In review. [preprint](https://ecoevorxiv.org/repository/view/6801/)
+<u>D. McLeod</u>, <u>C. Bank<sup>&</sup></u>, and S. Gandon<sup>&</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. PNAS, doi: 10.1073/pnas.2401578121. [link](https://www.pnas.org/doi/10.1073/pnas.2401578121) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
+
+W.F. Ramirez-Duarte, B.M. Moran, D.L. Powell, <u>C. Bank</u>, V.C. Sousa, G.G. Rosenthal, M. Schumer, C.M. Rochman. **Hybridization in the Anthropocene – how pollution and climate change disrupt mate selection in freshwater fish**. Biological Reviews, doi: 10.1111/brv.13126. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.13126)
+
+<u>L. Hablützel</u><sup>#</sup>, and <u>C. Bank</u><sup>#</sup>. **Studying the genetic basis of ecological interactions with intergenomic epistasis**. Oikos, accepted pending minor revision. [preprint](https://ecoevorxiv.org/repository/view/6801/)
 
 <u>M.A.D. Louro</u><sup>*#</sup>, C. Peneda<sup>*#</sup>, <u>C. Bank</u>, and M. Bettencourt-Dias<sup>#</sup>. **Adaptation of human cell populations to different levels of centriole amplification involves a two-step response**. [preprint](https://www.biorxiv.org/content/10.1101/2024.02.15.580424v2)
 
@@ -37,7 +41,6 @@ K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antim
 
 <u>L. Marrec</u>. **Quantifying the impact of genotype-dependent gene flow on mutation fixation in subdivided populations.** [preprint](https://www.biorxiv.org/content/10.1101/2023.11.29.569213v1.abstract)
 
-<u>D. McLeod</u>, <u>C. Bank<sup>&</sup></u>, and S. Gandon<sup>&</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
 
 <u>J. Li</u>, and <u>C. Bank</u>. **Dominance and multi-locus interaction**. Trends in Genetics, doi: 10.1016/j.tig.2023.12.003. [link](https://www.cell.com/trends/genetics/abstract/S0168-9525(23)00262-7) or [preprint](https://arxiv.org/abs/2310.04730)
 
