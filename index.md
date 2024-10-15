@@ -22,47 +22,47 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**23.09.2024:** We are hosting [Sergey Kryazhimskiy](https://scholar.google.com/citations?user=cEr8jtAAAAAJ&hl=de&oi=ao), Associate Professor in [evolutionary systems biology](https://www.sklab.science/) at University of Californa, San Diego, as an invited speaker for our lab meeting to give a talk about "Emerging regularities in the effects of mutations on microbial phenotypes and fitness".
+**23.09.2024:** We are hosting [Sergey Kryazhimskiy](https://scholar.google.com/citations?user=cEr8jtAAAAAJ&hl=de&oi=ao), Associate Professor in [Evolutionary Systems Biology](https://www.sklab.science/) at the University of Californa, San Diego, for a talk about "Emerging regularities in the effects of mutations on microbial phenotypes and fitness".
 
 ---
 
-**27-29.07.2024:** The lab is actively participating at the [Evolution meeting](https://www.evolutionmeetings.org/) in Montreal: Russ (27.07 at 09:30), Loraine (29.07 at 09:45), and Suman (27.07 at 16:45) are giving talks.
+**27-29.07.2024:** The lab is participating in the [Evolution meeting](https://www.evolutionmeetings.org/) in Montreal: Russ (27.07 at 09:30), Loraine (29.07 at 09:45), and Suman (27.07 at 16:45) are giving talks.
 
 ---
 
-**16-17.07.2024:** The lab is actively participating at the [Mathematical Models in Ecology and Evolution (MMEE) conference](https://ps-mathematik.univie.ac.at/e/index.php?event=mmee2024) in Vienna: Julio (16.07 at 13:30) and Loïc (17.07 at 10:25) are giving talks.
+**16-17.07.2024:** The lab is participating in the [Mathematical Models in Ecology and Evolution (MMEE) conference](https://ps-mathematik.univie.ac.at/e/index.php?event=mmee2024) in Vienna: Julio (16.07 at 13:30), Loïc (17.07 at 10:25) and Claudia (19.07 at 15:15) are giving talks.
 
 ---
 
-**10.07.2024:** The lab is actively participating at the [SMBE meeting](https://smbe2024.org/) in Puerto Vallarta: Mado (10.07) is presenting a poster.
+**10.07.2024:** The lab is participating in the [SMBE meeting](https://smbe2024.org/) in Puerto Vallarta: Mado (10.07) is presenting a poster.
 
 ---
 
-**17.06.2024:** We are hosting [Nehemiah Ongeso](https://orcid.org/0000-0001-5371-9148), research fellow in the [Computational and Molecular Population Genetics (CMPG)](https://www.cmpg.iee.unibe.ch/index_eng.html) lab, University of Bern, as an invited speaker for our lab meeting to give a talk about "Genes telling the story of our ancestors".
+**17.06.2024:** We are hosting [Nehemiah Ongeso](https://orcid.org/0000-0001-5371-9148), Research Fellow in the [Computational and Molecular Population Genetics (CMPG)](https://www.cmpg.iee.unibe.ch/index_eng.html) lab, University of Bern, for a talk about "Genes telling the story of our ancestors".
 
 ---
 
-**03.06.2024:** We are hosting [Sara Dal Cengio](https://scholar.google.com/citations?user=T06cMNYAAAAJ&hl=en), Postdoctoral researcher in the [Interdisciplinary Laboratory of Physics](https://liphy.univ-grenoble-alpes.fr/en), at the University of Grenoble Alpes, France, as an invited speaker for our lab meeting.
+**03.06.2024:** We are hosting [Sara Dal Cengio](https://scholar.google.com/citations?user=T06cMNYAAAAJ&hl=en), Postdoctoral Researcher in the [Interdisciplinary Laboratory of Physics](https://liphy.univ-grenoble-alpes.fr/en), at the University of Grenoble Alpes, France, as an invited speaker.
 
 ---
 
-**23.05.2024** We are hosting Augustin Fragniere, deputy director of the [Competence Centre in Sustainability](https://www.unil.ch/centre-durabilite/home.html) at University of Lausanne, for a [BTE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) titled "Should academics engage in activism and advocacy? Insights from a collective reflection at the University of Lausanne".
+**23.05.2024** We are hosting Augustin Fragniere, Deputy Director of the [Competence Centre in Sustainability](https://www.unil.ch/centre-durabilite/home.html) at University of Lausanne, for a [BTE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) entitled "Should academics engage in activism and advocacy? Insights from a collective reflection at the University of Lausanne".
 
 ---
 
-**21.05.2024** We congratulate Marco Louro, PhD student in our lab, for successfully defending his PhD titled "Population dynamics of centrosome amplification".
+**21.05.2024** Congratulations to Marco Louro on successfully defending his PhD entitled "Population dynamics of centrosome amplification"! Marco was co-supervised by Monica Bettencourt-Dias (Gulbenkian Science Institute) and Claudia.
 
 ---
 
-**13.05.2024:** We are hosting [Florian Labourel](https://scholar.google.com/citations?user=epay42kAAAAJ&hl=en&oi=ao), Postdoctoral researcher in the [Laboratoire de Chimie Bactérienne](https://lcb.cnrs.fr/), Marseille, France, as an invited speaker for our lab meeting.
+**13.05.2024:** We are hosting [Florian Labourel](https://scholar.google.com/citations?user=epay42kAAAAJ&hl=en&oi=ao), Postdoctoral Researcher in the [Laboratoire de Chimie Bactérienne](https://lcb.cnrs.fr/), Marseille, France, as an invited speaker.
 
 ---
 
-**24.04.2024:** We are hosting [Michael Gerth](https://scholar.google.com/citations?user=puPG9FUAAAAJ&hl=en&oi=ao), leader of the [Symbiont Evolution group](https://www.idiv.de/en/symbiont-evolution.html) at the German Centre for Integrative Biodiversity Research, Leipzig, Germany, as an invited speaker for the [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) to give a talk about "Host shifts and the evolution of arthropod symbionts".
+**24.04.2024:** We are hosting [Michael Gerth](https://scholar.google.com/citations?user=puPG9FUAAAAJ&hl=en&oi=ao), leader of the [Symbiont Evolution Group](https://www.idiv.de/en/symbiont-evolution.html) at the German Centre for Integrative Biodiversity Research, Leipzig, Germany, for the [BTE Spring seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) to talk about "Host shifts and the evolution of arthropod symbionts".
 
 ---
 
-**12.04.2024** We congratulate Loraine from our group and Flávia Schlichta, for obtaining a grant from the Equal Opportunity Commission of the Faculty of Science at the University of Bern, to have a workshop on "Gender and Diversity in Academia: What’s My Share?" that will take place in the IEE on 12.04.2024 and is open for students of all levels in the Biology Department. Signup [here](https://forms.office.com/e/uG814aFTDq)
+**12.04.2024** Congratulations to Loraine from our group and Flávia Schlichta from the CMPG Group on obtaining a grant from the Equal Opportunity Commission of the Faculty of Science at the University of Bern, to have a workshop on "Gender and Diversity in Academia: What’s My Share?" that will take place in the IEE on 12.04.2024 and is open for students at all levels in the Department of Biology! Sign up [here](https://forms.office.com/e/uG814aFTDq)
 
 ---
 
