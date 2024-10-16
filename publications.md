@@ -21,6 +21,8 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2024
 
+<u>J.A. Ayala-Lopez</u>, and <u>C. Bank</u>. **What can we gain from modeling complex hybrid incompatibilities?** Evolutionary Journal of the Linnean Society, accepted pending minor revision.
+
 <u>D. McLeod</u>, <u>C. Bank<sup>&</sup></u>, and S. Gandon<sup>&</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. PNAS, doi: 10.1073/pnas.2401578121. [link](https://www.pnas.org/doi/10.1073/pnas.2401578121) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
 
 W.F. Ramirez-Duarte, B.M. Moran, D.L. Powell, <u>C. Bank</u>, V.C. Sousa, G.G. Rosenthal, M. Schumer, C.M. Rochman. **Hybridization in the Anthropocene – how pollution and climate change disrupt mate selection in freshwater fish**. Biological Reviews, doi: 10.1111/brv.13126. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.13126)
