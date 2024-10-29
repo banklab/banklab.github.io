@@ -14,11 +14,15 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**15.10.2024** - We are hosting [Brandon Ogbunu](https://ogbunulab.yale.edu/), Assistant Professor in the [Department of Ecology and Evolutionary Biology](https://eeb.yale.edu/) at Yale University, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "Context & constraint in complex biological systems: Lessons from epidemiology"
+**04.11.2024:** We are hosting [Linh Phuong Nguyen](https://linh-phuong.github.io/nguyen/), Postdoctoral Researcher in the [Theoretical Ecology and Evolution group](https://www.unifr.ch/bio/en/research/eco-evol/rohr.html), University of Fribourg, as an invited speaker for our lab meeting.
 
 ---
 
 ### Past events
+
+---
+
+**15.10.2024** - We are hosting [Brandon Ogbunu](https://ogbunulab.yale.edu/), Assistant Professor in the [Department of Ecology and Evolutionary Biology](https://eeb.yale.edu/) at Yale University, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "Context & constraint in complex biological systems: Lessons from epidemiology"
 
 ---
 
