@@ -14,11 +14,15 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**04.11.2024:** We are hosting [Linh Phuong Nguyen](https://linh-phuong.github.io/nguyen/), Postdoctoral Researcher in the [Theoretical Ecology and Evolution group](https://www.unifr.ch/bio/en/research/eco-evol/rohr.html), University of Fribourg, as an invited speaker for our lab meeting.
+**18.11.2024:** We are hosting [Remo Ryser](https://scholar.google.com/citations?user=PkEpS0cAAAAJ), group leader in the [Institute of Plant Sciences](https://www.ips.unibe.ch/), as an invited speaker for our lab meeting.
 
 ---
 
 ### Past events
+
+---
+
+**04.11.2024:** We are hosting [Linh Phuong Nguyen](https://linh-phuong.github.io/nguyen/), Postdoctoral Researcher in the [Theoretical Ecology and Evolution group](https://www.unifr.ch/bio/en/research/eco-evol/rohr.html), University of Fribourg, as an invited speaker for our lab meeting.
 
 ---
 
