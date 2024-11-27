@@ -14,11 +14,15 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**18.11.2024:** We are hosting [Remo Ryser](https://scholar.google.com/citations?user=PkEpS0cAAAAJ), group leader in the [Institute of Plant Sciences](https://www.ips.unibe.ch/), as an invited speaker for our lab meeting.
+**27.11.2024:** We are hosting [Christoph Netz](https://scholar.google.com.mx/citations?user=edGqs7sAAAAJ&hl=en), Postdoctoral Researcher in the [Behavioural Ecology Division](https://www.behav.iee.unibe.ch/index_eng.html), as an invited speaker for our lab meeting.
 
 ---
 
 ### Past events
+
+---
+
+**18.11.2024:** We are hosting [Remo Ryser](https://scholar.google.com/citations?user=PkEpS0cAAAAJ), group leader in the [Institute of Plant Sciences](https://www.ips.unibe.ch/), as an invited speaker for our lab meeting.
 
 ---
 
