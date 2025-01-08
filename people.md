@@ -33,21 +33,11 @@ permalink: /people/
 
 ## Adamandia Kapopoulou
 
-* Senior Bioinformatician
+* Senior bioinformatician
 * Contact: adamantia.kapopoulou [at] unibe.ch
 * [GoogleScholar](https://scholar.google.com/citations?hl=en&user=CMkgYYwAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=kapopoulou&sort=date), [ORCID](https://orcid.org/0000-0003-4192-4923)
 
 ![Photo of Adamandia Kapopoulou](/assets/img/team/Mado_24.jpg)
- 
----
-
-## Loïc Marrec
- 
-* Postdoctoral researcher
-* Contact: loic.marrec [at] unibe.ch
-* [GoogleScholar](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-0941-6603)
-
-![Photo of Loïc Marrec](/assets/img/team/Loic_24.jpg)
 
 ---
 
@@ -90,27 +80,18 @@ permalink: /people/
 
 ---
 
-## Catalina Chaparro Pedraza
- 
-* Postdoctoral researcher
-* Contact: catalina.chaparro [at] unibe.ch
-* [Website](https://pcchaparro.github.io/) [ORCID](https://orcid.org/0000-0001-9801-3878)
-
-![Photo of Catalina Chaparro Pedraza](/assets/img/team/Catalina_24.jpg)
-
----
-
 ## Ianis Vilela
 
-* Master student
-
+* PhD student
+* Contact: ianis.vilela [at] students.unibe.ch
 ![Photo of Ianis Vilela](/assets/img/team/Ianis_24.jpg)
 
 ---
 
-## Sabrina Rasch
+## Jacob Hugh Riina
 
-* Master project student
+* MSc thesis student
+* Contact: jacob.riina [at] students.unibe.ch
 
 ---
 
@@ -134,7 +115,13 @@ permalink: /people/
 
 ## University of Bern Alumni
 
-James Ackermann - Lab assistant (2024)
+[Catalina Chaparro Pedraza](https://pcchaparro.github.io/) - Postdoc (2024)
+
+[Loïc Marrec](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en) - Postdoc (2020-2024)
+
+Sabrina Rasch - Master project student (2021-2022)
+
+James Ackermann - Student assistant (2024)
 
 Yannick Jauslin - Bachelor student (2024)
 

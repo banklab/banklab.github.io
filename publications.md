@@ -19,6 +19,10 @@ markdown="1" attribute important, the following text will not be converted other
 https://kramdown.gettalong.org/syntax.html#html-blocks
 {:/comment}
 
+## 2025
+
+<u>L. Hablützel</u><sup>#</sup>, and <u>C. Bank</u><sup>#</sup>. **Studying the genetic basis of ecological interactions with intergenomic epistasis**. Oikos, in press. [preprint](https://ecoevorxiv.org/repository/view/6801/)
+
 ## 2024
 
 <u>J.A. Ayala-Lopez</u>, and <u>C. Bank</u>. **What can we gain from modeling complex hybrid incompatibilities?** Evolutionary Journal of the Linnean Society, doi: 10.1093/evolinnean/kzae034. [link](https://academic.oup.com/evolinnean/advance-article/doi/10.1093/evolinnean/kzae034/7924183?utm_source=authortollfreelink&utm_campaign=evolinnean&utm_medium=email&guestAccessKey=704c8ef7-2db8-4ea4-9d99-b6198057ad2a)
@@ -27,13 +31,11 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 W.F. Ramirez-Duarte, B.M. Moran, D.L. Powell, <u>C. Bank</u>, V.C. Sousa, G.G. Rosenthal, M. Schumer, C.M. Rochman. **Hybridization in the Anthropocene - how pollution and climate change disrupt mate selection in freshwater fish**. Biological Reviews, doi: 10.1111/brv.13126. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.13126)
 
-<u>L. Hablützel</u><sup>#</sup>, and <u>C. Bank</u><sup>#</sup>. **Studying the genetic basis of ecological interactions with intergenomic epistasis**. Oikos, accepted pending minor revision. [preprint](https://ecoevorxiv.org/repository/view/6801/)
-
 <u>M.A.D. Louro</u><sup>*#</sup>, C. Peneda<sup>*#</sup>, <u>C. Bank</u>, and M. Bettencourt-Dias<sup>#</sup>. **Adaptation of human cell populations to different levels of centriole amplification involves a two-step response**. [preprint](https://www.biorxiv.org/content/10.1101/2024.02.15.580424v2)
 
 A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, and A. Wong. **Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli**. Molecular Biology and Evolution, doi: 10.1093/molbev/msae086. [link](https://doi.org/10.1093/molbev/msae086) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563906v1)
 
-<u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs lead to complex evolutionary trajectories and sustained diversity on dynamic fitness landscapes**. Journal of Physics A, doi: 10.1088/1751-8121/ad30d0. [link](https://iopscience.iop.org/article/10.1088/1751-8121/ad30d0/meta) or  [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.561986v1.abstract)
+<u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs lead to complex evolutionary trajectories and sustained diversity on dynamic fitness landscapes**. Journal of Physics A, doi: 10.1088/1751-8121/ad30d0. [link](https://iopscience.iop.org/article/10.1088/1751-8121/ad30d0/meta) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.561986v1.abstract)
 
 K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antimicrobial Resistance in Wildlife across Switzerland and the Principality of Liechtenstein: Associations with Environmental Factors and Taxonomic Variation**. In review.
 
@@ -42,7 +44,6 @@ K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antim
 ## 2023
 
 <u>L. Marrec</u>. **Quantifying the impact of genotype-dependent gene flow on mutation fixation in subdivided populations.** [preprint](https://www.biorxiv.org/content/10.1101/2023.11.29.569213v1.abstract)
-
 
 <u>J. Li</u>, and <u>C. Bank</u>. **Dominance and multi-locus interaction**. Trends in Genetics, doi: 10.1016/j.tig.2023.12.003. [link](https://www.cell.com/trends/genetics/abstract/S0168-9525(23)00262-7) or [preprint](https://arxiv.org/abs/2310.04730)
 
