@@ -84,6 +84,7 @@ permalink: /people/
 
 * PhD student
 * Contact: ianis.vilela [at] students.unibe.ch
+
 ![Photo of Ianis Vilela](/assets/img/team/Ianis_24.jpg)
 
 ---
@@ -121,21 +122,21 @@ permalink: /people/
 
 [Loïc Marrec](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en) - Postdoc (2020-2024)
 
-Sabrina Rasch - Master project student (2021-2022)
+Sabrina Rasch - MSc project student (2021-2022)
 
 James Ackermann - Student assistant (2024)
 
-Yannick Jauslin - Bachelor student (2024)
+Yannick Jauslin - BSc student (2024)
 
-Carole Schöpfer - Bachelor student (2024)
+Carole Schöpfer - BSc student (2024)
 
-Sabrina Rasch - Bachelor student, Master project student (2021-2022, 2024)
+Sabrina Rasch - BSc student, MSc project student (2021-2022, 2024)
 
 [Marco Louro](https://orcid.org/0000-0002-7023-799X) - PhD student (2017-2024)
 
-Swastik Patnaik - Associated master student (2023-2024)
+Swastik Patnaik - Associated MSc student (2023-2024)
 
-Xiaoyue Deng - Master project student (2023)
+Xiaoyue Deng - MSc project student (2023)
 
 [Ana-Hermina Ghenu](https://scholar.google.com/citations?user=1sBIOkIAAAAJ&hl=en&oi=ao) - PhD student (2016-2023)
 
@@ -147,13 +148,13 @@ Xiaoyue Deng - Master project student (2023)
 
 [Ana Y. Morales-Arce](https://scholar.google.com/citations?user=LP9FUxEAAAAJ&hl=en&oi=ao) - Postdoc (2020-2023)
 
-Henrik Jasper - Bachelor student (2023)
+Henrik Jasper - BSc student (2023)
 
-Giulia Capella - Bachelor student (2022-2023)
+Giulia Capella - BSc student (2022-2023)
 
 [André Amado](https://scholar.google.com/citations?user=jO8AA9gAAAAJ) - Postdoc (2019-2023)
 
-Jérôme Stäheli - Master student (2021-2023)
+Jérôme Stäheli - MSc student (2021-2023)
 
 
 ## Gulbenkian Science Institute Alumni
@@ -166,7 +167,7 @@ Mark Schmitz - Data/Lab Manager (2020)
 
 Lucy Lansch-Justen - Trainee/Programmer (2020)
 
-Inês Borges - Bachelor student (2020)
+Inês Borges - BSc student (2020)
 
 [Lila Fishman](https://www.fishmanlab.org/) - Sabbatical Visitor (2019-2020)
 
@@ -184,7 +185,7 @@ Dinis Seward - Summer project student (2019)
 
 [Vedanth Sriram](https://scholar.google.ch/citations?user=Me5pI08AAAAJ&hl=en&oi=ao) - Summer project student (2019)
 
-Manuel Fortunato - Master project student (2018)
+Manuel Fortunato - MSc project student (2018)
 
 Sofia Torres - Summer project student (2018)
 
