@@ -88,9 +88,13 @@ permalink: /people/
 
 ---
 
-## Florin Suter
+## Jacob Hugh Riina
+* MSc student
 
-* Bachelor student
+---
+
+## Florin Suter
+* BSc student
 
 ---
 
@@ -113,15 +117,7 @@ permalink: /people/
 
 ## University of Bern Alumni
 
-[Loïc Marrec](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en) - Postdoc (2020-2024)
-
 [Catalina Chaparro Pedraza](https://scholar.google.com/citations?user=e27luTMAAAAJ&hl=en&oi=ao) - Postdoc (2024)
-
-[Loïc Marrec](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en) - Postdoc (2020-2024)
-
-[Catalina Chaparro Pedraza](https://scholar.google.com/citations?user=e27luTMAAAAJ&hl=en&oi=ao) - Postdoc (2024)
-
-[Catalina Chaparro Pedraza](https://pcchaparro.github.io/) - Postdoc (2024)
 
 [Loïc Marrec](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en) - Postdoc (2020-2024)
 
