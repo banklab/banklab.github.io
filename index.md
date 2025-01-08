@@ -12,13 +12,17 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Upcoming events
 
+
+
+### Past events
+
+---
+
+**01.01.2025:** Welcome to our new PhD student, Ianis Vilela
+
 ---
 
 **27.11.2024:** We are hosting [Christoph Netz](https://scholar.google.com.mx/citations?user=edGqs7sAAAAJ&hl=en), Postdoctoral Researcher in the [Behavioural Ecology Division](https://www.behav.iee.unibe.ch/index_eng.html), as an invited speaker for our lab meeting.
-
----
-
-### Past events
 
 ---
 

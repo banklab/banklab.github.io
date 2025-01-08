@@ -41,16 +41,6 @@ permalink: /people/
  
 ---
 
-## Loïc Marrec
- 
-* Postdoctoral researcher
-* Contact: loic.marrec [at] unibe.ch
-* [GoogleScholar](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-0941-6603)
-
-![Photo of Loïc Marrec](/assets/img/team/Loic_24.jpg)
-
----
-
 ## Loraine Hablützel
  
 * PhD student
@@ -90,30 +80,20 @@ permalink: /people/
 
 ---
 
-## Catalina Chaparro Pedraza
- 
-* Postdoctoral researcher
-* Contact: catalina.chaparro [at] unibe.ch
-* [Website](https://pcchaparro.github.io/) [ORCID](https://orcid.org/0000-0001-9801-3878)
-
-![Photo of Catalina Chaparro Pedraza](/assets/img/team/Catalina_24.jpg)
-
----
-
 ## Ianis Vilela
 
-* Master student
+* PhD student
+* Contact: ianis.vilela [at] unibe.ch
 
 ![Photo of Ianis Vilela](/assets/img/team/Ianis_24.jpg)
 
 ---
 
-## Sabrina Rasch
+## Florin Suter
 
-* Master project student
+* Bachelor student
 
 ---
-
 
 # Associated team members
 
@@ -134,11 +114,17 @@ permalink: /people/
 
 ## University of Bern Alumni
 
+[Loïc Marrec](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en) - Postdoc (2020-2024)
+
+[Catalina Chaparro Pedraza](https://scholar.google.com/citations?user=e27luTMAAAAJ&hl=en&oi=ao) - Postdoc (2024)
+
 James Ackermann - Lab assistant (2024)
 
 Yannick Jauslin - Bachelor student (2024)
 
 Carole Schöpfer - Bachelor student (2024)
+
+Sabrina Rasch - Bachelor student, Master project student (2021-2022, 2024)
 
 [Marco Louro](https://orcid.org/0000-0002-7023-799X) - PhD student (2017-2024)
 
@@ -164,7 +150,6 @@ Giulia Capella - Bachelor student (2022-2023)
 
 Jérôme Stäheli - Master student (2021-2023)
 
-Sabrina Rasch - Bachelor student (2021-2022)
 
 ## Gulbenkian Science Institute Alumni
 
