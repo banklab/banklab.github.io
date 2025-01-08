@@ -38,7 +38,7 @@ permalink: /people/
 * [GoogleScholar](https://scholar.google.com/citations?hl=en&user=CMkgYYwAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=kapopoulou&sort=date), [ORCID](https://orcid.org/0000-0003-4192-4923)
 
 ![Photo of Adamandia Kapopoulou](/assets/img/team/Mado_24.jpg)
-
+ 
 ---
 
 ## Loraine Hablützel
@@ -88,13 +88,11 @@ permalink: /people/
 
 ---
 
-## Jacob Hugh Riina
+## Florin Suter
 
-* MSc thesis student
-* Contact: jacob.riina [at] students.unibe.ch
+* Bachelor student
 
 ---
-
 
 # Associated team members
 
@@ -115,6 +113,14 @@ permalink: /people/
 
 ## University of Bern Alumni
 
+[Loïc Marrec](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en) - Postdoc (2020-2024)
+
+[Catalina Chaparro Pedraza](https://scholar.google.com/citations?user=e27luTMAAAAJ&hl=en&oi=ao) - Postdoc (2024)
+
+[Loïc Marrec](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en) - Postdoc (2020-2024)
+
+[Catalina Chaparro Pedraza](https://scholar.google.com/citations?user=e27luTMAAAAJ&hl=en&oi=ao) - Postdoc (2024)
+
 [Catalina Chaparro Pedraza](https://pcchaparro.github.io/) - Postdoc (2024)
 
 [Loïc Marrec](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en) - Postdoc (2020-2024)
@@ -126,6 +132,8 @@ James Ackermann - Student assistant (2024)
 Yannick Jauslin - Bachelor student (2024)
 
 Carole Schöpfer - Bachelor student (2024)
+
+Sabrina Rasch - Bachelor student, Master project student (2021-2022, 2024)
 
 [Marco Louro](https://orcid.org/0000-0002-7023-799X) - PhD student (2017-2024)
 
@@ -151,7 +159,6 @@ Giulia Capella - Bachelor student (2022-2023)
 
 Jérôme Stäheli - Master student (2021-2023)
 
-Sabrina Rasch - Bachelor student (2021-2022)
 
 ## Gulbenkian Science Institute Alumni
 
