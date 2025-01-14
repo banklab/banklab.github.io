@@ -12,6 +12,11 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Upcoming events
 
+---
+
+**20.01.2025:** We are hosting [Malvika Srivastava ](https://scholar.google.com/citations?user=g6eLK2IAAAAJ), Postdoctoral Researcher in the [ Theoretical Evolutionary Ecology Lab](https://lab-mullon.github.io/index.html), University of Lausanne, as an invited speaker for our lab meeting.
+
+---
 
 
 ### Past events
