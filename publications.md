@@ -25,6 +25,10 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2024
 
+<u>L. Marrec</u>, and <u>C. Bank</u>. **Drivers of diversity within and between microbial communities during stochastic assembly** biorxiv, doi: 10.1101/2024.11.19.624346 [preprint](https://www.biorxiv.org/content/10.1101/2024.11.19.624346v1)
+
+K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antimicrobial Resistance in Wildlife across Switzerland and the Principality of Liechtenstein: Associations with Environmental Factors and Taxonomic Variation**. biorxiv, doi: 10.1101/2025.01.28.635243 [preprint](https://www.biorxiv.org/content/10.1101/2025.01.28.635243v1)
+
 <u>J.A. Ayala-Lopez</u>, and <u>C. Bank</u>. **What can we gain from modeling complex hybrid incompatibilities?** Evolutionary Journal of the Linnean Society, doi: 10.1093/evolinnean/kzae034. [link](https://academic.oup.com/evolinnean/advance-article/doi/10.1093/evolinnean/kzae034/7924183?utm_source=authortollfreelink&utm_campaign=evolinnean&utm_medium=email&guestAccessKey=704c8ef7-2db8-4ea4-9d99-b6198057ad2a)
 
 <u>D. McLeod</u>, <u>C. Bank<sup>&</sup></u>, and S. Gandon<sup>&</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. PNAS, doi: 10.1073/pnas.2401578121. [link](https://www.pnas.org/doi/10.1073/pnas.2401578121) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
@@ -36,8 +40,6 @@ W.F. Ramirez-Duarte, B.M. Moran, D.L. Powell, <u>C. Bank</u>, V.C. Sousa, G.G. R
 A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, and A. Wong. **Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli**. Molecular Biology and Evolution, doi: 10.1093/molbev/msae086. [link](https://doi.org/10.1093/molbev/msae086) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563906v1)
 
 <u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs lead to complex evolutionary trajectories and sustained diversity on dynamic fitness landscapes**. Journal of Physics A, doi: 10.1088/1751-8121/ad30d0. [link](https://iopscience.iop.org/article/10.1088/1751-8121/ad30d0/meta) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.561986v1.abstract)
-
-K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antimicrobial Resistance in Wildlife across Switzerland and the Principality of Liechtenstein: Associations with Environmental Factors and Taxonomic Variation**. In review.
 
 <u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** Frontiers in Ecology and Evolution, doi: 10.3389/fevo.2023.1313500. [link](https://www.frontiersin.org/articles/10.3389/fevo.2023.1313500/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=1313500) or [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
