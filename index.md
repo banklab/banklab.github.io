@@ -14,12 +14,16 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**20.01.2025:** We are hosting [Malvika Srivastava ](https://scholar.google.com/citations?user=g6eLK2IAAAAJ), Postdoctoral Researcher in the [ Theoretical Evolutionary Ecology Lab](https://lab-mullon.github.io/index.html), University of Lausanne, as an invited speaker for our lab meeting.
+**18.02.2025:** We are hosting [Gabriel Jorgewich-Cohen](https://scholar.google.com/citations?user=iGdBuSAAAAAJ&hl=en&oi=ao), Postdoctoral Researcher at [Department of Evolutionary Anthropology](https://www.aim.uzh.ch/en.html), University of Zürich, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "What can reptiles say about the evolution of language? The importance of non-model species on broad evolutionary studies".
 
 ---
 
 
 ### Past events
+
+---
+
+**20.01.2025:** We are hosting [Malvika Srivastava ](https://scholar.google.com/citations?user=g6eLK2IAAAAJ), Postdoctoral Researcher in the [ Theoretical Evolutionary Ecology Lab](https://lab-mullon.github.io/index.html), University of Lausanne, as an invited speaker for our lab meeting.
 
 ---
 
