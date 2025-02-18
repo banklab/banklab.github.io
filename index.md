@@ -14,6 +14,14 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
+**26.02.2025:** We are hosting [Jasmine Ono](https://scholar.google.com/citations?user=7c4yU20AAAAJ&hl=en), Assistant Professor in the School of Life Sciences, University of Nottingham, UK, for a [BTE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) titled "The genetics of speciation in budding yeasts".
+
+---
+
+**25.02.2025:** We are hosting [Rike Stelkens](https://stelkenslab.com/), Associate Professor in Population Genetics, Stockholm University, Sweden, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "Yeast as a model system for the evolution of thermal adaptation and ecology-driven reproductive isolation".
+
+---
+
 **18.02.2025:** We are hosting [Gabriel Jorgewich-Cohen](https://scholar.google.com/citations?user=iGdBuSAAAAAJ&hl=en&oi=ao), Postdoctoral Researcher at [Department of Evolutionary Anthropology](https://www.aim.uzh.ch/en.html), University of Zürich, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "What can reptiles say about the evolution of language? The importance of non-model species on broad evolutionary studies".
 
 ---
@@ -71,11 +79,11 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**23.05.2024** We are hosting Augustin Fragniere, Deputy Director of the [Competence Centre in Sustainability](https://www.unil.ch/centre-durabilite/home.html) at University of Lausanne, for a [BTE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) entitled "Should academics engage in activism and advocacy? Insights from a collective reflection at the University of Lausanne".
+**23.05.2024** We are hosting Augustin Fragniere, Deputy Director of the [Competence Centre in Sustainability](https://www.unil.ch/centre-durabilite/home.html) at University of Lausanne, for a [BTE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) titled "Should academics engage in activism and advocacy? Insights from a collective reflection at the University of Lausanne".
 
 ---
 
-**21.05.2024** Congratulations to Marco Louro on successfully defending his PhD entitled "Population dynamics of centrosome amplification"! Marco was co-supervised by Monica Bettencourt-Dias (Gulbenkian Science Institute) and Claudia.
+**21.05.2024** Congratulations to Marco Louro on successfully defending his PhD titled "Population dynamics of centrosome amplification"! Marco was co-supervised by Monica Bettencourt-Dias (Gulbenkian Science Institute) and Claudia.
 
 ---
 
@@ -118,41 +126,6 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 **01.01.2024:** Welcome to our new associated postdoctoral researcher, Zachary Bailey, working mainly in the [Terrestial ecology group](https://www.terr.iee.unibe.ch/research/index_eng.html) at the University of Bern.
 
 ---
-
-**28.11.2023** - We are hosting [Thomas Lenormand](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/193-thomas-lenormand), CNRS researcher at the [Centre d'Ecologie Fonctionnelle et Evolutive (CEFE)](https://www.cefe.cnrs.fr/en/), France, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
-
----
-
-**27.11.2023** - We are hosting [Gian Marco Palamara](https://www.aqua.iee.unibe.ch/about_us/team/gian_marco_palamara/dr_palamara_gian_marco/index_eng.html), Research associate at the [Institute of Ecology and Evolution, University of Bern](https://www.iee.unibe.ch/index_eng.html), as an invited speaker for our lab meeting.
-
----
-
-**23.11.2023** - We congratulate Ana-Hermina Ghenu, PhD student in our lab, for succesfully defending her PhD titled "Fitness landscapes for predicting evolution between environments"
-
----
-
-**13.11.2023** - We are hosting [Christian Tentellino](https://orcid.org/0000-0002-5974-8764), Postdoc at the [Istituto Italiano di Tecnologia](https://plasna.iit.it/), Italy, as an invited speaker for our lab meeting.
-
----
-
-**23.10.2023** - We are hosting [Ailene McPherson](https://amacp.github.io/), Assistant Professor in Mathematics at the Simon Fraser University, Canada, as an invited speaker for our lab meeting.
-
----
-
-**17.10.2023** - We are hosting [Andrea Sweigart](http://sweigartlab.genetics.uga.edu/), Professor in the genetics department at the University of Georgia, USA, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html).
-
----
-
-**13.10.2023** - We congratulate Jessica Rieder, associated PhD student in our lab, for succesfully defending her PhD titled "Environmental DNA methods for monitoring and detection of aquatic bacteria in recitculating aquaculture systems"
-
----
-
-**09.10.2023** - We are hosting [Vitor Sudbrack](http://sudbrack.me/), PhD student in the [Theoretical Evolutionary Ecology](https://lab-mullon.github.io/index.html) group at the University of Lausanne, as an invited speaker for our lab meeting.
-
----
-
-**16.08.2023** We are hosting [Lindi Wahl](https://publish.uwo.ca/~lwahl/), Professor in the applied mathematics department at the University of Western Ontario, Canada, for a seminar.
-
 
 [archive](https://banklab.github.io/archive/)
 
