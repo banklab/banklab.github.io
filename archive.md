@@ -6,6 +6,24 @@ permalink: /archive/
 
 ## Lab News Feed Archive
 
+**28.11.2023** - We are hosting [Thomas Lenormand](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/193-thomas-lenormand), CNRS researcher at the [Centre d'Ecologie Fonctionnelle et Evolutive (CEFE)](https://www.cefe.cnrs.fr/en/), France, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html)
+
+**27.11.2023** - We are hosting [Gian Marco Palamara](https://www.aqua.iee.unibe.ch/about_us/team/gian_marco_palamara/dr_palamara_gian_marco/index_eng.html), Research associate at the [Institute of Ecology and Evolution, University of Bern](https://www.iee.unibe.ch/index_eng.html), as an invited speaker for our lab meeting.
+
+**23.11.2023** - We congratulate Ana-Hermina Ghenu, PhD student in our lab, for succesfully defending her PhD titled "Fitness landscapes for predicting evolution between environments"
+
+**13.11.2023** - We are hosting [Christian Tentellino](https://orcid.org/0000-0002-5974-8764), Postdoc at the [Istituto Italiano di Tecnologia](https://plasna.iit.it/), Italy, as an invited speaker for our lab meeting.
+
+**23.10.2023** - We are hosting [Ailene McPherson](https://amacp.github.io/), Assistant Professor in Mathematics at the Simon Fraser University, Canada, as an invited speaker for our lab meeting.
+
+**17.10.2023** - We are hosting [Andrea Sweigart](http://sweigartlab.genetics.uga.edu/), Professor in the genetics department at the University of Georgia, USA, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html).
+
+**13.10.2023** - We congratulate Jessica Rieder, associated PhD student in our lab, for succesfully defending her PhD titled "Environmental DNA methods for monitoring and detection of aquatic bacteria in recitculating aquaculture systems"
+
+**09.10.2023** - We are hosting [Vitor Sudbrack](http://sudbrack.me/), PhD student in the [Theoretical Evolutionary Ecology](https://lab-mullon.github.io/index.html) group at the University of Lausanne, as an invited speaker for our lab meeting.
+
+**16.08.2023** We are hosting [Lindi Wahl](https://publish.uwo.ca/~lwahl/), Professor in the applied mathematics department at the University of Western Ontario, Canada, for a seminar.
+
 **26.06.2023** We are hosting Swastik Patnaik, an associated master student in our lab, as an invited speaker for our Lab meeting
 
 **05.06.2023:** We are hosting [Charlotte Ng](https://www.dbmr.unibe.ch/research/personenpool_programs_and_indie_groups/oncogenomics/dr_ng_charlotte_kiu_yan/index_eng.html), Group Leader at the University of Bern, Switzerland, as invited speaker for our Lab meeting
