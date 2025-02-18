@@ -45,6 +45,7 @@ permalink: /people/
  
 * PhD student
 * Contact: loraine.habluetzel [at] unibe.ch
+* [ORCID](https://orcid.org/0009-0008-2797-8718)
 
 ![Photo of Loraine Habluetzel](/assets/img/team/Loraine_24.jpg)
 
