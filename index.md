@@ -31,6 +31,10 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
+**13-14.02.2025:** The lab is actively participating at the [Biology 25](https://wp.unil.ch/biology25/) conference in Lausanne, Switzerland: Loraine is giving a talk, and Julio, Russ, and Ianis are presenting a poster
+
+---
+
 **20.01.2025:** We are hosting [Malvika Srivastava ](https://scholar.google.com/citations?user=g6eLK2IAAAAJ), Postdoctoral Researcher in the [ Theoretical Evolutionary Ecology Lab](https://lab-mullon.github.io/index.html), University of Lausanne, as an invited speaker for our lab meeting.
 
 ---
