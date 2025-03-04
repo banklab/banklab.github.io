@@ -22,7 +22,7 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**28.02-04.03.2025:** The lab is actively participating at the [Gordon Research](https://www.grc.org/speciation-conference/2025/) conference and seminar in Speciation in California, USA: Julio is giving a talk, and presenting a poster.
+**01-04.03.2025:** The lab is actively participating at the [Gordon Research](https://www.grc.org/speciation-conference/2025/) conference and seminar in Speciation in California, USA: Julio is giving a talk, and presenting a poster.
 
 ---
 
