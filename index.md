@@ -14,6 +14,18 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
+**10.03.2025:** We are hosting Lucy Lansch-Justen, former lab member and PhD student in the [Alexander group](https://biology.ed.ac.uk/alexander) at the Institute of Ecology and Evolution, University of Edinburgh, UK, as an invited speaker for our lab meeting.
+
+---
+
+### Past events
+
+---
+
+**28.02-04.03.2025:** The lab is actively participating at the [Gordon Research](https://www.grc.org/speciation-conference/2025/) conference and seminar in Speciation in California, USA: Julio is giving a talk, and presenting a poster.
+
+---
+
 **26.02.2025:** We are hosting [Jasmine Ono](https://scholar.google.com/citations?user=7c4yU20AAAAJ&hl=en), Assistant Professor in the School of Life Sciences, University of Nottingham, UK, for a [BTE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) titled "The genetics of speciation in budding yeasts".
 
 ---
@@ -23,11 +35,6 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 ---
 
 **18.02.2025:** We are hosting [Gabriel Jorgewich-Cohen](https://scholar.google.com/citations?user=iGdBuSAAAAAJ&hl=en&oi=ao), Postdoctoral Researcher at [Department of Evolutionary Anthropology](https://www.aim.uzh.ch/en.html), University of Zürich, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "What can reptiles say about the evolution of language? The importance of non-model species on broad evolutionary studies".
-
----
-
-
-### Past events
 
 ---
 
