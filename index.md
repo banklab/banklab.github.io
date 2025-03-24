@@ -12,9 +12,6 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Upcoming events
 
----
-
-
 
 ---
 
