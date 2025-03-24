@@ -14,11 +14,23 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**10.03.2025:** We are hosting Lucy Lansch-Justen, former lab member and PhD student in the [Alexander group](https://biology.ed.ac.uk/alexander) at the Institute of Ecology and Evolution, University of Edinburgh, UK, as an invited speaker for our lab meeting.
+
+
+---
+
+**26.03.2025:** We are hosting [Piyanun Harnpicharnchai](https://www.researchgate.net/profile/Piyanun-Harnpicharnchai), Researcher at the National Science and Technology Development Agency, Thailand, for a [BTE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_behavioral_theoretical_and_evolutionary_biology/index_eng.html) titled "Fungal communities useful for assessment of river biodiversity and water quality".
+
+---
+
+**25.03.2025:** We are hosting [Pleuni Pennings](https://pleunipennings.wordpress.com/), Professor in the department of Biology, San Francisco State University, USA, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "Why are not all E coli resistant to antibiotics?".
 
 ---
 
 ### Past events
+
+---
+
+**10.03.2025:** We are hosting Lucy Lansch-Justen, former lab member and PhD student in the [Alexander group](https://biology.ed.ac.uk/alexander) at the Institute of Ecology and Evolution, University of Edinburgh, UK, as an invited speaker for our lab meeting.
 
 ---
 
