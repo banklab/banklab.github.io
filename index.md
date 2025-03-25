@@ -12,6 +12,9 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ### Upcoming events
 
+---
+
+**31.03.2025:** We are hosting [Alexander Zarebski](https://aezarebski.github.io/), Senior Research Associate at the [Medical Research Council Biostatistics Unit](https://www.mrc-bsu.cam.ac.uk/staff/alexander-zarebski), University of Cambridge, UK, as an invited speaker for our lab meeting.
 
 ---
 
