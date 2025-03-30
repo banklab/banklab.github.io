@@ -21,7 +21,10 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2025
 
-<u>L. Hablützel</u><sup>#</sup>, and <u>C. Bank</u><sup>#</sup>. **Studying the genetic basis of ecological interactions with intergenomic epistasis**. Oikos, doi: 10.1111/oik.10835. [link](http://doi.org/10.1111/oik.10835) or [preprint](https://ecoevorxiv.org/repository/view/6801/)
+<u>C. Chaparro-Pedraza</u>, and <u>C. Bank</u>. **Life history evolution facilitates trophic diversification**. biorxiv, doi: 10.1101/2025.03.25.645227. [preprint](https://www.biorxiv.org/content/10.1101/2025.03.25.645227v1)
+
+
+<u>L. Hablützel</u>, and <u>C. Bank</u>. **Studying the genetic basis of ecological interactions with intergenomic epistasis**. Oikos, doi: 10.1111/oik.10835. [link](http://doi.org/10.1111/oik.10835) or [preprint](https://ecoevorxiv.org/repository/view/6801/)
 
 ## 2024
 
