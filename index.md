@@ -14,6 +14,14 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
+**14.04.2025:** We are hosting [Himani Sachveda](https://scholar.google.com/citations?user=9RoZQsIAAAAJ&hl=en&oi=ao), Assistant Professor at the [Mathematics Bioscience Group](https://www.mabs.at/team/) , University of Vienna, Austria, as an invited speaker for our lab meeting.
+
+---
+
+### Past events
+
+---
+
 **31.03.2025:** We are hosting [Alexander Zarebski](https://aezarebski.github.io/), Senior Research Associate at the [Medical Research Council Biostatistics Unit](https://www.mrc-bsu.cam.ac.uk/staff/alexander-zarebski), University of Cambridge, UK, as an invited speaker for our lab meeting.
 
 ---
@@ -23,10 +31,6 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 ---
 
 **25.03.2025:** We are hosting [Pleuni Pennings](https://pleunipennings.wordpress.com/), Professor in the department of Biology, San Francisco State University, USA, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "Why are not all E coli resistant to antibiotics?".
-
----
-
-### Past events
 
 ---
 
