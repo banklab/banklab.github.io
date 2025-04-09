@@ -16,7 +16,7 @@ permalink: /people/
 
 * Principal investigator, Head of Division
 * Contact: claudia.bank [at] unibe.ch
-* [GoogleScholar](https://scholar.google.ch/citations?user=VBOPD0UAAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bank+Claudia%5BAuthor%5D&sort=date), [ORCID](https://orcid.org/0000-0003-4730-758X), [CV](https://www.dropbox.com/scl/fi/bvjed96v5lwoetj8g45mc/cv_bank.pdf?rlkey=sxvvxo6w323udt8e827gio0v1&dl=0)
+* [Google Scholar](https://scholar.google.ch/citations?user=VBOPD0UAAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bank+Claudia%5BAuthor%5D&sort=date), [ORCID](https://orcid.org/0000-0003-4730-758X), [CV](https://www.dropbox.com/scl/fi/bvjed96v5lwoetj8g45mc/cv_bank.pdf?rlkey=sxvvxo6w323udt8e827gio0v1&dl=0)
 
 ![Photo of Claudia Bank](/assets/img/team/Claudia_24.jpg)
  
@@ -35,7 +35,7 @@ permalink: /people/
 
 * Senior bioinformatician
 * Contact: adamantia.kapopoulou [at] unibe.ch
-* [GoogleScholar](https://scholar.google.com/citations?hl=en&user=CMkgYYwAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=kapopoulou&sort=date), [ORCID](https://orcid.org/0000-0003-4192-4923)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=CMkgYYwAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=kapopoulou&sort=date), [ORCID](https://orcid.org/0000-0003-4192-4923)
 
 ![Photo of Adamandia Kapopoulou](/assets/img/team/Mado_24.jpg)
  
@@ -45,7 +45,7 @@ permalink: /people/
  
 * PhD student
 * Contact: loraine.habluetzel [at] unibe.ch
-* [ORCID](https://orcid.org/0009-0008-2797-8718)
+* [Google Scholar](https://scholar.google.com/citations?user=Ex9vNuoAAAAJ&hl=en&oi=ao)[ORCID](https://orcid.org/0009-0008-2797-8718)
 
 ![Photo of Loraine Habluetzel](/assets/img/team/Loraine_24.jpg)
 
@@ -75,7 +75,7 @@ permalink: /people/
  
 * Postdoctoral researcher
 * Contact: suman.das [at] unibe.ch
-* [GoogleScholar](https://scholar.google.com/citations?user=xGBUQx0AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-8583-9961)
+* [Google Scholar](https://scholar.google.com/citations?user=xGBUQx0AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-8583-9961)
 
 ![Photo of Suman Das](/assets/img/team/Suman_24.jpg)
 
@@ -100,14 +100,29 @@ permalink: /people/
 
 ---
 
+## Emma Ochsner
+* BSc student
+
+---
+
+## Rüya Arslan
+* MSc student
+
+---
+
 # Associated team members
 
+
+## Dhanya Bharath
+* Associated PhD student 
+* Contact: dhanya.bharath [at] students.unibe.ch
+* [Google Scholar](https://scholar.google.com/citations?user=IKh6U6MAAAAJ&hl=en&oi=ao)
 
 ## Zachary Bailey
 
 * Associated Postdoctoral researcher (From the [Terrestial ecology group](https://www.terr.iee.unibe.ch/research/index_eng.html) in University of Bern)
 * Contact: zachary.bailey [at] unibe.ch
-* [GoogleScholar](https://scholar.google.com/citations?user=V5rDLCkAAAAJ&hl=en)
+* [Google Scholar](https://scholar.google.com/citations?user=V5rDLCkAAAAJ&hl=en)
 
 ![Photo of Zachary Bailey](/assets/img/team/Zach_24.jpg)
 
