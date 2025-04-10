@@ -23,20 +23,19 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 <u>C. Chaparro-Pedraza</u>, and <u>C. Bank</u>. **Life history evolution facilitates trophic diversification**. biorxiv, doi: 10.1101/2025.03.25.645227. [preprint](https://www.biorxiv.org/content/10.1101/2025.03.25.645227v1)
 
-
 <u>L. Hablützel</u>, and <u>C. Bank</u>. **Studying the genetic basis of ecological interactions with intergenomic epistasis**. Oikos, doi: 10.1111/oik.10835. [link](http://doi.org/10.1111/oik.10835) or [preprint](https://ecoevorxiv.org/repository/view/6801/)
+
+K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antimicrobial Resistance in Wildlife across Switzerland and the Principality of Liechtenstein: Associations with Environmental Factors and Taxonomic Variation**. biorxiv, doi: 10.1101/2025.01.28.635243. [preprint](https://www.biorxiv.org/content/10.1101/2025.01.28.635243v1)
+
+W.F. Ramirez-Duarte, B.M. Moran, D.L. Powell, <u>C. Bank</u>, V.C. Sousa, G.G. Rosenthal, M. Schumer, C.M. Rochman. **Hybridization in the Anthropocene - how pollution and climate change disrupt mate selection in freshwater fish**. Biological Reviews, doi: 10.1111/brv.13126. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.13126)
 
 ## 2024
 
 <u>L. Marrec</u>, and <u>C. Bank</u>. **Drivers of diversity within and between microbial communities during stochastic assembly** biorxiv, doi: 10.1101/2024.11.19.624346. [preprint](https://www.biorxiv.org/content/10.1101/2024.11.19.624346v1)
 
-K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antimicrobial Resistance in Wildlife across Switzerland and the Principality of Liechtenstein: Associations with Environmental Factors and Taxonomic Variation**. biorxiv, doi: 10.1101/2025.01.28.635243. [preprint](https://www.biorxiv.org/content/10.1101/2025.01.28.635243v1)
-
 <u>J.A. Ayala-Lopez</u>, and <u>C. Bank</u>. **What can we gain from modeling complex hybrid incompatibilities?** Evolutionary Journal of the Linnean Society, doi: 10.1093/evolinnean/kzae034. [link](https://academic.oup.com/evolinnean/advance-article/doi/10.1093/evolinnean/kzae034/7924183?utm_source=authortollfreelink&utm_campaign=evolinnean&utm_medium=email&guestAccessKey=704c8ef7-2db8-4ea4-9d99-b6198057ad2a)
 
 <u>D. McLeod</u>, <u>C. Bank<sup>&</sup></u>, and S. Gandon<sup>&</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. PNAS, doi: 10.1073/pnas.2401578121. [link](https://www.pnas.org/doi/10.1073/pnas.2401578121) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
-
-W.F. Ramirez-Duarte, B.M. Moran, D.L. Powell, <u>C. Bank</u>, V.C. Sousa, G.G. Rosenthal, M. Schumer, C.M. Rochman. **Hybridization in the Anthropocene - how pollution and climate change disrupt mate selection in freshwater fish**. Biological Reviews, doi: 10.1111/brv.13126. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.13126)
 
 <u>M.A.D. Louro</u><sup>*#</sup>, C. Peneda<sup>*#</sup>, <u>C. Bank</u>, and M. Bettencourt-Dias<sup>#</sup>. **Adaptation of human cell populations to different levels of centriole amplification involves a two-step response**. [preprint](https://www.biorxiv.org/content/10.1101/2024.02.15.580424v2)
 
