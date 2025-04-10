@@ -91,40 +91,41 @@ permalink: /people/
 ---
 
 ## Jacob Hugh Riina
-* MSc student
+* MSc thesis student
 
 ---
 
 ## Florin Suter
-* BSc student
+* BSc thesis student
 
 ---
 
 ## Emma Ochsner
-* BSc student
+* BSc thesis student
 
 ---
 
 ## Rüya Arslan
-* MSc student
+* MSc thesis student
 
 ---
 
 # Associated team members
 
 
-## Dhanya Bharath
-* Associated PhD student 
-* Contact: dhanya.bharath [at] students.unibe.ch
-* [Google Scholar](https://scholar.google.com/citations?user=IKh6U6MAAAAJ&hl=en&oi=ao)
-
 ## Zachary Bailey
 
-* Associated Postdoctoral researcher (From the [Terrestial ecology group](https://www.terr.iee.unibe.ch/research/index_eng.html) in University of Bern)
+* Associated Postdoctoral researcher (from the [Terrestial Ecology Group](https://www.terr.iee.unibe.ch/research/index_eng.html) at IEE)
 * Contact: zachary.bailey [at] unibe.ch
 * [Google Scholar](https://scholar.google.com/citations?user=V5rDLCkAAAAJ&hl=en)
 
 ![Photo of Zachary Bailey](/assets/img/team/Zach_24.jpg)
+
+
+## Dhanya Bharath
+* Associated PhD student (from [Catalina Chaparro Pedraza](https://scholar.google.com/citations?user=e27luTMAAAAJ&hl=en&oi=ao)'s Group at EAWAG)
+* Contact: dhanya.bharath [at] students.unibe.ch
+* [Google Scholar](https://scholar.google.com/citations?user=IKh6U6MAAAAJ&hl=en&oi=ao)
 
 ---
 
@@ -138,15 +139,13 @@ permalink: /people/
 
 [Loïc Marrec](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en) - Postdoc (2020-2024)
 
-Sabrina Rasch - MSc project student (2021-2022)
+Sabrina Rasch - BSc student, MSc project student (2021-2022, 2024)
 
 James Ackermann - Student assistant (2024)
 
 Yannick Jauslin - BSc student (2024)
 
 Carole Schöpfer - BSc student (2024)
-
-Sabrina Rasch - BSc student, MSc project student (2021-2022, 2024)
 
 [Marco Louro](https://orcid.org/0000-0002-7023-799X) - PhD student (2017-2024)
 
