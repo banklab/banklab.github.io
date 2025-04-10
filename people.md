@@ -8,7 +8,7 @@ permalink: /people/
 
 # Team
 
-![Photo of Bank Lab team](/assets/img/team/team_24.jpg){:class="img-team"}
+![Photo of Bank Lab team](/assets/img/team/team_25.jpg){:class="img-team"}
 
 (In chronological order of joining the group)
 
