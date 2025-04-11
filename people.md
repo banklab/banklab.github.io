@@ -45,7 +45,7 @@ permalink: /people/
  
 * PhD student
 * Contact: loraine.habluetzel [at] unibe.ch
-* [Google Scholar](https://scholar.google.com/citations?user=Ex9vNuoAAAAJ&hl=en&oi=ao)[ORCID](https://orcid.org/0009-0008-2797-8718)
+* [Google Scholar](https://scholar.google.com/citations?user=Ex9vNuoAAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0009-0008-2797-8718)
 
 ![Photo of Loraine Habluetzel](/assets/img/team/Loraine_24.jpg)
 
@@ -55,7 +55,7 @@ permalink: /people/
  
 * PhD student
 * Contact: russell.jasper [at] unibe.ch
-* [ORCID](https://orcid.org/0000-0003-4275-1155)
+* [Google Scholar](https://scholar.google.com/citations?user=QvrgVB0AAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0003-4275-1155)
 
 ![Photo of Russ Jasper](/assets/img/team/Russ_24.jpg)
 
@@ -65,7 +65,7 @@ permalink: /people/
  
 * PhD student
 * Contact: julio.ayalalopez [at] unibe.ch
-* [ORCID](https://orcid.org/0000-0003-4687-5825)
+* [Google Scholar](https://scholar.google.com/citations?user=5_mIe-8AAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0003-4687-5825)
 
 ![Photo of Julio Ayala](/assets/img/team/Julio_24.jpg)
 
