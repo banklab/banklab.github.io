@@ -21,6 +21,8 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2025
 
+S. Conforti, <u>A. Kapopoulou</u>, <u>C. Bank</u>, B. Koechle, B. Yilmaz, and J. Becker. **Extended-spectrum beta-lactamase (ESBL)-producing E. coli in livestock and free-roaming wildlife: a combined phenotyping whole-genome sequencing One Health approach**. biorxiv, doi: 10.1101/2025.04.08.647752. [preprint](https://www.biorxiv.org/content/10.1101/2025.04.08.647752v1)
+
 <u>C. Chaparro-Pedraza</u>, and <u>C. Bank</u>. **Life history evolution facilitates trophic diversification**. biorxiv, doi: 10.1101/2025.03.25.645227. [preprint](https://www.biorxiv.org/content/10.1101/2025.03.25.645227v1)
 
 <u>L. Hablützel</u>, and <u>C. Bank</u>. **Studying the genetic basis of ecological interactions with intergenomic epistasis**. Oikos, doi: 10.1111/oik.10835. [link](http://doi.org/10.1111/oik.10835) or [preprint](https://ecoevorxiv.org/repository/view/6801/)
