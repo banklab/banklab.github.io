@@ -9,7 +9,7 @@ Please [email](/people/) us for pdf copies of lab papers hidden behind a paywall
 
 This list shows publications of lab members during their time in the lab. For additional publications of individual lab members, see their personal pages.
 
-<sup>*</sup>equal contribution; <sup>#</sup>co-corresponding authors; <sup>&</sup>co-last authors
+<sup>*</sup>equal contribution; <sup>#</sup>co-corresponding authors
 {:.p__notes}
 
 <div class="layout-publications" markdown="1">
@@ -25,6 +25,12 @@ S. Conforti, <u>A. Kapopoulou</u>, <u>C. Bank</u>, B. Koechle, B. Yilmaz, and J.
 
 <u>C. Chaparro-Pedraza</u>, and <u>C. Bank</u>. **Life history evolution facilitates trophic diversification**. biorxiv, doi: 10.1101/2025.03.25.645227. [preprint](https://www.biorxiv.org/content/10.1101/2025.03.25.645227v1)
 
+<u>L. Hablützel</u>, C. Mullon, and M. Schmid. **The evolution of local adaptation in long-lived species.** Evolution, doi: 10.1093/evolut/qpaf031. [link](https://academic.oup.com/evolut/advance-article-abstract/doi/10.1093/evolut/qpaf031/8051330)
+
+<u>S.G. Das</u>, M. Mungan, and J. Krug. **Epistasis-mediated compensatory evolution in a fitness landscape with adaptational tradeoffs.** PNAS, doi: 10.1073/pnas.242252012. [link](https://www.pnas.org/doi/abs/10.1073/pnas.2422520122)
+
+N. Sharma<sup>#</sup>, <u>S.G. Das</u>, J. Krug, and A. Traulsen<sup>#</sup>. **Graph-structured populations elucidate the role of deleterious mutations in long-term evolution.** Nat. Commun. doi: 10.1038/s41467-025-57552-9. [link](https://www.nature.com/articles/s41467-025-57552-9#citeas)
+
 <u>L. Hablützel</u>, and <u>C. Bank</u>. **Studying the genetic basis of ecological interactions with intergenomic epistasis**. Oikos, doi: 10.1111/oik.10835. [link](http://doi.org/10.1111/oik.10835) or [preprint](https://ecoevorxiv.org/repository/view/6801/)
 
 K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antimicrobial Resistance in Wildlife across Switzerland and the Principality of Liechtenstein: Associations with Environmental Factors and Taxonomic Variation**. biorxiv, doi: 10.1101/2025.01.28.635243. [preprint](https://www.biorxiv.org/content/10.1101/2025.01.28.635243v1)
@@ -33,11 +39,13 @@ W.F. Ramirez-Duarte, B.M. Moran, D.L. Powell, <u>C. Bank</u>, V.C. Sousa, G.G. R
 
 ## 2024
 
-<u>L. Marrec</u>, and <u>C. Bank</u>. **Drivers of diversity within and between microbial communities during stochastic assembly** biorxiv, doi: 10.1101/2024.11.19.624346. [preprint](https://www.biorxiv.org/content/10.1101/2024.11.19.624346v1)
+<u>L. Marrec</u>, and <u>C. Bank</u>. **Drivers of diversity within and between microbial communities during stochastic assembly.** biorxiv, doi: 10.1101/2024.11.19.624346. [preprint](https://www.biorxiv.org/content/10.1101/2024.11.19.624346v1)
 
 <u>J.A. Ayala-Lopez</u>, and <u>C. Bank</u>. **What can we gain from modeling complex hybrid incompatibilities?** Evolutionary Journal of the Linnean Society, doi: 10.1093/evolinnean/kzae034. [link](https://academic.oup.com/evolinnean/advance-article/doi/10.1093/evolinnean/kzae034/7924183?utm_source=authortollfreelink&utm_campaign=evolinnean&utm_medium=email&guestAccessKey=704c8ef7-2db8-4ea4-9d99-b6198057ad2a)
 
-<u>D. McLeod</u>, <u>C. Bank<sup>&</sup></u>, and S. Gandon<sup>&</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. PNAS, doi: 10.1073/pnas.2401578121. [link](https://www.pnas.org/doi/10.1073/pnas.2401578121) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
+<u>D. McLeod</u>, <u>C. Bank<sup>*</sup></u>, and S. Gandon<sup>*</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. PNAS, doi: 10.1073/pnas.2401578121. [link](https://www.pnas.org/doi/10.1073/pnas.2401578121) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
+
+<u>R.J.</u> Jasper, and S. Yeaman. **Local adaptation can cause both peaks and troughs in nucleotide diversity within populations.** G3, doi: 10.1093/g3journal/jkae225 [link](https://academic.oup.com/g3journal/article/14/11/jkae225/7759903)
 
 <u>M.A.D. Louro</u><sup>*#</sup>, C. Peneda<sup>*#</sup>, <u>C. Bank</u>, and M. Bettencourt-Dias<sup>#</sup>. **Adaptation of human cell populations to different levels of centriole amplification involves a two-step response**. [preprint](https://www.biorxiv.org/content/10.1101/2024.02.15.580424v2)
 
@@ -50,6 +58,8 @@ A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, and A. Wong. **Unpredictabi
 ## 2023
 
 <u>L. Marrec</u>. **Quantifying the impact of genotype-dependent gene flow on mutation fixation in subdivided populations.** [preprint](https://www.biorxiv.org/content/10.1101/2023.11.29.569213v1.abstract)
+
+Y.-P. Lin, H.-W. Chen, P.-M. Yeh, S.S. Anand, J. Lin, <u>J. Li</u>, T. Noble, R. Nair, R. Schafleitner, M. Samsononova, E. Bishop-von-Wettberg, S. Nuzhdin, C.-T. Ting, R.J. Lawn, C.-R. Lee. **Demographic history and distinct selection signatures of two domestication genes in mungbean.** Plant Physiology, doi: 10.1093/plphys/kiad356. [link](https://academic.oup.com/plphys/article/193/2/1197/7202204)
 
 <u>J. Li</u>, and <u>C. Bank</u>. **Dominance and multi-locus interaction**. Trends in Genetics, doi: 10.1016/j.tig.2023.12.003. [link](https://www.cell.com/trends/genetics/abstract/S0168-9525(23)00262-7) or [preprint](https://arxiv.org/abs/2310.04730)
 
