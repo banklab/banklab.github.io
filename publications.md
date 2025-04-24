@@ -45,7 +45,7 @@ W.F. Ramirez-Duarte, B.M. Moran, D.L. Powell, <u>C. Bank</u>, V.C. Sousa, G.G. R
 
 <u>D. McLeod</u>, <u>C. Bank<sup>*</sup></u>, and S. Gandon<sup>*</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. PNAS, doi: 10.1073/pnas.2401578121. [link](https://www.pnas.org/doi/10.1073/pnas.2401578121) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
 
-<u>R.J.</u> Jasper, and S. Yeaman. **Local adaptation can cause both peaks and troughs in nucleotide diversity within populations.** G3, doi: 10.1093/g3journal/jkae225 [link](https://academic.oup.com/g3journal/article/14/11/jkae225/7759903)
+<u>R.J. Jasper</u>, and S. Yeaman. **Local adaptation can cause both peaks and troughs in nucleotide diversity within populations.** G3, doi: 10.1093/g3journal/jkae225 [link](https://academic.oup.com/g3journal/article/14/11/jkae225/7759903)
 
 <u>M.A.D. Louro</u><sup>*#</sup>, C. Peneda<sup>*#</sup>, <u>C. Bank</u>, and M. Bettencourt-Dias<sup>#</sup>. **Adaptation of human cell populations to different levels of centriole amplification involves a two-step response**. [preprint](https://www.biorxiv.org/content/10.1101/2024.02.15.580424v2)
 
