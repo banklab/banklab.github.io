@@ -14,11 +14,15 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**14.04.2025:** We are hosting [Himani Sachveda](https://scholar.google.com/citations?user=9RoZQsIAAAAJ&hl=en&oi=ao), Assistant Professor at the [Mathematics Bioscience Group](https://www.mabs.at/team/) , University of Vienna, Austria, as an invited speaker for our lab meeting.
+**19.05.2025:** We are hosting [Marco Davoli](https://scholar.google.ch/citations?hl=en&user=3MHcv-QAAAAJ&view_op=list_works&sortby=pubdate), Postdoctoral researcher at the Sapienza University of Rome, Italy, as an invited speaker for our lab meeting.
 
 ---
 
 ### Past events
+
+---
+
+**14.04.2025:** We are hosting [Himani Sachveda](https://scholar.google.com/citations?user=9RoZQsIAAAAJ&hl=en&oi=ao), Assistant Professor at the [Mathematics Bioscience Group](https://www.mabs.at/team/) , University of Vienna, Austria, as an invited speaker for our lab meeting.
 
 ---
 
