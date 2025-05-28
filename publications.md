@@ -33,7 +33,7 @@ N. Sharma<sup>#</sup>, <u>S.G. Das</u>, J. Krug, and A. Traulsen<sup>#</sup>. **
 
 <u>L. Hablützel</u>, and <u>C. Bank</u>. **Studying the genetic basis of ecological interactions with intergenomic epistasis**. Oikos, doi: 10.1111/oik.10835. [link](http://doi.org/10.1111/oik.10835) or [preprint](https://ecoevorxiv.org/repository/view/6801/)
 
-K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antimicrobial Resistance in Wildlife across Switzerland and the Principality of Liechtenstein: Associations with Environmental Factors and Taxonomic Variation**. biorxiv, doi: 10.1101/2025.01.28.635243. [preprint](https://www.biorxiv.org/content/10.1101/2025.01.28.635243v1)
+K. Höcketstaller, I.A. Marti, <u>C. Bank</u>, B. Yilmaz, and J. Becker. **Antimicrobial Resistance in Wildlife across Switzerland and the Principality of Liechtenstein: Associations with Environmental Factors and Taxonomic Variation**. Environmental Research, doi: 10.1016/j.envres.2025.121968. [link](https://doi.org/10.1016/j.envres.2025.121968) or [preprint](https://www.biorxiv.org/content/10.1101/2025.01.28.635243v1)
 
 W.F. Ramirez-Duarte, B.M. Moran, D.L. Powell, <u>C. Bank</u>, V.C. Sousa, G.G. Rosenthal, M. Schumer, C.M. Rochman. **Hybridization in the Anthropocene - how pollution and climate change disrupt mate selection in freshwater fish**. Biological Reviews, doi: 10.1111/brv.13126. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.13126)
 
