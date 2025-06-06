@@ -21,6 +21,8 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2025
 
+<u>R.J. Jasper<sup>#</sup></u>, <u>A. Kapopoulou</u>, S. Peischl, B. Yilmaz, J. Becker, and <u>C. Bank<sup>#</sup></u>. **Pervasive Intraspecific Genetic Local Adaptation Within the Natural Gut Microbiome**. Submitted.
+
 S. Conforti, <u>A. Kapopoulou</u>, <u>C. Bank</u>, B. Koechle, B. Yilmaz, and J. Becker. **Extended-spectrum beta-lactamase (ESBL)-producing E. coli in livestock and free-roaming wildlife: a combined phenotyping whole-genome sequencing One Health approach**. biorxiv, doi: 10.1101/2025.04.08.647752. [preprint](https://www.biorxiv.org/content/10.1101/2025.04.08.647752v1)
 
 <u>C. Chaparro-Pedraza</u>, and <u>C. Bank</u>. **Life history evolution facilitates trophic diversification**. biorxiv, doi: 10.1101/2025.03.25.645227. [preprint](https://www.biorxiv.org/content/10.1101/2025.03.25.645227v1)
