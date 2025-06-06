@@ -21,7 +21,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2025
 
-<u>R.J. Jasper<sup>#</sup></u>, <u>A. Kapopoulou</u>, S. Peischl, B. Yilmaz, J. Becker, and <u>C. Bank<sup>#</sup></u>. **Pervasive Intraspecific Genetic Local Adaptation Within the Natural Gut Microbiome**. Submitted.
+<u>R.J. Jasper</u><sup>#</sup>, <u>A. Kapopoulou</u>, S. Peischl, B. Yilmaz, J. Becker, and <u>C. Bank</u><sup>#</sup>. **Pervasive intraspecific genetic local adaptation within the natural gut microbiome**. Submitted.
 
 S. Conforti, <u>A. Kapopoulou</u>, <u>C. Bank</u>, B. Koechle, B. Yilmaz, and J. Becker. **Extended-spectrum beta-lactamase (ESBL)-producing E. coli in livestock and free-roaming wildlife: a combined phenotyping whole-genome sequencing One Health approach**. biorxiv, doi: 10.1101/2025.04.08.647752. [preprint](https://www.biorxiv.org/content/10.1101/2025.04.08.647752v1)
 
@@ -45,7 +45,7 @@ W.F. Ramirez-Duarte, B.M. Moran, D.L. Powell, <u>C. Bank</u>, V.C. Sousa, G.G. R
 
 <u>J.A. Ayala-Lopez</u>, and <u>C. Bank</u>. **What can we gain from modeling complex hybrid incompatibilities?** Evolutionary Journal of the Linnean Society, doi: 10.1093/evolinnean/kzae034. [link](https://academic.oup.com/evolinnean/advance-article/doi/10.1093/evolinnean/kzae034/7924183?utm_source=authortollfreelink&utm_campaign=evolinnean&utm_medium=email&guestAccessKey=704c8ef7-2db8-4ea4-9d99-b6198057ad2a)
 
-<u>D. McLeod</u>, <u>C. Bank<sup>*</sup></u>, and S. Gandon<sup>*</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. PNAS, doi: 10.1073/pnas.2401578121. [link](https://www.pnas.org/doi/10.1073/pnas.2401578121) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
+<u>D. McLeod</u>, <u>C. Bank</u><sup>*</sup>, and S. Gandon<sup>*</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. PNAS, doi: 10.1073/pnas.2401578121. [link](https://www.pnas.org/doi/10.1073/pnas.2401578121) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
 
 <u>R.J. Jasper</u>, and S. Yeaman. **Local adaptation can cause both peaks and troughs in nucleotide diversity within populations.** G3, doi: 10.1093/g3journal/jkae225 [link](https://academic.oup.com/g3journal/article/14/11/jkae225/7759903)
 
