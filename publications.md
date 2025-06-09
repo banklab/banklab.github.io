@@ -21,7 +21,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2025
 
-<u>R.J. Jasper</u><sup>#</sup>, <u>A. Kapopoulou</u>, S. Peischl, B. Yilmaz, J. Becker, and <u>C. Bank</u><sup>#</sup>. **Pervasive intraspecific genetic local adaptation within the natural gut microbiome**. Submitted.
+<u>R.J. Jasper</u><sup>#</sup>, <u>A. Kapopoulou</u>, S. Peischl, B. Yilmaz, J. Becker, and <u>C. Bank</u><sup>#</sup>. **Pervasive intraspecific genetic local adaptation within the natural gut microbiome**. biorxiv, doi: 10.1101/2025.06.06.658271. [preprint](https://www.biorxiv.org/cgi/content/short/2025.06.06.658271v1).
 
 S. Conforti, <u>A. Kapopoulou</u>, <u>C. Bank</u>, B. Koechle, B. Yilmaz, and J. Becker. **Extended-spectrum beta-lactamase (ESBL)-producing E. coli in livestock and free-roaming wildlife: a combined phenotyping whole-genome sequencing One Health approach**. biorxiv, doi: 10.1101/2025.04.08.647752. [preprint](https://www.biorxiv.org/content/10.1101/2025.04.08.647752v1)
 
