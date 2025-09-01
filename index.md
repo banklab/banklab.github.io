@@ -14,11 +14,27 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**19.05.2025:** We are hosting [Marco Davoli](https://scholar.google.ch/citations?hl=en&user=3MHcv-QAAAAJ&view_op=list_works&sortby=pubdate), Postdoctoral researcher at the Sapienza University of Rome, Italy, as an invited speaker for our lab meeting.
+**08.09.2025:** We are hosting [Timothy Fuqua](https://scholar.google.com/citations?user=oinW8hAAAAAJ&hl=en&oi=ao), Postdoctoral researcher at [Andreas Wagner's lab](https://sites.google.com/view/evo-wagner), University of Zurich, Switzerland, as an invited speaker for our lab meeting. 
 
 ---
 
 ### Past events
+
+---
+
+**18-22.08.2025:** The lab is actively participating at the [ESEB 2025](https://eseb2025.com/) conference in Barcelona, Spain: Russ and Suman are giving a talk, and Loraine, Julio, Zach, and Dhanya are presenting posters.
+
+---
+
+**13-18.07.2025:** The lab is actively participating at the [Gordon Research](https://www.grc.org/ecological-and-evolutionary-genomics-conference/2025/) conference and seminar in Dynamics of Ecological and Evolutionary Change in Lucca, Italy: Russ is giving a talk and presenting a poster, and Loraine is presenting a poster.
+
+---
+
+**26.06.2025:** We are hosting [Vera Domingues](https://www.nature.com/natecolevol/editors), Editor for Nature Ecology and Evolution, as an invited speaker for our lab meeting.
+
+---
+
+**19.05.2025:** We are hosting [Marco Davoli](https://scholar.google.ch/citations?hl=en&user=3MHcv-QAAAAJ&view_op=list_works&sortby=pubdate), Postdoctoral researcher at the Sapienza University of Rome, Italy, as an invited speaker for our lab meeting.
 
 ---
 
