@@ -14,11 +14,15 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**08.09.2025:** We are hosting [Timothy Fuqua](https://scholar.google.com/citations?user=oinW8hAAAAAJ&hl=en&oi=ao), Postdoctoral researcher at [Andreas Wagner's lab](https://sites.google.com/view/evo-wagner), University of Zurich, Switzerland, as an invited speaker for our lab meeting. 
+**15.09.2025** We are hosting [Martin Kapun](https://scholar.google.com/citations?user=teelSJ8AAAAJ&hl=en&oi=ao), Research assistant at the Natural History museum in Vienna, Austrira, as an invited speaker for our lab meeting. 
 
 ---
 
 ### Past events
+
+---
+
+**08.09.2025:** We are hosting [Timothy Fuqua](https://scholar.google.com/citations?user=oinW8hAAAAAJ&hl=en&oi=ao), Postdoctoral researcher at [Andreas Wagner's lab](https://sites.google.com/view/evo-wagner), University of Zurich, Switzerland, as an invited speaker for our lab meeting. 
 
 ---
 
