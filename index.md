@@ -14,11 +14,19 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**15.09.2025** We are hosting [Martin Kapun](https://scholar.google.com/citations?user=teelSJ8AAAAJ&hl=en&oi=ao), Research assistant at the Natural History museum in Vienna, Austrira, as an invited speaker for our lab meeting. 
+**07.10.2025** We are hosting [Joachim Krug](https://scholar.google.com/citations?user=5gJcwHkAAAAJ&hl=de), Professor at the [Institute for Biological Physics](https://www.ibp.uni-koeln.de/index.html), Cologne, Germany, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "Bacterial responses to antibiotic stress: Resistance, resilience and tolerance".
 
 ---
 
 ### Past events
+
+---
+
+**30.09.2025** We are hosting [Andrea Agazzi](https://scholar.google.com/citations?user=-r0-fc8AAAAJ&hl=it), Professor at the [Institute of Mathematical Statistics and Actuarial Science](https://www.imsv.unibe.ch/index_eng.html), University of Bern, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "Stochastic jump models in chemistry and biology: large populations and rare events".
+
+---
+
+**15.09.2025** We are hosting [Martin Kapun](https://scholar.google.com/citations?user=teelSJ8AAAAJ&hl=en&oi=ao), Research assistant at the Natural History museum in Vienna, Austrira, as an invited speaker for our lab meeting. 
 
 ---
 
