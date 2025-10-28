@@ -14,11 +14,15 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**07.10.2025** We are hosting [Joachim Krug](https://scholar.google.com/citations?user=5gJcwHkAAAAJ&hl=de), Professor at the [Institute for Biological Physics](https://www.ibp.uni-koeln.de/index.html), Cologne, Germany, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "Bacterial responses to antibiotic stress: Resistance, resilience and tolerance".
+**03.11.2025** We are hosting [Andrea Betancourt](https://scholar.google.com/citations?user=fUOeAXUAAAAJ&hl=en&oi=ao), Professor of Evolutionary Genetics at the [Department of Evolution, Ecology and Behaviour](https://www.liverpool.ac.uk/infection-veterinary-and-ecological-sciences/about/evolution-ecology-and-behaviour/), University of Liverpool, UK, as an invited speaker for our lab meeting, with a talk titled "Fly genomes and transposable element invasions". On the same day, she will be giving a presentation on her recent paper [ Leaving Academia: Insights from Evolutionary Biologists on Their Career Transitions and Job Satisfaction](https://www.biorxiv.org/content/10.1101/2025.08.19.671061v1).
 
 ---
 
 ### Past events
+
+---
+
+**07.10.2025** We are hosting [Joachim Krug](https://scholar.google.com/citations?user=5gJcwHkAAAAJ&hl=de), Professor at the [Institute for Biological Physics](https://www.ibp.uni-koeln.de/index.html), University of Cologne, Germany, for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled "Bacterial responses to antibiotic stress: Resistance, resilience and tolerance".
 
 ---
 
