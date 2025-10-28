@@ -6,7 +6,7 @@ permalink: /positions/
 
 # PhD position in theory of fitness landscapes
 
-A fully funded 4-year PhD position, supervised by Suman Das and Claudia Bank, is available in our group. The position is part of the SNSF project “Navigability of rugged fitness landscapes: determinants, consequences, and evolutionary feedback”, in which we study adaptation from a fitness-landscape point of view. See this paper from the lab for an introduction to the general topic.
+A fully funded 4-year PhD position, supervised by Suman Das and Claudia Bank, is available in our group. The position is part of the SNSF project “Navigability of rugged fitness landscapes: determinants, consequences, and evolutionary feedback”, in which we study adaptation from a fitness-landscape point of view. See [this paper](http://www.annualreviews.org/eprint/S7XY5J79I8FDVF9PEF6K/full/10.1146/annurev-ecolsys-102320-112153) from the lab for an introduction to the general topic.
 
 The PhD project is theoretical in nature and will involve mathematical modelling, computer simulations, and/or data analysis. The project should address some of the following questions:
 
