@@ -14,11 +14,15 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**03.11.2025** We are hosting [Andrea Betancourt](https://scholar.google.com/citations?user=fUOeAXUAAAAJ&hl=en&oi=ao), Professor of Evolutionary Genetics at the [Department of Evolution, Ecology and Behaviour](https://www.liverpool.ac.uk/infection-veterinary-and-ecological-sciences/about/evolution-ecology-and-behaviour/), University of Liverpool, UK, as an invited speaker for our lab meeting, with a talk titled "Fly genomes and transposable element invasions". On the same day, she will give a presentation and a discussion on her recent paper [ Leaving Academia: Insights from Evolutionary Biologists on Their Career Transitions and Job Satisfaction](https://www.biorxiv.org/content/10.1101/2025.08.19.671061v1).
+**03.11.2025** We are hosting [Kimba Duncan](https://sciprofiles.com/profile/4050933), researcher at the [Institute of Physiology and Nutrition, Hungarian University of Agriculture and Life Sciences](https://physiology-nutrition.uni-mate.hu/), Hungary, as an invited speaker for our lab meeting.
 
 ---
 
 ### Past events
+
+---
+
+**03.11.2025** We are hosting [Andrea Betancourt](https://scholar.google.com/citations?user=fUOeAXUAAAAJ&hl=en&oi=ao), Professor of Evolutionary Genetics at the [Department of Evolution, Ecology and Behaviour](https://www.liverpool.ac.uk/infection-veterinary-and-ecological-sciences/about/evolution-ecology-and-behaviour/), University of Liverpool, UK, as an invited speaker for our lab meeting, with a talk titled "Fly genomes and transposable element invasions". On the same day, she will give a presentation and a discussion on her recent paper [ Leaving Academia: Insights from Evolutionary Biologists on Their Career Transitions and Job Satisfaction](https://www.biorxiv.org/content/10.1101/2025.08.19.671061v1).
 
 ---
 
