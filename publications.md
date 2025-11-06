@@ -27,7 +27,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 S. Conforti, <u>A. Kapopoulou</u>, <u>C. Bank</u>, B. Koechle, B. Yilmaz, and J. Becker. **Extended-spectrum beta-lactamase (ESBL)-producing E. coli in livestock and free-roaming wildlife: a combined phenotyping whole-genome sequencing One Health approach**. biorxiv, doi: 10.1101/2025.04.08.647752. [preprint](https://www.biorxiv.org/content/10.1101/2025.04.08.647752v1)
 
-<u>C. Chaparro-Pedraza</u>, and <u>C. Bank</u>. **Life history evolution facilitates trophic diversification**. biorxiv, doi: 10.1101/2025.03.25.645227. [preprint](https://www.biorxiv.org/content/10.1101/2025.03.25.645227v1)
+<u>C. Chaparro-Pedraza</u>, and <u>C. Bank</u>. **Life history evolution facilitates trophic diversification**. Plos Biology, in press. [preprint](https://www.biorxiv.org/content/10.1101/2025.03.25.645227v1)
 
 <u>L. Hablützel</u>, C. Mullon, and M. Schmid. **The evolution of local adaptation in long-lived species.** Evolution, doi: 10.1093/evolut/qpaf031. [link](https://academic.oup.com/evolut/advance-article-abstract/doi/10.1093/evolut/qpaf031/8051330)
 
