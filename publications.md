@@ -21,13 +21,14 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2025
 
-<u>L. Marrec</u>, and <u>C. Bank</u>. **Drivers of diversity within and between microbial communities during stochastic assembly.** Journal of the Royal Society Interface, in press. [preprint](https://www.biorxiv.org/content/10.1101/2024.11.19.624346v1)
+
+<u>C. Chaparro-Pedraza</u>, and <u>C. Bank</u>. **Evolving life-history traits promote biodiversity via eco-evolutionary feedback mechanisms**. Plos Biology, doi: 10.1371/journal.pbio.3003492. [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003492) or [preprint](https://www.biorxiv.org/content/10.1101/2025.03.25.645227v1)
+
+<u>L. Marrec</u>, and <u>C. Bank</u>. **Drivers of diversity within and between microbial communities during stochastic assembly.** Journal of the Royal Society Interface, doi: 10.1098/rsif.2025.0329. [link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2025.0329) or [preprint](https://www.biorxiv.org/content/10.1101/2024.11.19.624346v1)
 
 <u>R.J. Jasper</u><sup>#</sup>, <u>A. Kapopoulou</u>, S. Peischl, B. Yilmaz, J. Becker, and <u>C. Bank</u><sup>#</sup>. **Pervasive intraspecific genetic local adaptation within the natural gut microbiome**. biorxiv, doi: 10.1101/2025.06.06.658271. [preprint](https://www.biorxiv.org/cgi/content/short/2025.06.06.658271v1).
 
 S. Conforti, <u>A. Kapopoulou</u>, <u>C. Bank</u>, B. Koechle, B. Yilmaz, and J. Becker. **Extended-spectrum beta-lactamase (ESBL)-producing E. coli in livestock and free-roaming wildlife: a combined phenotyping whole-genome sequencing One Health approach**. biorxiv, doi: 10.1101/2025.04.08.647752. [preprint](https://www.biorxiv.org/content/10.1101/2025.04.08.647752v1)
-
-<u>C. Chaparro-Pedraza</u>, and <u>C. Bank</u>. **Life history evolution facilitates trophic diversification**. Plos Biology, in press. [preprint](https://www.biorxiv.org/content/10.1101/2025.03.25.645227v1)
 
 <u>L. Hablützel</u>, C. Mullon, and M. Schmid. **The evolution of local adaptation in long-lived species.** Evolution, doi: 10.1093/evolut/qpaf031. [link](https://academic.oup.com/evolut/advance-article-abstract/doi/10.1093/evolut/qpaf031/8051330)
 
