@@ -21,6 +21,7 @@ https://kramdown.gettalong.org/syntax.html#html-blocks
 
 ## 2025
 
+M. Joshi, P. Duchen, <u>A. Kapopoulou</u>, and S. Laurent. **Natural selection in Transcription Factor (TF)-DNA interaction motifs – A comparative and population genomics perspective**. Genome Biology and Evolution, doi: 10.1093/gbe/evaf212. [link](https://doi.org/10.1093/gbe/evaf212)
 
 <u>C. Chaparro-Pedraza</u>, and <u>C. Bank</u>. **Evolving life-history traits promote biodiversity via eco-evolutionary feedback mechanisms**. Plos Biology, doi: 10.1371/journal.pbio.3003492. [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003492) or [preprint](https://www.biorxiv.org/content/10.1101/2025.03.25.645227v1)
 
@@ -164,7 +165,7 @@ L. Ormond, P. Liu, S. Matuszewski, N. Renzette, <u>C. Bank</u>, K.B. Zeldovich, 
 
 S. Matuszewski, L. Ormond, <u>C. Bank</u>, and J.D. Jensen. **Two sides of the same coin: a population genetics perspective on lethal mutagenesis and mutational meltdown.** Virus Evolution, doi: 10.1093/ve/vex004. [link](https://doi.org/10.1093/ve/vex004)
 
-##  2016
+## 2016
 
 <u>C. Bank</u><sup>*</sup>, S. Matuszewski<sup>*</sup>, R.T. Hietpas, and J.D. Jensen. **On the (un)predictability of a large intragenic fitness landscape.** Proceedings of the National Academy of Sciences, doi: 10.1073/pnas.1612676113. [link](https://doi.org/10.1073/pnas.1612676113) or [preprint](https://doi.org/10.1101/048769)
 

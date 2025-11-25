@@ -14,11 +14,14 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**03.11.2025** We are hosting [Kimba Duncan](https://sciprofiles.com/profile/4050933), researcher at the [Institute of Physiology and Nutrition, Hungarian University of Agriculture and Life Sciences](https://physiology-nutrition.uni-mate.hu/), Hungary, as an invited speaker for our lab meeting.
 
 ---
 
 ### Past events
+
+---
+
+**03.11.2025** We are hosting [Kimba Duncan](https://sciprofiles.com/profile/4050933), researcher at the [Institute of Physiology and Nutrition, Hungarian University of Agriculture and Life Sciences](https://physiology-nutrition.uni-mate.hu/), Hungary, as an invited speaker for our lab meeting.
 
 ---
 
