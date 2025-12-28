@@ -31,4 +31,4 @@ The starting date of the PhD position is negotiable (ideally in spring 2026). Th
 
 ## Contact and Application
 
-Please submit your application via the [application portal](https://ohws.prospective.ch/public/v1/application/d94d6857-d7e3-4b77-bdad-3f222ce650c9?lang=en) by 9 January 2026. Please reach out to Suman Das (suman.das [at] unibe.ch) in case of questions. Applicants must submit one merged PDF application file that includes a letter of motivation mentioning the desired starting date (<500 words), a CV, names and contact details of two referees, and copies of relevant publications and/or the Master thesis.
+Please submit your application via the [application portal](https://ohws.prospective.ch/public/v1/jobs/06b6e278-763d-41c5-91f0-6aee978b6ae9) by 9 January 2026. Please reach out to Suman Das (suman.das [at] unibe.ch) in case of questions. Applicants must submit one merged PDF application file that includes a letter of motivation mentioning the desired starting date (<500 words), a CV, names and contact details of two referees, and copies of relevant publications and/or the Master thesis.
