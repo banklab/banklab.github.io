@@ -14,7 +14,8 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-**08.12.2025** We are hosting [Isabel Alves](https://scholar.google.com/citations?user=In3JrxoAAAAJ&hl=fr), Assistant Professor at [Strasbourg University, France](https://www.unistra.fr/), as an invited speaker for our lab meeting, with a talk titled "Gene expression, variable dominance and their impact on molecular diversity".
+
+### Past events
 
 ---
 
@@ -22,7 +23,8 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
-### Past events
+**08.12.2025** We are hosting [Isabel Alves](https://scholar.google.com/citations?user=In3JrxoAAAAJ&hl=fr), Assistant Professor at [Strasbourg University, France](https://www.unistra.fr/), as an invited speaker for our lab meeting, with a talk titled "Gene expression, variable dominance and their impact on molecular diversity".
+
 
 ---
 
