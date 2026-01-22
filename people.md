@@ -22,14 +22,13 @@ permalink: /people/
  
 ---
 
-## Susanne Holenstein
+<!-- ## Susanne Holenstein
 
 * Office manager
 * Contact: susanne.holenstein [at] unibe.ch
 
-![Photo of Susanne Holenstein](/assets/img/team/SusanneHolenstein.png)
+![Photo of Susanne Holenstein](/assets/img/team/SusanneHolenstein.png) -->
  
----
 
 ## Adamandia Kapopoulou
 
@@ -90,18 +89,8 @@ permalink: /people/
 
 ---
 
-## Jacob Hugh Riina
-* MSc thesis student
-
----
-
-## Florin Suter
-* BSc thesis student
-
----
-
 ## Emma Ochsner
-* BSc thesis student
+* MSc thesis student
 
 ---
 
@@ -109,6 +98,15 @@ permalink: /people/
 * MSc thesis student
 
 ---
+
+## Timothy Fuqua
+ 
+* Postdoctoral researcher
+* Contact: timothy.fuqua [at] unibe.ch
+* [Google Scholar](https://scholar.google.com/citations?user=oinW8hAAAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0003-4005-3329)
+
+---
+
 
 # Associated team members
 
@@ -134,6 +132,12 @@ permalink: /people/
 (In reverse chronological order of leaving the group)
 
 ## University of Bern Alumni
+
+Kerstin Känzig - BSc thesis student (2025)
+
+Florin Suter - BSc thesis student (2025)
+
+Jacob Hugh Riina - MSc thesis student (2024-2025)
 
 [Catalina Chaparro Pedraza](https://scholar.google.com/citations?user=e27luTMAAAAJ&hl=en&oi=ao) - Postdoc (2024)
 
