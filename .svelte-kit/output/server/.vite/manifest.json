@@ -1,0 +1,497 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "name": "internal",
+    "src": ".svelte-kit/generated/server/internal.js",
+    "isEntry": true,
+    "imports": [
+      "_internal.js",
+      "_environment.js"
+    ]
+  },
+  "_ContentCard.js": {
+    "file": "chunks/ContentCard.js",
+    "name": "ContentCard",
+    "imports": [
+      "_index2.js"
+    ]
+  },
+  "_NewsCard.js": {
+    "file": "chunks/NewsCard.js",
+    "name": "NewsCard",
+    "imports": [
+      "_index2.js",
+      "_context.js"
+    ]
+  },
+  "_TestimonialCard.js": {
+    "file": "chunks/TestimonialCard.js",
+    "name": "TestimonialCard",
+    "imports": [
+      "_index2.js",
+      "_context.js"
+    ]
+  },
+  "_context.js": {
+    "file": "chunks/context.js",
+    "name": "context"
+  },
+  "_environment.js": {
+    "file": "chunks/environment.js",
+    "name": "environment"
+  },
+  "_exports.js": {
+    "file": "chunks/exports.js",
+    "name": "exports"
+  },
+  "_false.js": {
+    "file": "chunks/false.js",
+    "name": "false"
+  },
+  "_html.js": {
+    "file": "chunks/html.js",
+    "name": "html"
+  },
+  "_index.js": {
+    "file": "chunks/index.js",
+    "name": "index",
+    "imports": [
+      "_context.js"
+    ]
+  },
+  "_index2.js": {
+    "file": "chunks/index2.js",
+    "name": "index",
+    "imports": [
+      "_context.js",
+      "_false.js"
+    ]
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "name": "internal",
+    "imports": [
+      "_index2.js",
+      "_context.js",
+      "_environment.js"
+    ]
+  },
+  "_markdown.js": {
+    "file": "chunks/markdown.js",
+    "name": "markdown",
+    "dynamicImports": [
+      "src/lib/content/about.md?raw",
+      "src/lib/content/about_backup.md?raw",
+      "src/lib/content/archive.md?raw",
+      "src/lib/content/contact.md?raw",
+      "src/lib/content/footer.md?raw",
+      "src/lib/content/header.md?raw",
+      "src/lib/content/home.md?raw",
+      "src/lib/content/news.md?raw",
+      "src/lib/content/people.md?raw",
+      "src/lib/content/positions.md?raw",
+      "src/lib/content/publications.md?raw",
+      "src/lib/content/research.md?raw",
+      "src/lib/content/resources.md?raw",
+      "src/lib/content/testimonials.md?raw"
+    ]
+  },
+  "_shared.js": {
+    "file": "chunks/shared.js",
+    "name": "shared",
+    "imports": [
+      "_utils.js"
+    ]
+  },
+  "_state.svelte.js": {
+    "file": "chunks/state.svelte.js",
+    "name": "state.svelte",
+    "imports": [
+      "_context.js"
+    ]
+  },
+  "_utils.js": {
+    "file": "chunks/utils.js",
+    "name": "utils"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/app/server/remote/index.js": {
+    "file": "remote-entry.js",
+    "name": "remote-entry",
+    "src": "node_modules/@sveltejs/kit/src/runtime/app/server/remote/index.js",
+    "isEntry": true,
+    "imports": [
+      "_shared.js",
+      "_false.js",
+      "_environment.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/svelte-5/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "name": "entries/fallbacks/error.svelte",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/svelte-5/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_context.js",
+      "_state.svelte.js",
+      "_exports.js",
+      "_utils.js",
+      "_index.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "name": "index",
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js",
+    "isEntry": true,
+    "imports": [
+      "_false.js",
+      "_environment.js",
+      "_shared.js",
+      "_exports.js",
+      "_utils.js",
+      "_index.js",
+      "_internal.js"
+    ]
+  },
+  "src/lib/content/about.md?raw": {
+    "file": "chunks/about.js",
+    "name": "about",
+    "src": "src/lib/content/about.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/lib/content/about_backup.md?raw": {
+    "file": "chunks/about_backup.js",
+    "name": "about_backup",
+    "src": "src/lib/content/about_backup.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/lib/content/archive.md?raw": {
+    "file": "chunks/archive.js",
+    "name": "archive",
+    "src": "src/lib/content/archive.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/lib/content/contact.md?raw": {
+    "file": "chunks/contact.js",
+    "name": "contact",
+    "src": "src/lib/content/contact.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/lib/content/footer.md?raw": {
+    "file": "chunks/footer.js",
+    "name": "footer",
+    "src": "src/lib/content/footer.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/lib/content/header.md?raw": {
+    "file": "chunks/header.js",
+    "name": "header",
+    "src": "src/lib/content/header.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/lib/content/home.md?raw": {
+    "file": "chunks/home.js",
+    "name": "home",
+    "src": "src/lib/content/home.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/lib/content/news.md?raw": {
+    "file": "chunks/news.js",
+    "name": "news",
+    "src": "src/lib/content/news.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/lib/content/people.md?raw": {
+    "file": "chunks/people.js",
+    "name": "people",
+    "src": "src/lib/content/people.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/lib/content/positions.md?raw": {
+    "file": "chunks/positions.js",
+    "name": "positions",
+    "src": "src/lib/content/positions.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/lib/content/publications.md?raw": {
+    "file": "chunks/publications.js",
+    "name": "publications",
+    "src": "src/lib/content/publications.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/lib/content/research.md?raw": {
+    "file": "chunks/research.js",
+    "name": "research",
+    "src": "src/lib/content/research.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/lib/content/resources.md?raw": {
+    "file": "chunks/resources.js",
+    "name": "resources",
+    "src": "src/lib/content/resources.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/lib/content/testimonials.md?raw": {
+    "file": "chunks/testimonials.js",
+    "name": "testimonials",
+    "src": "src/lib/content/testimonials.md?raw",
+    "isDynamicEntry": true
+  },
+  "src/routes/+layout.server.ts": {
+    "file": "entries/pages/_layout.server.ts.js",
+    "name": "entries/pages/_layout.server.ts",
+    "src": "src/routes/+layout.server.ts",
+    "isEntry": true,
+    "imports": [
+      "_markdown.js"
+    ]
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "name": "entries/pages/_layout.svelte",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_context.js",
+      "_exports.js",
+      "_utils.js",
+      "_state.svelte.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout.DOcOKums.css"
+    ]
+  },
+  "src/routes/+layout.ts": {
+    "file": "entries/pages/_layout.ts.js",
+    "name": "entries/pages/_layout.ts",
+    "src": "src/routes/+layout.ts",
+    "isEntry": true
+  },
+  "src/routes/+page.server.ts": {
+    "file": "entries/pages/_page.server.ts.js",
+    "name": "entries/pages/_page.server.ts",
+    "src": "src/routes/+page.server.ts",
+    "isEntry": true
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "name": "entries/pages/_page.svelte",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_context.js",
+      "_NewsCard.js",
+      "_TestimonialCard.js"
+    ]
+  },
+  "src/routes/about/+page.server.ts": {
+    "file": "entries/pages/about/_page.server.ts.js",
+    "name": "entries/pages/about/_page.server.ts",
+    "src": "src/routes/about/+page.server.ts",
+    "isEntry": true,
+    "imports": [
+      "_markdown.js"
+    ]
+  },
+  "src/routes/about/+page.svelte": {
+    "file": "entries/pages/about/_page.svelte.js",
+    "name": "entries/pages/about/_page.svelte",
+    "src": "src/routes/about/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js"
+    ]
+  },
+  "src/routes/archive/+page.server.ts": {
+    "file": "entries/pages/archive/_page.server.ts.js",
+    "name": "entries/pages/archive/_page.server.ts",
+    "src": "src/routes/archive/+page.server.ts",
+    "isEntry": true,
+    "imports": [
+      "_markdown.js"
+    ]
+  },
+  "src/routes/archive/+page.svelte": {
+    "file": "entries/pages/archive/_page.svelte.js",
+    "name": "entries/pages/archive/_page.svelte",
+    "src": "src/routes/archive/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_ContentCard.js",
+      "_html.js"
+    ]
+  },
+  "src/routes/contact/+page.server.ts": {
+    "file": "entries/pages/contact/_page.server.ts.js",
+    "name": "entries/pages/contact/_page.server.ts",
+    "src": "src/routes/contact/+page.server.ts",
+    "isEntry": true,
+    "imports": [
+      "_markdown.js"
+    ]
+  },
+  "src/routes/contact/+page.svelte": {
+    "file": "entries/pages/contact/_page.svelte.js",
+    "name": "entries/pages/contact/_page.svelte",
+    "src": "src/routes/contact/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_ContentCard.js",
+      "_html.js"
+    ]
+  },
+  "src/routes/news/+page.server.ts": {
+    "file": "entries/pages/news/_page.server.ts.js",
+    "name": "entries/pages/news/_page.server.ts",
+    "src": "src/routes/news/+page.server.ts",
+    "isEntry": true
+  },
+  "src/routes/news/+page.svelte": {
+    "file": "entries/pages/news/_page.svelte.js",
+    "name": "entries/pages/news/_page.svelte",
+    "src": "src/routes/news/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_ContentCard.js",
+      "_NewsCard.js",
+      "_context.js",
+      "_html.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.C4MsvddT.css"
+    ]
+  },
+  "src/routes/people/+page.server.ts": {
+    "file": "entries/pages/people/_page.server.ts.js",
+    "name": "entries/pages/people/_page.server.ts",
+    "src": "src/routes/people/+page.server.ts",
+    "isEntry": true,
+    "imports": [
+      "_markdown.js"
+    ]
+  },
+  "src/routes/people/+page.svelte": {
+    "file": "entries/pages/people/_page.svelte.js",
+    "name": "entries/pages/people/_page.svelte",
+    "src": "src/routes/people/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_ContentCard.js",
+      "_context.js",
+      "_html.js"
+    ]
+  },
+  "src/routes/positions/+page.server.ts": {
+    "file": "entries/pages/positions/_page.server.ts.js",
+    "name": "entries/pages/positions/_page.server.ts",
+    "src": "src/routes/positions/+page.server.ts",
+    "isEntry": true,
+    "imports": [
+      "_markdown.js"
+    ]
+  },
+  "src/routes/positions/+page.svelte": {
+    "file": "entries/pages/positions/_page.svelte.js",
+    "name": "entries/pages/positions/_page.svelte",
+    "src": "src/routes/positions/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_ContentCard.js",
+      "_html.js"
+    ]
+  },
+  "src/routes/privacy/+page.svelte": {
+    "file": "entries/pages/privacy/_page.svelte.js",
+    "name": "entries/pages/privacy/_page.svelte",
+    "src": "src/routes/privacy/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js"
+    ]
+  },
+  "src/routes/publications/+page.server.ts": {
+    "file": "entries/pages/publications/_page.server.ts.js",
+    "name": "entries/pages/publications/_page.server.ts",
+    "src": "src/routes/publications/+page.server.ts",
+    "isEntry": true,
+    "imports": [
+      "_markdown.js"
+    ]
+  },
+  "src/routes/publications/+page.svelte": {
+    "file": "entries/pages/publications/_page.svelte.js",
+    "name": "entries/pages/publications/_page.svelte",
+    "src": "src/routes/publications/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_ContentCard.js",
+      "_html.js"
+    ]
+  },
+  "src/routes/research/+page.server.ts": {
+    "file": "entries/pages/research/_page.server.ts.js",
+    "name": "entries/pages/research/_page.server.ts",
+    "src": "src/routes/research/+page.server.ts",
+    "isEntry": true,
+    "imports": [
+      "_markdown.js"
+    ]
+  },
+  "src/routes/research/+page.svelte": {
+    "file": "entries/pages/research/_page.svelte.js",
+    "name": "entries/pages/research/_page.svelte",
+    "src": "src/routes/research/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_ContentCard.js",
+      "_html.js"
+    ]
+  },
+  "src/routes/resources/+page.server.ts": {
+    "file": "entries/pages/resources/_page.server.ts.js",
+    "name": "entries/pages/resources/_page.server.ts",
+    "src": "src/routes/resources/+page.server.ts",
+    "isEntry": true,
+    "imports": [
+      "_markdown.js"
+    ]
+  },
+  "src/routes/resources/+page.svelte": {
+    "file": "entries/pages/resources/_page.svelte.js",
+    "name": "entries/pages/resources/_page.svelte",
+    "src": "src/routes/resources/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_ContentCard.js",
+      "_html.js"
+    ]
+  },
+  "src/routes/testimonials/+page.server.ts": {
+    "file": "entries/pages/testimonials/_page.server.ts.js",
+    "name": "entries/pages/testimonials/_page.server.ts",
+    "src": "src/routes/testimonials/+page.server.ts",
+    "isEntry": true
+  },
+  "src/routes/testimonials/+page.svelte": {
+    "file": "entries/pages/testimonials/_page.svelte.js",
+    "name": "entries/pages/testimonials/_page.svelte",
+    "src": "src/routes/testimonials/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_ContentCard.js",
+      "_TestimonialCard.js",
+      "_context.js"
+    ]
+  }
+}
