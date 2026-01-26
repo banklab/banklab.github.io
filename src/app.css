@@ -1,0 +1,145 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  /* Typography */
+  --font-sans: InterVariable, system-ui, sans-serif;
+  --font-heading: Georgia, serif; /* Changed to Serif */
+  --font-mono: monospace;
+  
+  /* Border Radius */
+  --radius: 0.5rem;
+  
+  /* Color Palette - Custom from Mockup */
+  --color-primary-dark: #122822; /* Dark Green header/footer */
+  --color-primary-light: #EEF2E6; /* Global background */
+  --color-accent-green: #DDEECB; /* Cards */
+  --color-text-main: #1A1A1A;
+  
+  /* Overriding standard vars to match theme */
+  --background: var(--color-primary-light);
+  --primary: var(--color-primary-dark);
+  --primary-content: #ffffff;
+  
+  --font-serif: "Playfair Display", Georgia, serif; /* Looking at the font in mockup */
+  --font-sans: "Inter", system-ui, sans-serif;
+  
+  /* Typography */
+  --font-heading: var(--font-serif); 
+
+  
+  /* Color Palette - Secondary (Teal) - Keeping original for now */
+  --secondary: #0a9396;
+  --secondary-50: #ecfeff;
+  --secondary-100: #cffafe;
+  --secondary-200: #a5f3fc;
+  --secondary-300: #67e8f9;
+  --secondary-400: #22d3ee;
+  --secondary-500: #06b6d4;
+  --secondary-600: #0891b2;
+  --secondary-700: #0e7490;
+  --secondary-800: #155e75;
+  --secondary-900: #164e63;
+  --secondary-950: #083344;
+  
+  /* Color Palette - Accent (Gold) */
+  --accent: #e9c46a;
+  --accent-50: #fefce8;
+  --accent-100: #fef9c3;
+  --accent-200: #fef08a;
+  --accent-300: #fde047;
+  --accent-400: #facc15;
+  --accent-500: #eab308;
+  --accent-600: #ca8a04;
+  --accent-700: #a16207;
+  --accent-800: #854d0e;
+  --accent-900: #713f12;
+  --accent-950: #422006;
+
+  /* Dark Accent Color (for dark buttons, footer, etc.) */
+  --dark-accent: #3A3A3A;
+  --dark-accent-hover: #282828;
+  --dark-accent-content: #ffffff; /* White text for dark buttons */
+  
+  /* Background Colors */
+  --background: #f9f9f9; /* Changed to off-white */
+  --background-dark: #141414; /* Keeping dark mode bg for now */
+  
+  /* Content/Text Colors */
+  --content: #212121; /* Changed to darker grey */
+  --content-secondary: #555555; /* Adjusted secondary */
+  --content-disabled: #aaaaaa; /* Adjusted disabled */
+  --content-dark: #f3f4f6;
+  --content-dark-secondary: #9ca3af; /* Keeping dark mode content for now */
+  
+  /* Border Colors */
+  --border: #e0e0e0; /* Changed to lighter grey */
+  --border-dark: #3a3a3a; /* Adjusted dark border */
+  
+  /* Feedback Colors */
+  --success: #10b981;
+  --success-content: #064e3b;
+  --warning: #f59e0b;
+  --warning-content: #78350f;
+  --destructive: #ef4444;
+  --destructive-content: #7f1d1d;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+  
+  /* Container Widths */
+  --container-sm: 640px;
+  --container-md: 768px;
+  --container-lg: 1024px;
+  --container-xl: 1280px;
+  --container-2xl: 1400px;
+}
+
+/* Base styles */
+/* Tailwind layers (base, components, utilities) are typically injected by the Vite plugin via @import 'tailwindcss' */
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+  
+  body {
+    @apply bg-[var(--background)] text-[var(--content)] font-sans; /* Updated bg and text */
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading); /* Apply CSS variable directly */
+    /* @apply font-bold; */ /* Removed this, as font-bold should be applied by Tailwind directly */
+  }
+  
+
+  
+  /* Dark mode - will be controlled by a toggle */
+  .dark {
+    @apply bg-[var(--background-dark)] text-[var(--content-dark)];
+  }
+}
+
+/* Component styles */
+@layer components {
+  /* Base Button Style */
+  .btn {
+    @apply inline-flex items-center justify-center rounded-full px-6 py-2 text-sm font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none cursor-pointer;
+    border-radius: 9999px; 
+  }
+
+  /* Primary Button (Green buttons in mockup) */
+  .btn-primary {
+    @apply bg-[var(--color-accent-green)] text-[var(--color-text-main)] hover:bg-[#cde4b0] focus:ring-[var(--color-primary-dark)];
+    border: none;
+  }
+  
+  /* Outline Button (e.g. About Us) */
+  .btn-outline {
+     @apply border border-[var(--color-text-main)] bg-transparent text-[var(--color-text-main)] hover:bg-black/5;
+  }
+}
