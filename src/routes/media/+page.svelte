@@ -4,11 +4,9 @@
 </script>
 
 <svelte:head>
-  <title>Resources | Bank Lab</title>
+  <title>Media | Bank Lab</title>
 </svelte:head>
 
 <ContentCard>
   {@html data.post.html}
 </ContentCard>
-
-

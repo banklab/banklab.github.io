@@ -5,7 +5,7 @@ team:
   - name: Claudia Bank
     role: "Principal investigator, Head of Division"
     contact: "claudia.bank@unibe.ch"
-    image: /assets/img/team/Claudia_24.jpg
+    image: /banlklab-poc/assets/img/team/Claudia_24.jpg
     links: "[Google Scholar](https://scholar.google.ch/citations?user=VBOPD0UAAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bank+Claudia%5BAuthor%5D&sort=date), [ORCID](https://orcid.org/0000-0003-4730-758X), [CV](https://www.dropbox.com/scl/fi/bvjed96v5lwoetj8g45mc/cv_bank.pdf?rlkey=sxvvxo6w323udt8e827gio0v1&dl=0)"
   - name: Susanne Holenstein
     role: "Office manager"
@@ -63,7 +63,7 @@ associated:
     links: "[Google Scholar](https://scholar.google.com/citations?user=V5rDLCkAAAAJ&hl=en)"
   - name: Dhanya Bharath
     role: "Associated PhD student (from [Catalina Chaparro Pedraza](https://scholar.google.com/citations?user=e27luTMAAAAJ&hl=en&oi=ao)'s Group at EAWAG)"
-    contact: "dhanya.bharath [at] students.unibe.ch"
+    contact: "dhanya.bharath@students.unibe.ch"
     image: /assets/img/team/default_person.jpg
     links: "[Google Scholar](https://scholar.google.com/citations?user=IKh6U6MAAAAJ&hl=en&oi=ao)"
 

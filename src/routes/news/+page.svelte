@@ -22,7 +22,7 @@
 
 
   let { data } = $props();
-  let meta = $derived(data.post.metadata);
+  let meta = $derived(data.post);
 
   // Helper to parse markdown inline safely
   function parseMd(text: string | undefined) {
@@ -30,10 +30,10 @@
     return marked.parseInline(text);
   }
 
-  // Helper to format date for display (e.g. "Dec 08, 2025")
+  // Helper to format date for display (e.g. "08.12.2025")
   function formatDate(dateString: string) {
     const date = new Date(dateString);
-    return date.toLocaleDateString('en-US', { month: 'short', day: '2-digit', year: 'numeric' });
+    return date.toLocaleDateString('de-CH', { day: '2-digit', month: '2-digit', year: 'numeric' });
   }
 
   // Sort items by date (newest first)
@@ -64,11 +64,8 @@
       <h2 class="font-header text-3xl text-(--color-primary-dark) mb-8 border-b border-gray-200 pb-2">Upcoming events</h2>
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
         {#each upcoming as item}
-          <NewsCard date={formatDate(item.date)} title={item.title} image={item.image}>
+          <NewsCard date={formatDate(item.date)} title={item.title} image={item.image} onClick={(e) => openModal(e, item)}>
             {@html parseMd(item.content)}
-            <button class="block mt-4 text-sm font-bold text-[var(--color-primary-dark)] hover:underline cursor-pointer" onclick={(e) => openModal(e, item)}>
-              Read more &rarr;
-            </button>
           </NewsCard>
         {/each}
       </div>
@@ -80,11 +77,8 @@
     <h2 class="font-header text-3xl text-(--color-primary-dark) mb-8 border-b border-gray-200 pb-2">Past events</h2>
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
       {#each past as item}
-        <NewsCard date={formatDate(item.date)} title={item.title} image={item.image}>
+        <NewsCard date={formatDate(item.date)} title={item.title} image={item.image} onClick={(e) => openModal(e, item)}>
           {@html parseMd(item.content)}
-          <button class="block mt-4 text-sm font-bold text-[var(--color-primary-dark)] hover:underline cursor-pointer" onclick={(e) => openModal(e, item)}>
-            Read more &rarr;
-          </button>
         </NewsCard>
       {/each}
     </div>

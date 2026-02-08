@@ -10,5 +10,8 @@ items:
   - author: "Lab Member A"
     quote: "The moral of Snow White is never eat apples."
   - author: "Rea"
-    quote: "Rearearea"
+    quote: "Reareareab"
+  - author: "Aristotle"
+    quote: "The greatest crimes are not those committed for the sake of necessity but those committed for the sake of superfluity."
+
 ---

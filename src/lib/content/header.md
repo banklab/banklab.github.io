@@ -13,10 +13,4 @@ nav_links:
     href: "/research"
   - text: "PUBLICATIONS"
     href: "/publications"
-  - text: "RESOURCES"
-    href: "/resources"
-  - text: "POSITIONS"
-    href: "/positions"
-  - text: "Testimonials"
-    href: "/testimonials"
 ---

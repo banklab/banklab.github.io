@@ -143,3 +143,11 @@
      @apply border border-[var(--color-text-main)] bg-transparent text-[var(--color-text-main)] hover:bg-black/5;
   }
 }
+.card-zoom {
+  transition: transform 0.3s ease-in-out;
+}
+
+.card-zoom:hover {
+  transform: scale(1.05);
+}
+

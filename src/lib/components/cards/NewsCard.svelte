@@ -1,8 +1,17 @@
 <script lang="ts">
   import { base } from '$app/paths';
-  export let date: string;
-  export let title: string | undefined = undefined;
-  export let image: string | undefined = undefined;
+
+  let { 
+    date, 
+    title = undefined, 
+    image = undefined, 
+    onClick = undefined 
+  }: {
+    date: string;
+    title?: string;
+    image?: string;
+    onClick?: (e: MouseEvent) => void;
+  } = $props();
 </script>
 
 <div class="bg-white rounded-lg border border-gray-200 overflow-hidden h-full flex flex-col hover:shadow-lg transition-shadow">
@@ -21,12 +30,12 @@
       <slot />
     </div>
     <div class="text-right mt-auto">
-      <a href={base + "/news"} class="text-sm font-bold text-black hover:underline inline-flex items-center">
-        Read More 
+      <button onclick={onClick} class="text-sm font-bold text-black hover:underline inline-flex items-center bg-transparent border-none p-0 cursor-pointer">
+        Read more 
         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
           <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
         </svg>
-      </a>
+      </button>
     </div>
   </div>
 </div>

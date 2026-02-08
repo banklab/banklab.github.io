@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: About us | Theoretical Ecology and Evolution
