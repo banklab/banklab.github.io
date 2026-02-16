@@ -9,8 +9,8 @@ items:
     quote: "The sad truth is the truth is sad."
   - author: "Lab Member A"
     quote: "The moral of Snow White is never eat apples."
-  - author: "Rea"
-    quote: "Reareareab"
+  - author: "Rüya Eylül Arslan"
+    quote: "In a theoretical fitness landscape, all peaks were equal, but some peaks were more equal than others."
   - author: "Aristotle"
     quote: "The greatest crimes are not those committed for the sake of necessity but those committed for the sake of superfluity."
 
