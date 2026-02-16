@@ -2,12 +2,12 @@
 title: News
 items:
   # Upcoming Events
-  - date: 2026-12-08
+  - date: 2025-12-08
     title: "Lab Meeting: Isabel Alves"
     image: /assets/img/news/default-meeting.jpg
     content: "We are hosting [Isabel Alves](https://scholar.google.com/citations?user=In3JrxoAAAAJ&hl=fr), Assistant Professor at [Strasbourg University, France](https://www.unistra.fr/), as an invited speaker for our lab meeting, with a talk titled 'Gene expression, variable dominance and their impact on molecular diversity'."
   
-  - date: 2026-12-09
+  - date: 2025-12-09
     title: "IEE Seminar: Pengjuan Zu"
     image: /assets/img/news/default-seminar.jpg
     content: "We are hosting [Pengjuan Zu](https://scholar.google.com/citations?user=lROU4a8AAAAJ&hl=en), Assistant Professor of Information Ecology at the [Institute of Biology, University of Neuchatel](https://www.unine.ch/biologie/recherche/), for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled 'Plant-insect chemical communication in ecological communities: an information theory perspective'."
