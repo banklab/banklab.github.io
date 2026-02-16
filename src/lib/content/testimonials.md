@@ -1,8 +1,8 @@
 ---
 title: What our lab members say
 items:
-  - author: "Lab Member X"
-    quote: "Reading is one form of escape. Running for your life is another."
+  - author: "Timothy Fuqua"
+    quote: "Evolution is the strongest creative force in the universe - and lots of procrastination."
   - author: "Lab Member Y"
     quote: "I suppose I'll have to add the force of gravity to my list of enemies."
   - author: "Lab Member Z"
