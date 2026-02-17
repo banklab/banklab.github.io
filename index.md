@@ -14,6 +14,8 @@ Welcome to the web page of the Division Theoretical Ecology and Evolution at the
 
 ---
 
+**23.02.2026** We are hosting [Itzel Lopez Montoya](https://www.terr.iee.unibe.ch/about_us/team/personen_teamlist/lopez_montoya_itzel/index_eng.html), PhD candidate at [University of Bern](http://www.thee.iee.unibe.ch/index_eng.html), as an invited speaker for our lab meeting, with a talk titled "Climate extremes strengthen taxonomic-functional coupling during microbial soil community recovery".
+
 
 ### Past events
 
