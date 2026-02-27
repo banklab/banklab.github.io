@@ -107,6 +107,11 @@ permalink: /people/
 
 ---
 
+## Amo Ikiror
+* MSc thesis student
+* Contact: amo.ikiror [at] students.unibe.ch
+
+---
 
 # Associated team members
 
