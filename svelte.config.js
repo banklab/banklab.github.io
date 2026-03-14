@@ -31,7 +31,7 @@ const config = {
     paths: {
       // ⚠️ This must match the GitHub repository name exactly.
       // Current repo: github.com/<user>/banklab-mvp → base: '/banklab.github.io'
-      base: '/banklab.github.io'
+      base: ''
     },
     prerender: {
       entries: ['*'], // auto-discover and render all routes
