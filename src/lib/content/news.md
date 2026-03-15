@@ -5,13 +5,13 @@ items:
 .
 
   # Past Events
-
-      - date: 2026-02-23    
-    title: "Lab Meeting: Isabel Alves"
+  
+  - date: 2026-02-23    
+    title: "Lab Meeting: Itzel Lopez Montoya"
     image: /assets/img/news/default-meeting.jpg
     content: "We are hosting [Itzel Lopez Montoya](https://www.terr.iee.unibe.ch/about_us/team/personen_teamlist/lopez_montoya_itzel/index_eng.html), PhD candidate at [University of Bern](http://www.thee.iee.unibe.ch/index_eng.html), as an invited speaker for our lab meeting, with a talk titled 'Climate extremes strengthen taxonomic-functional coupling during microbial soil community recovery'."
 
-    - date: 2025-12-08
+  - date: 2025-12-08
     title: "Lab Meeting: Isabel Alves"
     image: /assets/img/news/default-meeting.jpg
     content: "We are hosting [Isabel Alves](https://scholar.google.com/citations?user=In3JrxoAAAAJ&hl=fr), Assistant Professor at [Strasbourg University, France](https://www.unistra.fr/), as an invited speaker for our lab meeting, with a talk titled 'Gene expression, variable dominance and their impact on molecular diversity'."
