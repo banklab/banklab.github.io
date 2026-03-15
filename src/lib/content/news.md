@@ -2,7 +2,7 @@
 title: News
 items:
   # Upcoming Events
-
+.
 
   # Past Events
 
