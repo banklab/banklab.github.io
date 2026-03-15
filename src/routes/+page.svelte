@@ -125,7 +125,7 @@ function closeModal() {
     <div class="flex justify-between items-end mb-8">
       <div>
         <h2 class="text-3xl font-serif font-bold text-black mb-2">Lab News Feed</h2>
-        <p class="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eium</p>
+        <p class="text-gray-600">Here you can follow the latest lab news.</p>
       </div>
       <a href={base + "/news"} class="hidden md:inline-block font-medium text-black hover:underline group">
         View all news <span class="group-hover:translate-x-1 inline-block transition-transform">→</span>
