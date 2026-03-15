@@ -1,6 +1,7 @@
 ---
 title: News
 items:
+// # Upcoming Events
 
   # Past Events
   
@@ -9,15 +10,21 @@ items:
     image: /assets/img/news/default-meeting.jpg
     content: "We are hosting [Itzel Lopez Montoya](https://www.terr.iee.unibe.ch/about_us/team/personen_teamlist/lopez_montoya_itzel/index_eng.html), PhD candidate at [University of Bern](http://www.thee.iee.unibe.ch/index_eng.html), as an invited speaker for our lab meeting, with a talk titled 'Climate extremes strengthen taxonomic-functional coupling during microbial soil community recovery'."
 
+ - date: 2026-02-02
+   title: "Lab Meeting: Prachitha Nagendra"
+   image: /assets/img/news/default-meeting.jpg
+   content: "We are hosting [Prachitha Nagendra](https://orcid.org/0000-0003-4931-2841), PhD student at [Indian Institute of Technology Bombay, India](https://sites.google.com/view/esmlab/home), as an invited speaker for our lab meeting, with a talk titled 'Effect of gene flow on adaptation and reproductive isolation in *Saccharomyces cerevisiae*'."
+   
+  - date: 2025-12-09
+    title: "IEE Seminar: Pengjuan Zu"
+    image: /assets/img/news/default-seminar.jpg
+    content: "We are hosting [Pengjuan Zu](https://scholar.google.com/citations?user=lROU4a8AAAAJ&hl=en), Assistant Professor of Information Ecology at the [Institute of Biology, University of Neuchatel](https://www.unine.ch/biologie/recherche/), for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled 'Plant-insect chemical communication in ecological communities: an information theory perspective'."
+
   - date: 2025-12-08
     title: "Lab Meeting: Isabel Alves"
     image: /assets/img/news/default-meeting.jpg
     content: "We are hosting [Isabel Alves](https://scholar.google.com/citations?user=In3JrxoAAAAJ&hl=fr), Assistant Professor at [Strasbourg University, France](https://www.unistra.fr/), as an invited speaker for our lab meeting, with a talk titled 'Gene expression, variable dominance and their impact on molecular diversity'."
   
-  - date: 2025-12-09
-    title: "IEE Seminar: Pengjuan Zu"
-    image: /assets/img/news/default-seminar.jpg
-    content: "We are hosting [Pengjuan Zu](https://scholar.google.com/citations?user=lROU4a8AAAAJ&hl=en), Assistant Professor of Information Ecology at the [Institute of Biology, University of Neuchatel](https://www.unine.ch/biologie/recherche/), for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled 'Plant-insect chemical communication in ecological communities: an information theory perspective'."
     
   - date: 2025-11-10
     title: "Lab Meeting: Kimba Duncan"
