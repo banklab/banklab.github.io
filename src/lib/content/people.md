@@ -1,6 +1,6 @@
 ---
 title: People
-main_image: /assets/img/team/team_25.jpg
+main_image: /assets/img/team/team_26.jpg
 team:
   - name: Claudia Bank
     role: "Principal investigator, Head of Division"
@@ -20,7 +20,7 @@ team:
   - name: Loraine Hablützel
     role: "PhD student"
     contact: "loraine.habluetzel@unibe.ch"
-    image: /assets/img/team/Loraine_24.jpg
+    image: /assets/img/team/Loraine_26.jpg
     links: "[Google Scholar](https://scholar.google.com/citations?user=Ex9vNuoAAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0009-0008-2797-8718)"
   - name: Russell Jasper
     role: "PhD student"
@@ -30,7 +30,7 @@ team:
   - name: Julio Ayala
     role: "PhD student"
     contact: "julio.ayalalopez@unibe.ch"
-    image: /assets/img/team/Julio_24.jpg
+    image: /assets/img/team/Julio_26.jpg
     links: "[Google Scholar](https://scholar.google.com/citations?user=5_mIe-8AAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0003-4687-5825)"
   - name: Suman Das
     role: "Postdoctoral researcher"
@@ -42,27 +42,21 @@ team:
     contact: "ianis.vilela@students.unibe.ch"
     image: /assets/img/team/Ianis_24.jpg
     links: .
-  - name: Jacob Hugh Riina
-    role: "MSc thesis student"
-    image: /assets/img/team/default_person.jpg
-  - name: Florin Suter
-    role: "BSc thesis student"
-    image: /assets/img/team/default_person.jpg
   - name: Emma Ochsner
     role: "BSc thesis student"
-    image: /assets/img/team/default_person.jpg
+    image: /assets/img/team/Emma_26.jpg
   - name: Rüya Arslan
     role: "MSc thesis student"
-    image: /assets/img/team/default_person.jpg
+    image: /assets/img/team/Rüya_26.jpg
   - name: Timothy Fuqua
     role: "Postdoctoral researcher"
     contact: "timothy.fuqua [at] unibe.ch"
-    image: /assets/img/team/default_person.jpg
+    image: /assets/img/team/Tim_26.jpg
     links: "[Google Scholar](https://scholar.google.com/citations?user=oinW8hAAAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0003-4005-3329)"
   - name: Amo Ikiror
     role: "MSc thesis student"
     contact: "amo.ikiror [at] students.unibe.ch"
-    image: /assets/img/team/default_person.jpg
+    image: .
     
 
 associated:
@@ -74,12 +68,15 @@ associated:
   - name: Dhanya Bharath
     role: "Associated PhD student (from [Catalina Chaparro Pedraza](https://scholar.google.com/citations?user=e27luTMAAAAJ&hl=en&oi=ao)'s Group at EAWAG)"
     contact: "dhanya.bharath@students.unibe.ch"
-    image: /assets/img/team/default_person.jpg
+    image: /assets/img/team/Dhanya_26.jpg
     links: "[Google Scholar](https://scholar.google.com/citations?user=IKh6U6MAAAAJ&hl=en&oi=ao)"
 
 alumni_groups:
   - title: University of Bern Alumni
     members:
+      - "Kerstin Känzig - BSc thesis student (2025)"
+      - "Florin Suter - BSc thesis student (2025)"
+      - "Jacob Hugh Riina - MSc thesis student (2024-2025)"
       - "[Catalina Chaparro Pedraza](https://scholar.google.com/citations?user=e27luTMAAAAJ&hl=en&oi=ao) - Postdoc (2024)"
       - "[Loïc Marrec](https://scholar.google.com/citations?user=PdhH4i4AAAAJ&hl=en) - Postdoc (2020-2024)"
       - "Sabrina Rasch - BSc student, MSc project student (2021-2022, 2024)"
