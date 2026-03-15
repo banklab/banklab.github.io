@@ -43,7 +43,7 @@ team:
     image: /assets/img/team/Ianis_24.jpg
     links: .
   - name: Emma Ochsner
-    role: "BSc thesis student"
+    role: "MSc thesis student"
     image: /assets/img/team/Emma_26.jpg
   - name: Rüya Arslan
     role: "MSc thesis student"
