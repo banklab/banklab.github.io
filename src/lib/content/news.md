@@ -3,7 +3,7 @@ title: News
 items:
   # Upcoming Events
 .
-
+:
   # Past Events
   
   - date: 2026-02-23    
