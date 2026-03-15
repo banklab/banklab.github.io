@@ -1,7 +1,7 @@
 ---
 title: News
 items:
----
+
 
   # Past Events
   
