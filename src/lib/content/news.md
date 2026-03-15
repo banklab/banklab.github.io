@@ -2,17 +2,25 @@
 title: News
 items:
   # Upcoming Events
-  - date: 2026-12-08
+
+
+  # Past Events
+
+      - date: 2026-02-23    
+    title: "Lab Meeting: Isabel Alves"
+    image: /assets/img/news/default-meeting.jpg
+    content: "We are hosting [Itzel Lopez Montoya](https://www.terr.iee.unibe.ch/about_us/team/personen_teamlist/lopez_montoya_itzel/index_eng.html), PhD candidate at [University of Bern](http://www.thee.iee.unibe.ch/index_eng.html), as an invited speaker for our lab meeting, with a talk titled 'Climate extremes strengthen taxonomic-functional coupling during microbial soil community recovery'."
+
+    - date: 2025-12-08
     title: "Lab Meeting: Isabel Alves"
     image: /assets/img/news/default-meeting.jpg
     content: "We are hosting [Isabel Alves](https://scholar.google.com/citations?user=In3JrxoAAAAJ&hl=fr), Assistant Professor at [Strasbourg University, France](https://www.unistra.fr/), as an invited speaker for our lab meeting, with a talk titled 'Gene expression, variable dominance and their impact on molecular diversity'."
   
-  - date: 2026-12-09
+  - date: 2025-12-09
     title: "IEE Seminar: Pengjuan Zu"
     image: /assets/img/news/default-seminar.jpg
     content: "We are hosting [Pengjuan Zu](https://scholar.google.com/citations?user=lROU4a8AAAAJ&hl=en), Assistant Professor of Information Ecology at the [Institute of Biology, University of Neuchatel](https://www.unine.ch/biologie/recherche/), for an [IEE seminar](https://www.iee.unibe.ch/studies/lecture_series_in_ecology_and_evolution/index_eng.html) titled 'Plant-insect chemical communication in ecological communities: an information theory perspective'."
-
-  # Past Events
+    
   - date: 2025-11-10
     title: "Lab Meeting: Kimba Duncan"
     image: /assets/img/news/default-meeting.jpg
