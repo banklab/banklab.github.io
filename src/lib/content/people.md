@@ -7,11 +7,6 @@ team:
     contact: "claudia.bank@unibe.ch"
     image: /assets/img/team/Claudia_24.jpg
     links: "[Google Scholar](https://scholar.google.ch/citations?user=VBOPD0UAAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bank+Claudia%5BAuthor%5D&sort=date), [ORCID](https://orcid.org/0000-0003-4730-758X), [CV](https://www.dropbox.com/scl/fi/bvjed96v5lwoetj8g45mc/cv_bank.pdf?rlkey=sxvvxo6w323udt8e827gio0v1&dl=0)"
-  - name: Susanne Holenstein
-    role: "Office manager"
-    contact: "susanne.holenstein@unibe.ch"
-    image: /assets/img/team/SusanneHolenstein.png
-    links: .
   - name: Adamandia Kapopoulou
     role: "Senior bioinformatician"
     contact: "adamantia.kapopoulou@unibe.ch"
@@ -56,7 +51,7 @@ team:
   - name: Amo Ikiror
     role: "MSc thesis student"
     contact: "amo.ikiror [at] students.unibe.ch"
-    image: .
+    image: /assets/img/team/Amo_26.jpg
     
 
 associated:
