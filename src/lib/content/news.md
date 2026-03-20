@@ -5,7 +5,7 @@ items:
 
   # Upcoming Events
 
-  - date: 2026-03-16    
+  - date: 2026-03-26    
     title: "Extracurricular seminar: Tim Barraclough"
     image: /assets/img/news/default-seminar.jpg
     content: "We are hosting [Tim Barraclough](https://sites.google.com/view/barralab/home), for an extracurricular seminar at 15:15 in C159."
