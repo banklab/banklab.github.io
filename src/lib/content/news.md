@@ -13,7 +13,7 @@ items:
   - date: 2026-03-23    
     title: "Lab Meeting: Isabela do O"
     image: /assets/img/news/default-meeting.jpg
-    content: "We are hosting [Isabela do O](https://edpub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1249977) for our lab meeting with a talk titled "Identifying local adaptation in complex population structures"."
+    content: "We are hosting [Isabela do O](https://edpub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1249977) for our lab meeting with a talk titled 'Identifying local adaptation in complex population structures'."
 
 
   # Past Events
