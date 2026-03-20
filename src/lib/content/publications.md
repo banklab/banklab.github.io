@@ -14,6 +14,9 @@ This list shows publications of lab members during their time in the lab. For ad
 
 <div class="layout-publications" markdown="1">
 
+## 2026
+
+R.M. Schmid, E. Studer, <u>A. Kapopoulou</u>, B. Yilmaz and J. Becker. **Long-term persistence of clonal resistant and multidrug resistant E. coli despite absence of antimicrobial use in weaned dairy heifer rearing systems in Switzerland**. Veterinary Microbiology, doi: 10.1016/j.vetmic.2026.110884. [link](https://www.sciencedirect.com/science/article/abs/pii/S0378113526000155)
 
 ## 2025
 
