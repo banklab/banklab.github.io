@@ -4,6 +4,11 @@ items:
 
 
   # Past Events
+
+  - date: 2026-03-16    
+    title: "Lab Meeting: Dr. Sophie Rivara"
+    image: /assets/img/news/default-meeting.jpg
+    content: "We hosted [Dr. Sophie Rivara](https://www.horizons-mag.ch/editorial-team/), from the SNSF editorial team as an invited speaker for our lab meeting. She talked about Scientific communication in general and SNSF related-missions, as well as Career possibilities in scientific communication."
   
   - date: 2026-02-23    
     title: "Lab Meeting: Itzel Lopez Montoya"
