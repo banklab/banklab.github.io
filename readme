@@ -4,7 +4,7 @@ This guide provides a comprehensive overview of how to manage the content of the
 
 ## 1. Introduction to the New Workflow
 
-Previously, the website was updated by directly modifying files in the GitHub repository, which triggered a rebuild of the site on GitHub Pages. We have preserved this simple and effective workflow.
+Previously, the website was updated by directly modifying files in the GitHub repository, which triggered a rebuild of the site on GitHub Pages. This simple and effective workflow have been preserved.
 
 The core principle remains the same: **all website content is stored in files within the project's GitHub repository.** To add, edit, or delete content, you will modify these files directly through the GitHub web interface.
 
