@@ -36,7 +36,7 @@
 
   <!-- Team Grid -->
   <section class="max-w-(--breakpoint-xl) mx-auto px-4 sm:px-6 lg:px-8">
-    <h2 class="font-header text-3xl text-(--color-primary-dark) mb-8 border-b border-gray-200 pb-2">Team(In chronological order of joining the group)</h2>
+    <h2 class="font-header text-3xl text-(--color-primary-dark) mb-8 border-b border-gray-200 pb-2">Team (In chronological order of joining the group)</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       {#if meta.team}
         {#each meta.team as member}
