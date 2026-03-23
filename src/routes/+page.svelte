@@ -79,7 +79,7 @@ function closeModal() {
       
       <div class="flex gap-4 pt-4">
         <a href={base + "/news"} class="btn btn-primary">News</a>
-        <a href={base + "/about"} class="btn btn-outline">About Us</a>
+        <a href={base + "/people"} class="btn btn-outline">About Us</a>
       </div>
     </div>
     
