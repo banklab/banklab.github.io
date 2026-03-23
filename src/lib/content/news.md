@@ -8,12 +8,12 @@ items:
   - date: 2026-03-26    
     title: "Extracurricular seminar: Tim Barraclough"
     image: /assets/img/news/default-seminar.jpg
-    content: "We are hosting [Tim Barraclough](https://sites.google.com/view/barralab/home), for an extracurricular seminar at 15:15 in C159."
+    content: "We are hosting [Tim Barraclough](https://sites.google.com/view/barralab/home), from the University of Oxford (author of the book [The Evolutionary Biology of Species](https://sites.google.com/view/barralab/evolbiolspecies?authuser=0)) for an extracurricular seminar on the topic 'Evolutionary dynamics of bacterial communities in tree-holes in the wild'. The seminar takes place in D110 at 15:15. "
 
   - date: 2026-03-23    
     title: "Lab Meeting: Isabela do O"
     image: /assets/img/news/default-meeting.jpg
-    content: "We are hosting [Isabela do O](https://edpub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1249977) for our lab meeting with a talk titled 'Identifying local adaptation in complex population structures'."
+    content: "We are hosting [Isabela do O](https://edpub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1249977), from the University of Lausanne for a talk in our lab meeting, with title 'Identifying local adaptation in complex population structures'."
 
 
   # Past Events
