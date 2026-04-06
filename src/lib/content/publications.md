@@ -16,6 +16,9 @@ This list shows publications of lab members during their time in the lab. For ad
 
 ## 2026
 
+<u>L. Hablützel</u>, A. MacPherson, and <u>C. Bank</u>. **Repeatability of adaptation in interacting species**. biorxiv, doi: 10.64898/2026.04.01.715933. [preprint](https://www.biorxiv.org/content/10.64898/2026.04.01.715933v1)
+
+
 R.M. Schmid, E. Studer, <u>A. Kapopoulou</u>, B. Yilmaz and J. Becker. **Long-term persistence of clonal resistant and multidrug resistant E. coli despite absence of antimicrobial use in weaned dairy heifer rearing systems in Switzerland**. Veterinary Microbiology, doi: 10.1016/j.vetmic.2026.110884. [link](https://www.sciencedirect.com/science/article/abs/pii/S0378113526000155)
 
 ## 2025
@@ -46,11 +49,11 @@ W.F. Ramirez-Duarte, B.M. Moran, D.L. Powell, <u>C. Bank</u>, V.C. Sousa, G.G. R
 
 <u>J.A. Ayala-Lopez</u>, and <u>C. Bank</u>. **What can we gain from modeling complex hybrid incompatibilities?** Evolutionary Journal of the Linnean Society, doi: 10.1093/evolinnean/kzae034. [link](https://academic.oup.com/evolinnean/advance-article/doi/10.1093/evolinnean/kzae034/7924183?utm_source=authortollfreelink&utm_campaign=evolinnean&utm_medium=email&guestAccessKey=704c8ef7-2db8-4ea4-9d99-b6198057ad2a)
 
-<u>D. McLeod</u>, <u>C. Bank</u><sup>*</sup>, and S. Gandon<sup>*</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. PNAS, doi: 10.1073/pnas.2401578121. [link](https://www.pnas.org/doi/10.1073/pnas.2401578121) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
+<u>D. McLeod</u>, <u>C. Bank</u><sup>\*</sup>, and S. Gandon<sup>\*</sup>. **A multilocus perspective on the evolutionary dynamics of multistrain pathogens**. PNAS, doi: 10.1073/pnas.2401578121. [link](https://www.pnas.org/doi/10.1073/pnas.2401578121) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564465v1)
 
 <u>R.J. Jasper</u>, and S. Yeaman. **Local adaptation can cause both peaks and troughs in nucleotide diversity within populations.** G3, doi: 10.1093/g3journal/jkae225 [link](https://academic.oup.com/g3journal/article/14/11/jkae225/7759903)
 
-<u>M.A.D. Louro</u><sup>*#</sup>, C. Peneda<sup>*#</sup>, <u>C. Bank</u>, and M. Bettencourt-Dias<sup>#</sup>. **Adaptation of human cell populations to different levels of centriole amplification involves a two-step response**. [preprint](https://www.biorxiv.org/content/10.1101/2024.02.15.580424v2)
+<u>M.A.D. Louro</u><sup>\*#</sup>, C. Peneda<sup>\*#</sup>, <u>C. Bank</u>, and M. Bettencourt-Dias<sup>#</sup>. **Adaptation of human cell populations to different levels of centriole amplification involves a two-step response**. [preprint](https://www.biorxiv.org/content/10.1101/2024.02.15.580424v2)
 
 A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, and A. Wong. **Unpredictability of the fitness effects of antimicrobial resistance mutations across environments in Escherichia coli**. Molecular Biology and Evolution, doi: 10.1093/molbev/msae086. [link](https://doi.org/10.1093/molbev/msae086) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.25.563906v1)
 
