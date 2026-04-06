@@ -23,6 +23,8 @@ R.M. Schmid, E. Studer, <u>A. Kapopoulou</u>, B. Yilmaz and J. Becker. **Long-te
 
 ## 2025
 
+<u>L. Marrec</u>. **Impact of genotype-dependent dispersal on mutation fixation in subdivided populations.** Journal of Evolutionary Biology, doi: 10.1093/jeb/voaf134. [link](https://academic.oup.com/jeb/article/39/2/262/8323152?login=false&guestAccessKey=) or [preprint](https://www.biorxiv.org/content/10.1101/2023.11.29.569213v1.abstract)
+
 M. Joshi, P. Duchen, <u>A. Kapopoulou</u>, and S. Laurent. **Natural selection in Transcription Factor (TF)-DNA interaction motifs – A comparative and population genomics perspective**. Genome Biology and Evolution, doi: 10.1093/gbe/evaf212. [link](https://doi.org/10.1093/gbe/evaf212)
 
 <u>C. Chaparro-Pedraza</u>, and <u>C. Bank</u>. **Evolving life-history traits promote biodiversity via eco-evolutionary feedback mechanisms**. Plos Biology, doi: 10.1371/journal.pbio.3003492. [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003492) or [preprint](https://www.biorxiv.org/content/10.1101/2025.03.25.645227v1)
@@ -62,8 +64,6 @@ A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, and A. Wong. **Unpredictabi
 <u>A.-H. Ghenu</u><sup>\*#</sup>, <u>L. Marrec</u><sup>\*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** Frontiers in Ecology and Evolution, doi: 10.3389/fevo.2023.1313500. [link](https://www.frontiersin.org/articles/10.3389/fevo.2023.1313500/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=1313500) or [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
 ## 2023
-
-<u>L. Marrec</u>. **Quantifying the impact of genotype-dependent gene flow on mutation fixation in subdivided populations.** [preprint](https://www.biorxiv.org/content/10.1101/2023.11.29.569213v1.abstract)
 
 Y.-P. Lin, H.-W. Chen, P.-M. Yeh, S.S. Anand, J. Lin, <u>J. Li</u>, T. Noble, R. Nair, R. Schafleitner, M. Samsononova, E. Bishop-von-Wettberg, S. Nuzhdin, C.-T. Ting, R.J. Lawn, C.-R. Lee. **Demographic history and distinct selection signatures of two domestication genes in mungbean.** Plant Physiology, doi: 10.1093/plphys/kiad356. [link](https://academic.oup.com/plphys/article/193/2/1197/7202204)
 
