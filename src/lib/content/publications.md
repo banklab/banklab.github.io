@@ -9,7 +9,7 @@ Please [email](/people/) us for pdf copies of lab papers hidden behind a paywall
 
 This list shows publications of lab members during their time in the lab. For additional publications of individual lab members, see their personal pages.
 
-<sup>*</sup>equal contribution; <sup>#</sup>co-corresponding authors
+<sup>\*</sup>equal contribution; <sup>#</sup>co-corresponding authors
 
 
 <div class="layout-publications" markdown="1">
@@ -59,7 +59,7 @@ A. Hinz, <u>A. Amado</u>, R. Kassen, <u>C. Bank</u>, and A. Wong. **Unpredictabi
 
 <u>A. Amado</u>, and <u>C. Bank</u>. **Ecological tradeoffs lead to complex evolutionary trajectories and sustained diversity on dynamic fitness landscapes**. Journal of Physics A, doi: 10.1088/1751-8121/ad30d0. [link](https://iopscience.iop.org/article/10.1088/1751-8121/ad30d0/meta) or [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.561986v1.abstract)
 
-<u>A.-H. Ghenu</u><sup>*#</sup>, <u>L. Marrec</u><sup>*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** Frontiers in Ecology and Evolution, doi: 10.3389/fevo.2023.1313500. [link](https://www.frontiersin.org/articles/10.3389/fevo.2023.1313500/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=1313500) or [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
+<u>A.-H. Ghenu</u><sup>\*#</sup>, <u>L. Marrec</u><sup>\*#</sup>, and <u>C. Bank</u>. **Challenges and pitfalls of inferring microbial growth rates from lab cultures.** Frontiers in Ecology and Evolution, doi: 10.3389/fevo.2023.1313500. [link](https://www.frontiersin.org/articles/10.3389/fevo.2023.1313500/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=1313500) or [preprint](https://www.biorxiv.org/content/10.1101/2022.06.24.497412)
 
 ## 2023
 
@@ -77,9 +77,9 @@ D. Grbin, S. Geček, A. Miljanović, D. Pavić, S. Hudina, J. Žučko, <u>J. Rie
 
 <u>L. Marrec</u>, and <u>C. Bank</u>. **Evolutionary rescue in a fluctuating environment: periodic versus quasi-periodic environmental changes.** Proceedings of the Royal Society B, doi: 10.1098/rspb.2023.0770. [link](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0770) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)
 
-<u>A. Amado</u><sup>*#</sup>, <u>J. Li</u><sup>*#</sup>, and <u>C. Bank</u>. **STUN: forward-time Simulation on TUnable fitNess landscapes in recombining populations.** Bioinformatics Advances, doi:10.1093/bioadv/vbad164. [link](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad164/7424707?searchresult=1) or [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528681v1)
+<u>A. Amado</u><sup>\*#</sup>, <u>J. Li</u><sup>\*#</sup>, and <u>C. Bank</u>. **STUN: forward-time Simulation on TUnable fitNess landscapes in recombining populations.** Bioinformatics Advances, doi:10.1093/bioadv/vbad164. [link](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad164/7424707?searchresult=1) or [preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528681v1)
 
-<u>J. Li</u><sup>*#</sup>, <u>A. Amado</u><sup>*#</sup>, and <u>C. Bank</u>. **Rapid adaptation of recombining populations on tunable fitness landscapes.** Molecular Ecology, doi: 10.1111/mec.16900. [link](http://doi.org/10.1111/mec.16900) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.16.516770v1)
+<u>J. Li</u><sup>\*#</sup>, <u>A. Amado</u><sup>\*#</sup>, and <u>C. Bank</u>. **Rapid adaptation of recombining populations on tunable fitness landscapes.** Molecular Ecology, doi: 10.1111/mec.16900. [link](http://doi.org/10.1111/mec.16900) or [preprint](https://www.biorxiv.org/content/10.1101/2022.11.16.516770v1)
 
 <u>A.-H. Ghenu</u>, <u>A. Amado</u>, I. Gordo, and <u>C. Bank</u>. **Epistasis decreases with increasing antibiotic pressure but not temperature.** Philosophical Transactions B, doi: 10.1098/rstb.2022.0058. [link](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0058) or [preprint](https://www.biorxiv.org/content/10.1101/2022.09.01.506172)
 
@@ -115,9 +115,9 @@ M.S. Joshi, <u>A. Kapopoulou</u>, and S. Laurent. **Impact of genetic variation 
 
 R.K. Butlin, M.R. Servedio, C.M. Smadja, <u>C. Bank</u>,  N.H. Barton,  S.M. Flaxman, T. Giraud, R. Hopkins, E.L. Larson, M.E. Maan, J. Meier, R. Merrill, M.A.F. Noor, D. Ortiz‐Barrientos, A. Qvarnström. **Homage to Felsenstein 1981, or why are there so few/many species?** Evolution, doi: 10.1111/evo.14235. [link](https://doi.org/10.1111/evo.14235)
 
-<u>E. Berdan</u><sup>*#</sup>, <u>A. Blanckaert</u><sup>*#</sup>, R.K. Butlin, and <u>C. Bank</u>. **Deleterious mutation accumulation and the long-term fate of chromosomal inversions.** Plos Genetics, doi: 10.1371/journal.pgen.1009411. [link](https://doi.org/10.1371/journal.pgen.1009411) or [preprint](https://www.biorxiv.org/content/10.1101/606012v1)
+<u>E. Berdan</u><sup>\*#</sup>, <u>A. Blanckaert</u><sup>\*#</sup>, R.K. Butlin, and <u>C. Bank</u>. **Deleterious mutation accumulation and the long-term fate of chromosomal inversions.** Plos Genetics, doi: 10.1371/journal.pgen.1009411. [link](https://doi.org/10.1371/journal.pgen.1009411) or [preprint](https://www.biorxiv.org/content/10.1101/606012v1)
 
-P.A. Cote-Hammarlof<sup>*</sup>, <u>I. Fragata</u><sup>*</sup>, J.M. Flynn, K.B. Zeldovich, <u>C. Bank</u><sup>#</sup>, and D.N.A. Bolon<sup>#</sup>. **The Adaptive Potential of the Middle Domain of Yeast Hsp90.** Molecular Biology and Evolution, doi: 10.1093/molbev/msaa211. [link](https://doi.org/10.1093/molbev/msaa211) or [preprint](https://www.biorxiv.org/content/10.1101/832022v1)
+P.A. Cote-Hammarlof<sup>\*</sup>, <u>I. Fragata</u><sup>\*</sup>, J.M. Flynn, K.B. Zeldovich, <u>C. Bank</u><sup>#</sup>, and D.N.A. Bolon<sup>#</sup>. **The Adaptive Potential of the Middle Domain of Yeast Hsp90.** Molecular Biology and Evolution, doi: 10.1093/molbev/msaa211. [link](https://doi.org/10.1093/molbev/msaa211) or [preprint](https://www.biorxiv.org/content/10.1101/832022v1)
 
 ## 2020
 
@@ -155,9 +155,9 @@ J.A.G.M. de Visser<sup>#</sup>, S.F. Elena<sup>#</sup>, <u>I. Fragata</u><sup>#<
 
 <u>A. Blanckaert</u>, and J. Hermisson. **The limits to parapatric speciation II: strengthening a preexisting genetic barrier to gene flow in parapatry.** Genetics, doi: 10.1534/genetics.117.300652. [link](https://doi.org/10.1534/genetics.117.300652) or [preprint](https://doi.org/10.1101/266098)
 
-<u>I. Fragata</u><sup>*#</sup>, S. Matuszewski<sup>*#</sup>, <u>M.A. Schmitz</u>, T. Bataillon, J.D. Jensen, and <u>C. Bank</u>. **The fitness landscape of the codon space across environments.** Heredity, doi: 10.1038/s41437-018-0125-7. [link](http://dx.doi.org/10.1038/s41437-018-0125-7) or [preprint](https://doi.org/10.1101/252395)
+<u>I. Fragata</u><sup>\*#</sup>, S. Matuszewski<sup>\*#</sup>, <u>M.A. Schmitz</u>, T. Bataillon, J.D. Jensen, and <u>C. Bank</u>. **The fitness landscape of the codon space across environments.** Heredity, doi: 10.1038/s41437-018-0125-7. [link](http://dx.doi.org/10.1038/s41437-018-0125-7) or [preprint](https://doi.org/10.1101/252395)
 
-<u>A.-H. Ghenu</u><sup>*</sup>, <u>A. Blanckaert</u><sup>*</sup>, R.K. Butlin, J. Kulmuni, and <u>C. Bank</u>. **Conflict between heterozygote advantage and hybrid incompatibility in haplodiploids (and sex chromosomes).** Molecular Ecology, doi: 10.1111/mec.14482. [link](http://onlinelibrary.wiley.com/doi/10.1111/mec.14482/abstract) or [preprint](https://doi.org/10.1101/196469) 
+<u>A.-H. Ghenu</u><sup>\*</sup>, <u>A. Blanckaert</u><sup>\*</sup>, R.K. Butlin, J. Kulmuni, and <u>C. Bank</u>. **Conflict between heterozygote advantage and hybrid incompatibility in haplodiploids (and sex chromosomes).** Molecular Ecology, doi: 10.1111/mec.14482. [link](http://onlinelibrary.wiley.com/doi/10.1111/mec.14482/abstract) or [preprint](https://doi.org/10.1101/196469) 
 
 ## 2017
 
@@ -169,13 +169,13 @@ S. Matuszewski, L. Ormond, <u>C. Bank</u>, and J.D. Jensen. **Two sides of the s
 
 ## 2016
 
-<u>C. Bank</u><sup>*</sup>, S. Matuszewski<sup>*</sup>, R.T. Hietpas, and J.D. Jensen. **On the (un)predictability of a large intragenic fitness landscape.** Proceedings of the National Academy of Sciences, doi: 10.1073/pnas.1612676113. [link](https://doi.org/10.1073/pnas.1612676113) or [preprint](https://doi.org/10.1101/048769)
+<u>C. Bank</u><sup>\*</sup>, S. Matuszewski<sup>\*</sup>, R.T. Hietpas, and J.D. Jensen. **On the (un)predictability of a large intragenic fitness landscape.** Proceedings of the National Academy of Sciences, doi: 10.1073/pnas.1612676113. [link](https://doi.org/10.1073/pnas.1612676113) or [preprint](https://doi.org/10.1101/048769)
 
 <u>C. Bank</u>, N. Renzette, P. Liu, S. Matuszewski, H. Shim, M. Foll, D.N.A. Bolon, K.B. Zeldovich, T.F. Kowalik, R.W. Finberg, J.P. Wang<sup>#</sup>, and J.D. Jensen<sup>#</sup>. **An experimental evaluation of drug-induced mutational meltdown as an antiviral treatment strategy.** Evolution, doi: 10.1111/evo.13041. [link](https://doi.org/10.1111/evo.13041) or [preprint](https://doi.org/10.1101/048934)
 
 K.K. Irwin, S. Laurent, S. Matuszewski, S. Vuilleumier, L. Ormond, H. Shim, <u>C. Bank</u>, and J.D. Jensen. **On the importance of skewed offspring distributions and background selection in viral population genetics.** Heredity, doi: 10.1038/hdy.2016.58 [link](https://doi.org/10.1038/hdy.2016.58) or [preprint](https://doi.org/10.1101/048975). Read our summary of this article [here](https://evoldynamics.org/2016/12/05/on-the-importance-of-skewed-offspring-distributions-and-background-selection-in-viral-population-genetics/).
 
-S. Matuszewski<sup>*#</sup>, M.E. Hildebrandt<sup>*</sup>, <u>A.-H. Ghenu</u>, J.D. Jensen, and <u>C. Bank</u><sup>#</sup>. **A statistical guide to the design of deep mutational scanning experiments.** Genetics, doi: 10.1534/genetics.116.190462. [link](https://doi.org/10.1534/genetics.116.190462) or [preprint](https://doi.org/10.1101/048892)
+S. Matuszewski<sup>\*#</sup>, M.E. Hildebrandt<sup>\*</sup>, <u>A.-H. Ghenu</u>, J.D. Jensen, and <u>C. Bank</u><sup>#</sup>. **A statistical guide to the design of deep mutational scanning experiments.** Genetics, doi: 10.1534/genetics.116.190462. [link](https://doi.org/10.1534/genetics.116.190462) or [preprint](https://doi.org/10.1101/048892)
 
 L. Jiang, P. Liu, <u>C. Bank</u>, N. Renzette, K. Prachanronarong, L.S. Yilmaz, D.R. Caffrey, K.B. Zeldovich, C.A. Schiffer, T.F. Kowalik, J.D. Jensen, R.W. Finberg, J.P. Wang<sup>#</sup>, and D.N.A. Bolon<sup>#</sup>. **A balance between inhibitor binding and substrate processing confers influenza drug resistance.** Journal of Molecular Biology, doi: 10.1016/j.jmb.2015.11.027. [link](https://doi.org/10.1016/j.jmb.2015.11.027)
 
@@ -189,13 +189,13 @@ L. Jiang, P. Liu, <u>C. Bank</u>, N. Renzette, K. Prachanronarong, L.S. Yilmaz, 
 
 <u>C. Bank</u>, R.T. Hietpas, A. Wong, D.N.A. Bolon<sup>#</sup>, and J.D. Jensen<sup>#</sup>. **A Bayesian MCMC approach to assess the complete distribution of fitness effects of new mutations: uncovering the potential for adaptive walks in challenging environments.** Genetics, doi: 10.1534/genetics.113.156190. [link](https://doi.org/10.1534/genetics.113.156190)
 
-M. Foll<sup>*</sup>, Y.-P. Poh<sup>*</sup>, N. Renzette, A. Ferrer-Admetlla, <u>C. Bank</u>, H. Shim, A.-S. Malaspinas, G. Ewing, D. Wegmann, D.R. Caffrey, K.B. Zeldovich, D.N. Bolon, J. Wang, T.F. Kowalik, C.A. Schiffer, R.W. Finberg, and J.D. Jensen. **Influenza virus drug resistance: a time-sampled population-genetics perspective.** PLOS Genetics, doi: 10.1371/journal.pgen.1004185. [link](https://doi.org/10.1371/journal.pgen.1004185)
+M. Foll<sup>\*</sup>, Y.-P. Poh<sup>\*</sup>, N. Renzette, A. Ferrer-Admetlla, <u>C. Bank</u>, H. Shim, A.-S. Malaspinas, G. Ewing, D. Wegmann, D.R. Caffrey, K.B. Zeldovich, D.N. Bolon, J. Wang, T.F. Kowalik, C.A. Schiffer, R.W. Finberg, and J.D. Jensen. **Influenza virus drug resistance: a time-sampled population-genetics perspective.** PLOS Genetics, doi: 10.1371/journal.pgen.1004185. [link](https://doi.org/10.1371/journal.pgen.1004185)
 
 O. Seehausen, R.K. Butlin, I. Keller, C. Wagner, J. Boughman, P. Hohenlohe, C. Peichel, G.-P. Saetre, <u>C. Bank</u>, A. Brännström, A. Brelsford, C. Clarkson, F. Eroukhmanoff, J.L. Feder, M.C. Fischer, A.D. Foote, P. Franchini, C.D. Jiggins, F.C. Jones, A.K. Lindholm, K. Lucek, M.E. Maan, D.A. Marques, S.H. Martin, B. Matthews, J.I. Meier, M. Möst, M.W. Nachman, E. Nonaka, C.L. Peichel, D.J. Rennison, G.-P. Saetre, J. Schwarzer, C.E. Wagner, E.T. Watson, A.M. Westram, and A. Widmer. **Genomics and the origin of species.** Nature Reviews Genetics, doi: 10.1038/nrg3644. [link](https://doi.org/10.1038/nrg3644)
 
 ## 2013
 
-R.T. Hietpas<sup>*</sup>, <u>C. Bank</u><sup>*</sup>, J.D. Jensen<sup>#</sup>, and D.N.A. Bolon<sup>#</sup>. **Shifting fitness landscapes in response to altered environments.** Evolution, doi: 10.1111/evo.12207. [link](https://doi.org/10.1111/evo.12207)
+R.T. Hietpas<sup>\*</sup>, <u>C. Bank</u><sup>\*</sup>, J.D. Jensen<sup>#</sup>, and D.N.A. Bolon<sup>#</sup>. **Shifting fitness landscapes in response to altered environments.** Evolution, doi: 10.1111/evo.12207. [link](https://doi.org/10.1111/evo.12207)
 
 ## 2012
 
