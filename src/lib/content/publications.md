@@ -15,6 +15,8 @@ This list shows publications of lab members during their time in the lab. For ad
 <div class="layout-publications" markdown="1">
 
 ## 2026
+M. Srivastava, <u>C. Bank</u>, J. Krug, and <u>S.G. Das</u>. **Evolution as fitness landscape navigation: concepts, measures, and emerging questions**. Submitted.
+
 
 <u>L. Hablützel</u>, A. MacPherson, and <u>C. Bank</u>. **Repeatability of adaptation in interacting species**. biorxiv, doi: 10.64898/2026.04.01.715933. [preprint](https://www.biorxiv.org/content/10.64898/2026.04.01.715933v1)
 
