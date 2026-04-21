@@ -15,10 +15,10 @@ This list shows publications of lab members during their time in the lab. For ad
 <div class="layout-publications" markdown="1">
 
 ## 2026
-M. Srivastava, <u>C. Bank</u>, J. Krug, and <u>S.G. Das</u>. **Evolution as fitness landscape navigation: concepts, measures, and emerging questions**. Submitted.
+M. Srivastava, <u>C. Bank</u>, J. Krug, and <u>S.G. Das</u>. **Evolution as fitness landscape navigation: concepts, measures, and emerging questions**. [preprint](https://arxiv.org/abs/2604.17036)
 
 
-<u>L. Hablützel</u>, A. MacPherson, and <u>C. Bank</u>. **Repeatability of adaptation in interacting species**. biorxiv, doi: 10.64898/2026.04.01.715933. [preprint](https://www.biorxiv.org/content/10.64898/2026.04.01.715933v1)
+<u>L. Hablützel</u>, A. MacPherson, and <u>C. Bank</u>. **Repeatability of adaptation in interacting species**. [preprint](https://www.biorxiv.org/content/10.64898/2026.04.01.715933v1)
 
 
 R.M. Schmid, E. Studer, <u>A. Kapopoulou</u>, B. Yilmaz and J. Becker. **Long-term persistence of clonal resistant and multidrug resistant E. coli despite absence of antimicrobial use in weaned dairy heifer rearing systems in Switzerland**. Veterinary Microbiology, doi: 10.1016/j.vetmic.2026.110884. [link](https://www.sciencedirect.com/science/article/abs/pii/S0378113526000155)
