@@ -15,6 +15,9 @@ This list shows publications of lab members during their time in the lab. For ad
 <div class="layout-publications" markdown="1">
 
 ## 2026
+
+<u>T. Fuqua</u> and N. Vakirlis. **Emergence biases in molecular evolution**. [preprint](https://arxiv.org/abs/2604.20477)
+
 M. Srivastava, <u>C. Bank</u>, J. Krug, and <u>S.G. Das</u>. **Evolution as fitness landscape navigation: concepts, measures, and emerging questions**. [preprint](https://arxiv.org/abs/2604.17036)
 
 
