@@ -3,4 +3,4 @@ layout: default
 title: About Us
 permalink: /about/
 ---
-This page is under construction.
+This page is NOW ACTIVE.
