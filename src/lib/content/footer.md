@@ -23,4 +23,7 @@ sections:
       href: "/contact"
     - text: "Funding"
       href: "/funding"
+  - links:
+    - text: "About"
+      href: "/about"
 ---
