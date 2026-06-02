@@ -20,9 +20,9 @@ This list shows publications of lab members during their time in the lab. For ad
 
 M. Srivastava, <u>C. Bank</u>, J. Krug, and <u>S.G. Das</u>. **Evolution as fitness landscape navigation: concepts, measures, and emerging questions**. [preprint](https://arxiv.org/abs/2604.17036)
 
-
 <u>L. Hablützel</u>, A. MacPherson, and <u>C. Bank</u>. **Repeatability of adaptation in interacting species**. [preprint](https://www.biorxiv.org/content/10.64898/2026.04.01.715933v1)
 
+<u>T. Fuqua</u> and A. Wagner. **De novo promoters emerge more readily from random DNA than from genomic DNA**. Science Advances, doi: 10.1126/sciadv.aec2554 [link](https://www.science.org/doi/full/10.1126/sciadv.aec2554?af=R)
 
 R.M. Schmid, E. Studer, <u>A. Kapopoulou</u>, B. Yilmaz and J. Becker. **Long-term persistence of clonal resistant and multidrug resistant E. coli despite absence of antimicrobial use in weaned dairy heifer rearing systems in Switzerland**. Veterinary Microbiology, doi: 10.1016/j.vetmic.2026.110884. [link](https://www.sciencedirect.com/science/article/abs/pii/S0378113526000155)
 
