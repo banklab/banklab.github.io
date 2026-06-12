@@ -4,7 +4,29 @@ items:
 
 
   # Upcoming Events
+  
+  # Past Events
 
+  - date: 2026-06-01    
+    title: "Lab Meeting: Moya Liefering"
+    image: /assets/img/news/default-meeting.jpg
+    content: "We are hosting Moya Liefering, Master Student at the University of Leiden, for a talk in our lab meeting titled 'Simulating the evolutionary dynamics of compensatory mutations in lattice proteins'."
+  
+  - date: 2026-05-11    
+    title: "Lab Meeting: Jonna Kulmuni"
+    image: /assets/img/news/default-meeting.jpg
+    content: "We are hosting [Jonna Kulmuni](https://scholar.google.com/citations?user=KuDNr7EAAAAJ&hl=en), Associate Professor at the [University of Amsterdam](https://www.uva.nl/en/profile/k/u/j.k.kulmuni/j.k.kulmuni.html?cb#Research-Profile) for a talk in our lab meeting titled 'Predictability of hybrid evolution'."
+    
+  - date: 2026-04-22
+    title: "BTE Seminar: Jesse Lasky"
+    image: /assets/img/news/default-seminar.jpg
+    content: "We are hosting [Jesse Lasky](https://scholar.google.com/citations?user=D46i_aoAAAAJ&hl=de&oi=ao), Associate Professor at [Pennsylvania State University](https://science.psu.edu/bio/people/jrl35) for a BTE seminar titled 'Environmental adaptation in plant populations: genetics to application'. "
+   
+  - date: 2026-04-13    
+    title: "Lab Meeting: Patrick Heidbreder"
+    image: /assets/img/news/default-meeting.jpg
+    content: "We are hosting [Patrick Heidbreder](https://scholar.google.com/citations?user=Td-LkMoAAAAJ&hl=en), PhD student at the [University of Helsinki for a talk in our lab meeting titled 'Genomic incompatibilities are persistent barriers when speciation happens with gene flow in Formica ants'."
+    
   - date: 2026-03-26    
     title: "Extracurricular seminar: Tim Barraclough"
     image: /assets/img/news/default-seminar.jpg
@@ -14,9 +36,6 @@ items:
     title: "Lab Meeting: Isabela do O"
     image: /assets/img/news/default-meeting.jpg
     content: "We are hosting [Isabela do O](https://edpub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1249977), from the University of Lausanne for a talk in our lab meeting, with title 'Identifying local adaptation in complex population structures'."
-
-
-  # Past Events
 
   - date: 2026-03-16    
     title: "Lab Meeting: Dr. Sophie Rivara"
