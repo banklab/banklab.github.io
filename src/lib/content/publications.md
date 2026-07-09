@@ -16,6 +16,8 @@ This list shows publications of lab members during their time in the lab. For ad
 
 ## 2026
 
+S. Conforti, <u>A. Kapopoulou</u>, <u>C. Bank</u>, B. Koechle, B. Yilmaz, and J. Becker. **Extended-spectrum beta-lactamase (ESBL)-producing E. coli in livestock and free-roaming wildlife: a combined phenotyping whole-genome sequencing One Health approach**. Transboundary and Emerging Diseases, in press. [preprint](https://www.biorxiv.org/content/10.1101/2025.04.08.647752v1)
+
 <u>Z.M. Bailey</u>, R. Gualino, <u>C. Bank</u>, and M.P. Thakur. **Constant and variable warming differentially shape bacterial coexistence through phage-mediated interactions**. [preprint](https://www.biorxiv.org/content/10.64898/2026.06.14.732128v1.abstract)
 
 <u>T. Fuqua</u> and N. Vakirlis. **Emergence biases in molecular evolution**. [preprint](https://arxiv.org/abs/2604.20477)
@@ -39,8 +41,6 @@ M. Joshi, P. Duchen, <u>A. Kapopoulou</u>, and S. Laurent. **Natural selection i
 <u>L. Marrec</u>, and <u>C. Bank</u>. **Drivers of diversity within and between microbial communities during stochastic assembly.** Journal of the Royal Society Interface, doi: 10.1098/rsif.2025.0329. [link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2025.0329) or [preprint](https://www.biorxiv.org/content/10.1101/2024.11.19.624346v1)
 
 <u>R.J. Jasper</u><sup>#</sup>, <u>A. Kapopoulou</u>, S. Peischl, B. Yilmaz, J. Becker, and <u>C. Bank</u><sup>#</sup>. **Pervasive intraspecific genetic local adaptation within the natural gut microbiome**. biorxiv, doi: 10.1101/2025.06.06.658271. [preprint](https://www.biorxiv.org/cgi/content/short/2025.06.06.658271v1).
-
-S. Conforti, <u>A. Kapopoulou</u>, <u>C. Bank</u>, B. Koechle, B. Yilmaz, and J. Becker. **Extended-spectrum beta-lactamase (ESBL)-producing E. coli in livestock and free-roaming wildlife: a combined phenotyping whole-genome sequencing One Health approach**. biorxiv, doi: 10.1101/2025.04.08.647752. [preprint](https://www.biorxiv.org/content/10.1101/2025.04.08.647752v1)
 
 <u>L. Hablützel</u>, C. Mullon, and M. Schmid. **The evolution of local adaptation in long-lived species.** Evolution, doi: 10.1093/evolut/qpaf031. [link](https://academic.oup.com/evolut/advance-article-abstract/doi/10.1093/evolut/qpaf031/8051330)
 

@@ -10,7 +10,7 @@ items:
   - date: 2026-06-01    
     title: "Lab Meeting: Moya Liefering"
     image: /assets/img/news/default-meeting.jpg
-    content: "We are hosting Moya Liefering, Master Student at the University of Leiden, for a talk in our lab meeting titled 'Simulating the evolutionary dynamics of compensatory mutations in lattice proteins'."
+    content: "We are hosting Moya Lieffering, Master Student at the University of Leiden, for a talk in our lab meeting titled 'Simulating the evolutionary dynamics of compensatory mutations in lattice proteins'."
   
   - date: 2026-05-11    
     title: "Lab Meeting: Jonna Kulmuni"
