@@ -16,6 +16,8 @@ This list shows publications of lab members during their time in the lab. For ad
 
 ## 2026
 
+<u>Z.M. Bailey</u>, R. Gualino, <u>C. Bank</u>, and M.P. Thakur. **Constant and variable warming differentially shape bacterial coexistence through phage-mediated interactions**. [preprint](https://www.biorxiv.org/content/10.64898/2026.06.14.732128v1.abstract)
+
 <u>T. Fuqua</u> and N. Vakirlis. **Emergence biases in molecular evolution**. [preprint](https://arxiv.org/abs/2604.20477)
 
 M. Srivastava, <u>C. Bank</u>, J. Krug, and <u>S.G. Das</u>. **Evolution as fitness landscape navigation: concepts, measures, and emerging questions**. [preprint](https://arxiv.org/abs/2604.17036)
