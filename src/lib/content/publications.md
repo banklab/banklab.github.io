@@ -16,7 +16,7 @@ This list shows publications of lab members during their time in the lab. For ad
 
 ## 2026
 
-S. Conforti, <u>A. Kapopoulou</u>, <u>C. Bank</u>, B. Koechle, B. Yilmaz, and J. Becker. **Extended-spectrum beta-lactamase (ESBL)-producing E. coli in livestock and free-roaming wildlife: a combined phenotyping whole-genome sequencing One Health approach**. Transboundary and Emerging Diseases, in press. [preprint](https://www.biorxiv.org/content/10.1101/2025.04.08.647752v1)
+S. Conforti, <u>A. Kapopoulou</u>, <u>C. Bank</u>, B. Koechle, B. Yilmaz, and J. Becker. **Extended-spectrum beta-lactamase (ESBL)-producing E. coli in livestock and free-roaming wildlife: a combined phenotyping whole-genome sequencing One Health approach**. Transboundary and Emerging Diseases, doi: 10.1155/tbed/9907660. [link](https://onlinelibrary.wiley.com/doi/10.1155/tbed/9907660) or  [preprint](https://www.biorxiv.org/content/10.1101/2025.04.08.647752v1)
 
 <u>Z.M. Bailey</u>, R. Gualino, <u>C. Bank</u>, and M.P. Thakur. **Constant and variable warming differentially shape bacterial coexistence through phage-mediated interactions**. [preprint](https://www.biorxiv.org/content/10.64898/2026.06.14.732128v1.abstract)
 
