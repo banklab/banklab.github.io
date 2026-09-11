@@ -7,7 +7,7 @@ items:
   
   # Past Events
   
-  - date: 2026-07-09    
+  - date: 2026-09-07    
     title: "Lab Meeting: Monica Golumbeanu"
     image: /assets/img/news/default-meeting.jpg
     content: "We hosted [Monica Golumbeanu](https://scholar.google.ch/citations?user=zRQrddgAAAAJ&hl=en&oi=ao), Senior Scientific Collaborator at the Swiss Tropical & Public Health Institute, for a talk in our lab meeting titled 'Modelling malaria from the genes to the globe to generate insights for policy'."
