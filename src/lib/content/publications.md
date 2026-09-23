@@ -16,11 +16,15 @@ This list shows publications of lab members during their time in the lab. For ad
 
 ## 2026
 
+<u>J.A. Ayala-López</u>, S. Peischl, and <u>C. Bank</u>. **The influence of incompatibilities and heterosis on hybrid population genetics**. biorxiv, doi: 10.64898/2026.08.04.742766. [preprint](https://www.biorxiv.org/content/10.64898/2026.08.04.742766v1)
+
 S. Conforti, <u>A. Kapopoulou</u>, <u>C. Bank</u>, B. Koechle, B. Yilmaz, and J. Becker. **Extended-spectrum beta-lactamase (ESBL)-producing E. coli in livestock and free-roaming wildlife: a combined phenotyping whole-genome sequencing One Health approach**. Transboundary and Emerging Diseases, doi: 10.1155/tbed/9907660. [link](https://onlinelibrary.wiley.com/doi/10.1155/tbed/9907660) or  [preprint](https://www.biorxiv.org/content/10.1101/2025.04.08.647752v1)
 
 <u>Z.M. Bailey</u>, R. Gualino, <u>C. Bank</u>, and M.P. Thakur. **Constant and variable warming differentially shape bacterial coexistence through phage-mediated interactions**. [preprint](https://www.biorxiv.org/content/10.64898/2026.06.14.732128v1.abstract)
 
-<u>T. Fuqua</u> and N. Vakirlis. **Emergence biases in molecular evolution**. [preprint](https://arxiv.org/abs/2604.20477)
+<u>T. Fuqua</u> and N. Vakirlis. **Emergence biases in molecular evolution**. Genome Biology and Evolution, doi: 10.1093/gbe/evag195. [link](https://academic.oup.com/gbe/article/18/8/evag195/8747342?login=false) or [preprint](https://arxiv.org/abs/2604.20477)
+
+<u>T. Fuqua</u> and A. Wagner. **De novo promoters emerge more readily from random DNA than from genomic DNA**. Science Advances, doi: 10.1126/sciadv.aec2554. [link](https://www.science.org/doi/full/10.1126/sciadv.aec2554)
 
 M. Srivastava, <u>C. Bank</u>, J. Krug, and <u>S.G. Das</u>. **Evolution as fitness landscape navigation: concepts, measures, and emerging questions**. [preprint](https://arxiv.org/abs/2604.17036)
 
