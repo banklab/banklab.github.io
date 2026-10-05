@@ -22,7 +22,7 @@ team:
     contact: "russell.jasper@unibe.ch"
     image: /assets/img/team/Russ_24.jpg
     links: "[Google Scholar](https://scholar.google.com/citations?user=QvrgVB0AAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0003-4275-1155)"
-  - name: Julio Ayala
+  - name: Julio Ayala López
     role: "PhD student"
     contact: "julio.ayalalopez@unibe.ch"
     image: /assets/img/team/Julio_26.jpg
@@ -52,14 +52,18 @@ team:
     role: "MSc thesis student"
     contact: "amo.ikiror [at] students.unibe.ch"
     image: /assets/img/team/Amo_26.jpg
-    
-
-associated:
   - name: Zachary Bailey
-    role: "Associated Postdoctoral researcher (from the [Terrestial Ecology Group](https://www.terr.iee.unibe.ch/research/index_eng.html) at IEE)"
+    role: "Postdoctoral researcher"
     contact: "zachary.bailey@unibe.ch"
     image: /assets/img/team/Zach_24.jpg
-    links: "[Google Scholar](https://scholar.google.com/citations?user=V5rDLCkAAAAJ&hl=en)"
+    links: "[Google Scholar](https://scholar.google.com/citations?user=V5rDLCkAAAAJ&hl=en)" 
+  - name: Moya Lieffering
+    role: "PhD student"
+    contact: "moya.lieffering@unibe.ch"
+    image: /assets/img/team/Moya_26.jpeg
+
+associated:
+  
   - name: Dhanya Bharath
     role: "Associated PhD student (from [Catalina Chaparro Pedraza](https://scholar.google.com/citations?user=e27luTMAAAAJ&hl=en&oi=ao)'s Group at EAWAG)"
     contact: "dhanya.bharath@students.unibe.ch"
